@@ -1,0 +1,83 @@
+{
+  "slug": "perungudi",
+  "name": "Perungudi",
+  "tagline": "Fast, honest AC care off OMR",
+  "headline": "AC Service in Perungudi, Built for OMR's Rental Pace",
+  "intro": [
+    "Perungudi sits in the busiest stretch of the OMR corridor — Tidel Park on one side, Thoraipakkam on the other, and thousands of rented flats, PGs and bachelor apartments in between. ACs here work for a living. They run through 40°C afternoons, fight marsh-side humidity drifting in from the Pallikaranai side, and swallow construction dust off the service roads. Airam AC Service keeps them running, with same-day slots and technicians who reach most of Perungudi in 60-90 minutes.",
+    "Half our Perungudi bookings come with a move attached. A tenant shifting out of Seevaram needs an uninstallation and a proper service record for the deposit. A landlord in Kandanchavadi wants the split unit deep-cleaned before the next occupant walks in. We handle both sides of that transaction: pricing agreed before work starts, GST-registered digital invoices you can forward for reimbursement, and up to a 90-day warranty on repairs so the handover holds.",
+    "Airam is family-run. Our founder learned the trade on service calls in his father's AC business before starting his own, and it shows in the details — background-verified, uniformed technicians, no surprise line items, and honest advice when a repair is not worth the money. We service every major brand you will find in a Perungudi flat: Daikin, LG, Voltas, Blue Star, Samsung, Carrier, Hitachi, O General, Mitsubishi Electric and Panasonic."
+  ],
+  "neighbourhoods": [
+    "Kandanchavadi",
+    "Seevaram",
+    "Perungudi MRTS Station area",
+    "OMR service road (Rajiv Gandhi Salai)",
+    "Perungudi Industrial Estate",
+    "Doshi Etopia and nearby apartment blocks",
+    "Thoraipakkam border",
+    "Taramani and Tidel Park side"
+  ],
+  "challenges": [
+    {
+      "title": "Dust-choked filters from OMR traffic",
+      "description": "Flats facing the service road pull in a steady film of road and construction dust. Filters clog within weeks, airflow drops, and power bills creep up while cooling gets worse."
+    },
+    {
+      "title": "Marsh-side humidity and coil corrosion",
+      "description": "Damp air off the Pallikaranai marsh keeps coils wet and corrodes fins faster than in inland areas. The first sign is usually a musty smell when the AC starts."
+    },
+    {
+      "title": "ACs left idle between tenants",
+      "description": "Rental churn means units sit switched off for weeks, then run twelve hours a day for a new occupant. Gas seeps out through dried seals, and capacitors fail on restart."
+    },
+    {
+      "title": "Voltage swings in older blocks and PGs",
+      "description": "Shared metering and overloaded wiring in older buildings and PG accommodation cause voltage fluctuations that stress PCBs and compressors, especially on peak summer evenings."
+    }
+  ],
+  "popularServices": [
+    "split-ac-service",
+    "ac-deep-cleaning",
+    "ac-installation",
+    "ac-uninstallation",
+    "ac-gas-filling",
+    "ac-water-leakage"
+  ],
+  "testimonials": [
+    {
+      "name": "Vignesh S.",
+      "area": "Seevaram",
+      "quote": "Booked an uninstallation while shifting flats. The technician came the same evening, capped the pipes properly and sent a digital invoice my landlord accepted for the deposit without a fuss.",
+      "rating": 5
+    },
+    {
+      "name": "Divya M.",
+      "area": "Kandanchavadi",
+      "quote": "My one-year-old split AC smelt musty every morning. They did a jet clean for ₹799, showed me the dirt washed off the coil, and the smell is completely gone.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How quickly can a technician reach Perungudi?",
+      "answer": "We offer same-day slots across Perungudi, and technicians typically reach homes in covered areas within 60-90 minutes. Flats along the OMR service road, Seevaram and Kandanchavadi are all on our regular circuit."
+    },
+    {
+      "question": "Do you cover all parts of Perungudi?",
+      "answer": "Yes. We serve the full stretch from the Taramani border to Thoraipakkam, including Seevaram, Kandanchavadi, the MRTS station area, the industrial estate and the apartment blocks off the OMR service road."
+    },
+    {
+      "question": "What AC problems are most common in Perungudi?",
+      "answer": "Three come up constantly: coil corrosion from marsh-side humidity, dust-clogged filters from OMR traffic, and gas loss in units left idle between tenants. A seasonal deep clean and a pre-summer check prevent most of them."
+    },
+    {
+      "question": "Is AC service pricing in Perungudi the same as the rest of Chennai?",
+      "answer": "Yes, our rates are uniform across the city. Basic split AC service starts from ₹499, deep cleaning from ₹799 and gas top-ups from ₹1,499, all confirmed upfront. Every job is billed on a GST digital invoice, which helps when a landlord is reimbursing the cost."
+    }
+  ],
+  "meta": {
+    "title": "AC Service in Perungudi | Airam AC Service",
+    "description": "AC service in Perungudi with same-day slots, 60-90 minute reach, upfront pricing from ₹499 and GST digital invoices landlords accept. Book a visit today."
+  }
+}

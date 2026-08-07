@@ -1,0 +1,85 @@
+{
+  "slug": "tambaram",
+  "name": "Tambaram",
+  "tagline": "Serious cooling for Chennai's southern rail hub",
+  "headline": "AC Service in Tambaram: Built for GST Road Dust and 40°C Summers",
+  "intro": [
+    "Tambaram holds heat longer than most of Chennai. Dense apartment blocks in East and West Tambaram, concrete on every side, and a steady stream of GST Road traffic turn the suburb into a heat island by late March. Add road dust settling on outdoor units and you get ACs that work harder here than almost anywhere in the city. Airam's technicians service Tambaram every week, and we plan for exactly these conditions.",
+    "The housing here tells its own story. New apartment towers near Camp Road and Selaiyur sit beside older independent houses in West Tambaram, and rental flats cluster around the Sanatorium station for the rail commute. Families in Tambaram compare quotes before they book, and we respect that. Our pricing is fixed before work starts — basic split AC service from ₹499, deep cleaning from ₹799 — with a GST invoice sent straight to your phone.",
+    "Every Airam technician is background-verified, uniformed, and trained on all major brands — Daikin, LG, Voltas, Blue Star, Samsung, Carrier, Hitachi, O General, Mitsubishi Electric, and Panasonic. We hold same-day slots for Tambaram and typically reach homes within 60-90 minutes in covered areas. Repairs carry up to a 90-day service warranty, so a fix in April still stands when the October humidity arrives."
+  ],
+  "neighbourhoods": [
+    "East Tambaram",
+    "West Tambaram",
+    "Tambaram Sanatorium",
+    "Selaiyur",
+    "Camp Road",
+    "Chitlapakkam",
+    "Irumbuliyur",
+    "Mudichur Road",
+    "New Perungalathur",
+    "GST Road commercial stretch"
+  ],
+  "challenges": [
+    {
+      "title": "Dust-choked units along GST Road",
+      "description": "Condensers facing GST Road and Mudichur Road collect a film of traffic dust within months, strangling airflow and pushing power bills up. A jet wash of the coils restores the unit's breathing room."
+    },
+    {
+      "title": "Heat-island load in dense East Tambaram blocks",
+      "description": "Wall-to-wall concrete keeps nights warm, so ACs in top-floor flats run ten hours straight through May. That pace exposes weak gas levels and tired capacitors quickly."
+    },
+    {
+      "title": "Voltage swings that punish control boards",
+      "description": "Evening voltage fluctuations on Tambaram's older supply lines trip inverter ACs and burn PCBs. We diagnose the board first and repair from ₹1,499 instead of pushing a replacement."
+    },
+    {
+      "title": "Monsoon damp and blocked drain lines",
+      "description": "Northeast monsoon humidity breeds fungal growth inside indoor units and clogs drain pipes in ground-floor Selaiyur homes. The first sign is usually water dripping from the blower."
+    }
+  ],
+  "popularServices": [
+    "split-ac-service",
+    "ac-deep-cleaning",
+    "ac-gas-filling",
+    "ac-cooling-issues",
+    "ac-pcb-repair",
+    "amc-plans"
+  ],
+  "testimonials": [
+    {
+      "name": "Karthikeyan S.",
+      "area": "Selaiyur",
+      "quote": "Our top-floor flat near Camp Road junction was barely cooling by May. The technician found low gas and a filthy condenser, showed me the pressure reading, and finished the same afternoon.",
+      "rating": 5
+    },
+    {
+      "name": "Revathi M.",
+      "area": "West Tambaram",
+      "quote": "Booked a deep clean for two splits before summer. They laid sheets, jet-washed both units on the balcony, and sent the invoice to my phone. Charged exactly what was quoted, ₹799 per unit.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How quickly can you reach homes in Tambaram?",
+      "answer": "We hold same-day slots for Tambaram and typically reach within 60-90 minutes in covered areas. East Tambaram, West Tambaram, Selaiyur and Camp Road all sit inside our regular service loop."
+    },
+    {
+      "question": "Do you cover areas beyond Tambaram itself?",
+      "answer": "Yes. Our Tambaram team serves Selaiyur, Chitlapakkam, Irumbuliyur, Mudichur and New Perungalathur, along with shops and offices on the GST Road stretch. If you are between these pockets, mention your nearest landmark while booking."
+    },
+    {
+      "question": "What AC problems do you see most often in Tambaram?",
+      "answer": "Dust-clogged condensers on road-facing balconies, weak cooling in top-floor flats during peak summer, and PCB faults after voltage fluctuations. Most visits end with a coil wash, a gas top-up from ₹1,499, or a board repair rather than a full replacement."
+    },
+    {
+      "question": "Is your pricing in Tambaram the same as central Chennai?",
+      "answer": "Yes, one rate card across the city. Basic split AC service starts from ₹499, deep cleaning from ₹799, and residential AMC plans from ₹1,199 per unit per year. You see the price before work begins and receive a GST invoice after."
+    }
+  ],
+  "meta": {
+    "title": "AC Service in Tambaram | Airam AC Service",
+    "description": "Expert AC service in Tambaram — East, West, Selaiyur and Camp Road. Uniformed technicians, upfront pricing from ₹499, same-day slots. Book your visit today."
+  }
+}

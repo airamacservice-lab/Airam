@@ -1,0 +1,85 @@
+{
+  "slug": "medavakkam",
+  "name": "Medavakkam",
+  "tagline": "Honest AC care for Medavakkam's new homes",
+  "headline": "AC Service in Medavakkam, Built for New Apartments and First ACs",
+  "intro": [
+    "Medavakkam has changed faster than almost any pocket of south Chennai. New 2 and 3 BHK blocks keep rising off Velachery Main Road and the Medavakkam-Sholinganallur stretch, and most of them come with a split AC in every bedroom. For many families here, this is the first AC they have ever owned. Airam AC Service was built for exactly this moment: a GST-registered, family-run team that explains what your machine needs and why, before touching a single panel.",
+    "Here is what nobody tells first-time owners. A builder-fitted AC still needs its first proper service within 12 months, or the manufacturer warranty can quietly lapse. Construction dust from the next tower over packs into your filters faster than in older localities. And the damp air drifting in from the Pallikaranai marsh side coats indoor coils with grime that a quick rinse never removes. A correct first-year service covers filters, both coils, the drain line, gas pressure and amperage, with readings shown to you.",
+    "Our background-verified, uniformed technicians reach most Medavakkam addresses in 60-90 minutes, with same-day slots through the summer rush. You get the price upfront, from ₹499 for a standard split service, a digital invoice for your records, and up to a 90-day warranty on repairs. We service every brand the builders install here: Daikin, LG, Voltas, Blue Star, Samsung, Carrier, Hitachi, O General, Mitsubishi Electric and Panasonic."
+  ],
+  "neighbourhoods": [
+    "Medavakkam Koot Road",
+    "Ram Nagar",
+    "Vivekananda Nagar",
+    "Perumbakkam",
+    "Sittalapakkam",
+    "Jalladianpet",
+    "Vengaivasal",
+    "Gowrivakkam",
+    "Santhosapuram",
+    "Ottiyambakkam"
+  ],
+  "challenges": [
+    {
+      "title": "Construction dust from ongoing building work",
+      "description": "With new towers coming up on nearly every street, fine cement dust clogs filters and indoor coils within weeks. We recommend a filter check every month during active construction nearby, and a deep clean from ₹799 each season."
+    },
+    {
+      "title": "Marsh-side humidity and coil grime",
+      "description": "Damp air from the Pallikaranai wetland side leaves a sticky film on evaporator coils that traps dust and breeds mould. The result is a musty smell at startup and cooling that fades by afternoon."
+    },
+    {
+      "title": "Voltage swings on a fast-growing grid",
+      "description": "Medavakkam's load has grown quicker than its supply infrastructure, and evening voltage dips stress PCBs and compressors. A stabiliser check is part of every Airam service visit."
+    },
+    {
+      "title": "First-year neglect on builder-fitted units",
+      "description": "Many flats are handed over with ACs that were installed months before anyone moved in. Skipping the first annual service risks the manufacturer warranty and lets small drain blockages become water leakage over your fresh paint."
+    }
+  ],
+  "popularServices": [
+    "split-ac-service",
+    "ac-deep-cleaning",
+    "ac-installation",
+    "ac-water-leakage",
+    "ac-gas-filling",
+    "amc-plans"
+  ],
+  "testimonials": [
+    {
+      "name": "Divya S.",
+      "area": "Vivekananda Nagar",
+      "quote": "Our first flat, our first AC, and honestly we knew nothing. The technician showed us the gas pressure reading, cleaned both coils and explained the filter routine. Worth every rupee of the ₹499.",
+      "rating": 5
+    },
+    {
+      "name": "Karthik R.",
+      "area": "Perumbakkam",
+      "quote": "Bedroom AC was dripping onto the new false ceiling. They came the same day, cleared the drain line, re-sloped the pipe and gave a digital invoice with a 90-day warranty. No drips since.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How quickly can a technician reach my apartment in Medavakkam?",
+      "answer": "We reach most addresses across Medavakkam, Perumbakkam and Sittalapakkam in 60-90 minutes. Same-day slots are available, which matters when a bedroom AC gives up on a 40°C afternoon."
+    },
+    {
+      "question": "Do you cover the newer gated communities towards Ottiyambakkam and Ponmar?",
+      "answer": "Yes. We regularly service apartment communities along the Medavakkam-Sholinganallur and Medavakkam-Mambakkam roads, including Ottiyambakkam, Ponmar and Vengaivasal. Our technicians carry ID and arrive in uniform, so society security clearance is straightforward."
+    },
+    {
+      "question": "What should a first-year AC service in Medavakkam include?",
+      "answer": "A proper first service covers filter and blower cleaning, both coils, drain line flushing, gas pressure and amperage checks, and a look at your stabiliser. Given the construction dust and marsh humidity here, we also recommend a deep clean from ₹799 before your second summer."
+    },
+    {
+      "question": "Is your pricing in Medavakkam the same as central Chennai?",
+      "answer": "Identical. A standard split AC service starts from ₹499, deep cleaning from ₹799, gas top-up from ₹1,499 and residential AMC plans from ₹1,199 per unit per year. The price is confirmed upfront and your digital invoice matches it exactly."
+    }
+  ],
+  "meta": {
+    "title": "AC Service in Medavakkam | Airam AC Service",
+    "description": "Expert AC service in Medavakkam for new apartments and first-time AC owners. Same-day slots, upfront pricing from ₹499, 90-day warranty. Book Airam today."
+  }
+}

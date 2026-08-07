@@ -1,0 +1,140 @@
+{
+  "slug": "window-ac-service",
+  "name": "Window AC Service & Repair",
+  "shortName": "Window AC",
+  "icon": "Wind",
+  "category": "repair",
+  "tagline": "Keep the old workhorse humming",
+  "headline": "Your Old Window AC Still Has Years Left in It",
+  "summary": "Window ACs are simple machines, and simple machines last — if someone clears the dust. We service, deep-clean and repair window units across Chennai, from rental flats in Triplicane to old family homes in Mylapore. Before you price a replacement, let us look at yours — most just need a proper clean and a gas check.",
+  "highlights": [
+    "Service from ₹449",
+    "Up to 90-day warranty",
+    "Same-day slots available"
+  ],
+  "symptoms": [
+    {
+      "title": "Airflow has gone weak",
+      "description": "Chennai's dust packs into the filter and blower until the unit pushes warm, feeble air no matter what the knob says."
+    },
+    {
+      "title": "Louder rattle and hum",
+      "description": "Loose mounting bolts, a worn blower bearing or a tired fan motor turn a steady drone into a nightly disturbance."
+    },
+    {
+      "title": "Cooling has faded",
+      "description": "A coil caked in grime or refrigerant lost through a slow leak makes the compressor run flat out for half the cooling."
+    },
+    {
+      "title": "Water dripping into the room",
+      "description": "A clogged drain pan or a unit that has shifted off its tilt sends condensate down your wall instead of outside."
+    },
+    {
+      "title": "Musty smell on startup",
+      "description": "Monsoon damp breeds mould on the evaporator coil, and every restart blows that smell straight into the bedroom."
+    },
+    {
+      "title": "Trips the MCB",
+      "description": "An ageing compressor or weak capacitor draws heavy current — made worse by voltage fluctuations — and keeps knocking the breaker out."
+    }
+  ],
+  "pricing": [
+    {
+      "label": "Basic service",
+      "price": "from ₹449",
+      "note": "Filter and grille wash, coil dusting, drain check and a full cooling test."
+    },
+    {
+      "label": "Deep clean",
+      "price": "from ₹799",
+      "note": "Chassis pulled from its frame, coils jet-washed, blower degreased, tray flushed."
+    },
+    {
+      "label": "Gas top-up",
+      "price": "from ₹1,499",
+      "note": "Leak inspection, pressure test and refrigerant top-up to the correct charge."
+    },
+    {
+      "label": "Repairs",
+      "price": "from ₹599",
+      "note": "Capacitors, thermostats, fan motors and compressor work — quoted upfront, before we start."
+    }
+  ],
+  "inclusions": [
+    "Filter and front grille wash",
+    "Evaporator and condenser coil clean",
+    "Drain pan and tray flush",
+    "Blower fan dust removal",
+    "Cooling and current-draw test",
+    "Thermostat and control check",
+    "Digital invoice on completion",
+    "Up to 90-day warranty on repairs"
+  ],
+  "benefits": [
+    {
+      "title": "Raised on window units",
+      "description": "Our founder spent years on service calls in his father's AC business, when window ACs were most of the work. Rotary thermostats, sealed compressors, discontinued models — our technicians have seen them all."
+    },
+    {
+      "title": "Technicians you can let in",
+      "description": "Every technician is background-verified and arrives in uniform. That matters in a rented flat, or when the person opening the door is your mother."
+    },
+    {
+      "title": "Repair-first honesty",
+      "description": "We quote the fix against the cost of a new unit and tell you plainly which makes sense. GST-registered billing and transparent pricing mean the number we quote is the number you pay."
+    },
+    {
+      "title": "Serviced for Chennai conditions",
+      "description": "Sea air corrodes rear coils, 40°C summers punish old compressors, and monsoon damp breeds mould inside the chassis. Our service routine is built around exactly these failure points."
+    }
+  ],
+  "process": [
+    {
+      "title": "Book a slot",
+      "description": "Tell us the brand and the symptom, and pick a same-day slot — we reach in 60-90 minutes in covered areas."
+    },
+    {
+      "title": "Diagnose and quote",
+      "description": "The technician tests cooling, current draw and gas pressure, then gives you a fixed price before any work begins."
+    },
+    {
+      "title": "Fix on the spot",
+      "description": "Most window AC jobs — deep cleans, capacitor swaps, gas top-ups — finish in a single visit at your home."
+    },
+    {
+      "title": "Warranty on record",
+      "description": "You get a digital invoice with the work itemised and up to 90 days of warranty on repairs."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is it worth repairing an old window AC or should I replace it?",
+      "answer": "Usually worth repairing. Window ACs have simpler mechanicals than splits, parts are inexpensive, and a deep clean alone often restores most of the lost cooling. We will give you the repair quote alongside a realistic replacement cost and let you decide. If the compressor is gone on a very old unit, we will tell you that too."
+    },
+    {
+      "question": "How often should a window AC be serviced in Chennai?",
+      "answer": "Twice a year. The dust load here is heavier than the once-a-year schedule most manuals assume, and coastal humidity accelerates coil corrosion. A service before summer and another after the monsoon keeps the unit efficient and the power bill in check."
+    },
+    {
+      "question": "What does a deep clean involve for a window unit?",
+      "answer": "We pull the entire chassis out of its wall frame, sheet the room, and jet-wash both coils along with the blower and drain tray. The unit is then remounted with the correct outward tilt and sealed. It is the single most effective service for a dust-heavy Chennai home."
+    },
+    {
+      "question": "My window AC keeps tripping the breaker. Is that dangerous?",
+      "answer": "Treat it as a warning, not a nuisance. Repeated tripping usually means a failing capacitor or a stressed compressor drawing excess current, often aggravated by voltage fluctuations. Resetting the MCB repeatedly risks damaging the compressor or the wiring, so stop using the unit and book a diagnosis."
+    },
+    {
+      "question": "Which window AC brands do you service?",
+      "answer": "All major brands — Voltas, Blue Star, LG, Hitachi, Carrier, O General, Samsung and more. We also work on older and discontinued models, which are common in window units, sourcing compatible parts where originals are no longer made."
+    }
+  ],
+  "related": [
+    "split-ac-service",
+    "ac-deep-cleaning",
+    "ac-gas-filling"
+  ],
+  "meta": {
+    "title": "Window AC Service in Chennai | Airam AC Service",
+    "description": "Window AC service and repair across Chennai from ₹449. Deep cleaning, gas top-ups and honest advice on old units. Book a same-day slot with Airam."
+  }
+}

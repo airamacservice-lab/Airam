@@ -1,0 +1,140 @@
+{
+  "slug": "ac-cooling-issues",
+  "name": "AC Not Cooling — Diagnosis & Repair",
+  "shortName": "Cooling Issues",
+  "icon": "ThermometerSun",
+  "category": "repair",
+  "tagline": "One visit. The real fault found.",
+  "headline": "Find the real reason your AC stopped cooling",
+  "summary": "When your AC blows warm air in a Chennai May, guesswork is expensive. Our technicians run a structured six-point diagnosis — filters, coils, gas pressure, capacitor, compressor, thermostat — and show you the fault before quoting the fix. Visit charge from ₹299, waived the moment you approve the repair.",
+  "highlights": [
+    "Six-point structured diagnosis",
+    "Visit charge waived on repair",
+    "Up to 90-day repair warranty"
+  ],
+  "symptoms": [
+    {
+      "title": "Warm air from vents",
+      "description": "The unit runs and the fan spins, but the air at the vent never turns cold — usually low gas pressure, a weak capacitor, or choked coils."
+    },
+    {
+      "title": "Cooling fades by afternoon",
+      "description": "The room feels fine at 8 am but the AC cannot hold against a 40°C Chennai afternoon, a sign the system is losing capacity, not just fighting the heat."
+    },
+    {
+      "title": "Ice on the copper pipes",
+      "description": "Frost on the lines or the indoor coil points to a refrigerant leak or blocked airflow, and running the unit further can damage the compressor."
+    },
+    {
+      "title": "Compressor trips repeatedly",
+      "description": "The outdoor unit starts, strains, and cuts out within minutes — often a failing capacitor or the voltage fluctuations common across Chennai."
+    },
+    {
+      "title": "Set to 24°C, stuck at 30°C",
+      "description": "Hours of running without reaching the set temperature means a fault somewhere in the cooling circuit, and a faulty thermostat sensor is a frequent culprit."
+    },
+    {
+      "title": "Higher bills, weaker cooling",
+      "description": "A struggling AC draws more power to deliver less cold, so a rising electricity bill is often the first measurable symptom."
+    }
+  ],
+  "pricing": [
+    {
+      "label": "Diagnostic visit",
+      "price": "from ₹299",
+      "note": "Full six-point inspection with the fault explained and quoted in writing; waived when the repair proceeds"
+    },
+    {
+      "label": "Minor repairs",
+      "price": "from ₹599",
+      "note": "Capacitor, thermostat sensor, and drainage fixes, usually completed in the same visit"
+    },
+    {
+      "label": "Gas top-up",
+      "price": "from ₹1,499",
+      "note": "Leak detection and pressure test included; a full R32 recharge runs ₹2,500-3,500"
+    },
+    {
+      "label": "Major repairs",
+      "price": "from ₹1,499",
+      "note": "PCB repair ₹1,499-4,999 and compressor work from ₹4,999, quoted upfront before any work begins"
+    }
+  ],
+  "inclusions": [
+    "Six-point structured fault diagnosis",
+    "Gas pressure test with readings shared",
+    "Filter and coil inspection",
+    "Capacitor and electrical safety check",
+    "Thermostat and sensor calibration test",
+    "Written quote before any repair starts",
+    "Digital GST invoice on completion",
+    "Up to 90-day warranty on repairs"
+  ],
+  "benefits": [
+    {
+      "title": "Diagnosis before billing",
+      "description": "You see the fault and approve a written quote before we touch a spanner. The ₹299 visit charge disappears the moment the repair goes ahead."
+    },
+    {
+      "title": "Trained on every major brand",
+      "description": "Daikin, LG, Voltas, Blue Star, Samsung, Carrier, Hitachi, O General, Mitsubishi Electric, Panasonic — our founder learned diagnosis on his father's service calls, and that discipline runs through the team."
+    },
+    {
+      "title": "Built for Chennai conditions",
+      "description": "Sea air corrodes condenser coils and voltage swings quietly kill capacitors. We test for both on every cooling call, because in this city they are the usual suspects."
+    },
+    {
+      "title": "Repairs that stay fixed",
+      "description": "Every repair carries up to a 90-day service warranty, logged on your digital invoice. If the same fault returns within the warranty period, we return with it."
+    }
+  ],
+  "process": [
+    {
+      "title": "Book a slot",
+      "description": "Choose a same-day slot; our background-verified, uniformed technician reaches within 60-90 minutes in covered areas."
+    },
+    {
+      "title": "Structured diagnosis",
+      "description": "We work through filters, coils, gas pressure, capacitor, compressor, and thermostat in sequence, and show you exactly where the cooling is being lost."
+    },
+    {
+      "title": "Approve and repair",
+      "description": "You get a fixed written quote, the visit charge is waived, and most faults are repaired in the same visit."
+    },
+    {
+      "title": "Warranty on record",
+      "description": "Your digital GST invoice records the work done and the warranty of up to 90 days that covers it."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "My AC is running but not cooling. What is usually wrong?",
+      "answer": "In Chennai homes the usual causes are clogged filters, dirty condenser coils, low gas pressure, or a weak capacitor. Less often it is the thermostat sensor or the compressor itself. Our six-point diagnosis works through each in sequence, so we identify the actual fault rather than the most convenient one."
+    },
+    {
+      "question": "What does the ₹299 visit charge cover?",
+      "answer": "It covers the full diagnostic visit: the six-point inspection, gas pressure readings, and a written quote for the fix. If you approve the repair, the charge is waived entirely. You only pay it if you decide not to proceed."
+    },
+    {
+      "question": "Can you fix it in one visit?",
+      "answer": "In most cases, yes. Our technicians carry common capacitors, sensors, and refrigerant, so faults like a failed capacitor or low gas are resolved on the spot. Compressor and PCB failures may need a part ordered, in which case you get the quote and timeline before we leave."
+    },
+    {
+      "question": "Is poor cooling always a gas problem?",
+      "answer": "No, and this is where many services overcharge. Choked filters, dirty coils, and a weakening capacitor all mimic gas loss. We test the actual gas pressure and show you the reading before recommending any top-up, which starts from ₹1,499 only when genuinely needed."
+    },
+    {
+      "question": "Why does my AC lose cooling faster in Chennai?",
+      "answer": "Coastal humidity and sea air corrode condenser coils, monsoon damp stresses electricals, and voltage fluctuations shorten capacitor life. All three quietly eat into cooling capacity over a season. That is why our diagnosis checks the electrical side alongside gas and airflow on every call."
+    }
+  ],
+  "related": [
+    "ac-gas-filling",
+    "ac-deep-cleaning",
+    "ac-compressor-repair"
+  ],
+  "meta": {
+    "title": "AC Not Cooling? Repair in Chennai | Airam AC Service",
+    "description": "AC running but not cooling? Structured six-point diagnosis finds the real fault in one visit. Visit charge from ₹299, waived on repair. Book a same-day slot."
+  }
+}

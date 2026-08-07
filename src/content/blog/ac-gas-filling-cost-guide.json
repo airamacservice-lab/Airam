@@ -1,0 +1,97 @@
+{
+  "slug": "ac-gas-filling-cost-guide",
+  "title": "AC Gas Filling in Chennai: Real Costs, Scams to Avoid, and When You Actually Need It",
+  "excerpt": "Refrigerant never gets used up — if your AC is low on gas, something is leaking. Here are Chennai's real 2026 refill rates, the leak-test rule, and the classic top-up scam to dodge.",
+  "category": "Cost Guides",
+  "readMinutes": 6,
+  "publishedAt": "2026-06-28",
+  "sections": [
+    {
+      "heading": "Your AC Does Not Consume Gas",
+      "paragraphs": [
+        "Refrigerant is not petrol. It circulates in a sealed copper loop, moving heat from your room to the outdoor unit, and it never gets consumed in the process. A split AC that leaves the factory with 700 grams of R32 should still hold 700 grams ten years later. So when cooling drops, “low gas” is a symptom, not a routine event. Something has let that gas escape.",
+        "That matters because refill frequency is the single biggest tell in this trade. A healthy AC needs gas exactly zero times in its life. If a technician tops you up every summer, he is not maintaining your AC — he is billing you annually for the same unfixed leak. The honest sequence is always the same: find the leak, fix it, then recharge once."
+      ]
+    },
+    {
+      "heading": "R22, R410A or R32: Know What Is in Your AC",
+      "paragraphs": [
+        "Three refrigerants dominate Chennai homes. R22 runs older ACs, roughly pre-2016; it is being phased out in India, so stocks are shrinking and prices climb every year. R410A appeared in the transition years and still powers many fixed-speed and early inverter units. R32 is the current standard — nearly every new inverter split from Daikin, LG, Voltas or Blue Star ships with it.",
+        "Why it matters: refrigerants are not interchangeable. Each runs at different pressures with different compressor oils, so you cannot pour R32 into an R22 machine. Your gas type also sets your bill, because R22 is scarce and R410A needs more careful handling after a leak. Check the sticker on the outdoor unit or the indoor nameplate — the refrigerant type is printed there."
+      ],
+      "bullets": [
+        "R22: older ACs, ozone-depleting, phase-out pricing makes it the costliest refill",
+        "R410A: transition-era blend; after a major leak it needs a full recharge, not a top-up",
+        "R32: today's standard — efficient, lower global-warming impact, cheapest to recharge",
+        "Never mix gases; a wrong fill can finish the compressor"
+      ]
+    },
+    {
+      "heading": "No Leak Test, No Refill",
+      "paragraphs": [
+        "Gas that escaped once will escape again through the same hole. A refill without a leak repair typically lasts weeks, sometimes days, and you pay full price each round. That is why any professional job starts with finding the leak: a nitrogen pressure test that holds the system at high pressure, soap solution on every joint, or an electronic detector for pinholes the eye cannot catch.",
+        "Chennai is hard on copper. Sea air from Besant Nagar to Ennore carries salt that eats coil fins and brazed joints, and coastal humidity plus monsoon damp corrodes flare nuts over time. Most leaks we trace sit at the flare connections behind the outdoor unit or in a corroded evaporator coil. Both are fixable — tightening, re-flaring or brazing — before a single gram of gas goes in."
+      ]
+    },
+    {
+      "heading": "What Gas Filling Actually Costs in Chennai",
+      "paragraphs": [
+        "Treat these as honest 2026 ranges for a 1 to 2 ton split AC in Chennai. A partial top-up after a minor leak repair starts around ₹1,499. A complete R32 recharge — recover what is left, vacuum the lines, refill by weight — runs ₹2,500 to ₹3,500. R410A sits a little higher, and R22 keeps climbing as phase-out shrinks supply.",
+        "Two line items are legitimate extras: leak detection with nitrogen, and the repair itself — a new flare nut, re-brazing a joint, or in a bad case a coil replacement quoted separately. What is not legitimate is a bill for gas alone, every summer, with no leak report attached. Insist on a digital invoice that names the gas type, grams filled and the repair done."
+      ],
+      "bullets": [
+        "Gas top-up after a minor leak fix: from ₹1,499",
+        "Full R32 recharge with vacuuming: ₹2,500-3,500",
+        "Full R410A recharge: roughly ₹3,000-4,000",
+        "R22 recharge on older units: ₹2,500-4,000 and rising each season",
+        "Leak detection and minor joint repair: typically ₹500-1,000 extra"
+      ]
+    },
+    {
+      "heading": "The “Gas Khatam Ho Gaya” Scam",
+      "paragraphs": [
+        "It is Chennai's most reliable AC con. The unit cools poorly in May, a technician glances at it, announces the gas is finished, and quotes a refill. More often than not the real culprit is a choked filter or a dirty coil — a ₹499 to ₹799 service problem dressed up as a ₹3,000 gas problem. And since nothing was actually low, you pay for grams that never left the cylinder.",
+        "Your defence is the manifold gauge. A genuine diagnosis means connecting gauges to the outdoor unit's service port and reading pressure with the compressor running — ask to see the number. A healthy R32 split typically shows roughly 120-150 psi on the low side in Chennai weather; a starved system reads far lower. No gauge, no reading, no entry on the invoice — treat the verdict as fiction."
+      ],
+      "bullets": [
+        "Gas blamed within two minutes, no gauges ever connected",
+        "A top-up recommended every single summer",
+        "Refill quoted before any leak test or coil inspection",
+        "Round-figure cash demand with no gas type or grams on the bill",
+        "Claims that gas evaporates or expires with age — it does not"
+      ]
+    },
+    {
+      "heading": "Signs You Genuinely Have a Leak",
+      "paragraphs": [
+        "Real low-gas symptoms are specific. Ice forming on the copper pipes or the indoor coil while the room stays warm. A soft hissing near the outdoor unit. The compressor running long hours with air that is barely cool, and electricity bills creeping up. An oily residue at pipe joints is refrigerant's calling card, since the gas carries compressor oil out with it.",
+        "If you see these, stop running the AC — a starved system damages the compressor, and compressor work starts near ₹4,999 against a few thousand for a leak fix and recharge. Book a proper diagnosis; same-day slots are usually available. Ask for the pressure reading and the leak point in writing, and take the warranty — Airam backs repair work for up to 90 days."
+      ]
+    }
+  ],
+  "takeaways": [
+    "AC gas never gets used up — low gas always means a leak.",
+    "Refuse any refill that is not preceded by a leak test and repair.",
+    "Fair Chennai rates: top-ups from ₹1,499, full R32 recharge ₹2,500-3,500.",
+    "Ask to see the manifold gauge reading before accepting a gas verdict.",
+    "An annual gas top-up is one unfixed leak billed to you every year."
+  ],
+  "faqs": [
+    {
+      "question": "How often should AC gas be refilled?",
+      "answer": "Never, on a schedule. Refrigerant circulates in a sealed loop and does not get consumed, so a leak-free AC keeps its factory charge for life. If your unit needs gas, it needs a leak repair first."
+    },
+    {
+      "question": "How much does AC gas filling cost in Chennai?",
+      "answer": "A top-up after a minor leak fix starts around ₹1,499, while a full R32 recharge with vacuuming runs ₹2,500-3,500. R410A costs slightly more, and R22 keeps rising as India phases it out. Leak detection and joint repair may add ₹500-1,000."
+    },
+    {
+      "question": "Can I replace R22 with R32 in my old AC?",
+      "answer": "No. R32 runs at far higher pressure with a different compressor oil, so pouring it into an R22 system risks destroying the compressor. If an ageing R22 unit keeps leaking, weigh the repair cost against upgrading to an efficient R32 inverter model."
+    }
+  ],
+  "meta": {
+    "title": "AC Gas Filling Cost in Chennai (2026): Rates and Scams",
+    "description": "Honest AC gas refill prices in Chennai for R22, R32 and R410A, why a leak test must always come first, and how to catch the classic gas top-up scam."
+  }
+}

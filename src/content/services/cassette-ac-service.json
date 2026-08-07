@@ -1,0 +1,140 @@
+{
+  "slug": "cassette-ac-service",
+  "name": "Cassette AC Service",
+  "shortName": "Cassette AC",
+  "icon": "Grid3x3",
+  "category": "commercial",
+  "tagline": "Ceiling cassette care for Chennai businesses",
+  "headline": "Four-Way Cooling, Serviced While Your Business Sleeps",
+  "summary": "Four-way cassettes cool from above and fail from above — a blocked drain pump shows up as water on your showroom floor. Airam services ceiling cassettes in offices, clinics, restaurants and retail across Chennai, in slots before you open or after you close. From ₹1,299 per unit, with digital GST invoices and up to a 90-day warranty on repairs.",
+  "highlights": [
+    "After-hours servicing available",
+    "Drain pump tested every visit",
+    "From ₹1,299 per unit"
+  ],
+  "symptoms": [
+    {
+      "title": "Water dripping from the grille",
+      "description": "Condensate escaping through the vents usually means a clogged drain tray or a drain pump on its way out."
+    },
+    {
+      "title": "Gurgling above the ceiling",
+      "description": "A drain pump straining against a blocked line makes itself heard before it makes itself seen."
+    },
+    {
+      "title": "One vent blowing weak",
+      "description": "When a single flap of a four-way cassette loses airflow, dust-choked filters or a stuck louvre motor is the usual cause."
+    },
+    {
+      "title": "Musty blast at startup",
+      "description": "Chennai's humidity breeds mould in the drain tray, and the first burst of air each morning carries it into the room."
+    },
+    {
+      "title": "Stained tiles around the unit",
+      "description": "Brown rings spreading on the false ceiling mean condensate has been leaking above it for weeks."
+    },
+    {
+      "title": "Cooling fades by mid-afternoon",
+      "description": "A dirty coil keeps up in the morning but surrenders once the 40°C peak load arrives."
+    }
+  ],
+  "pricing": [
+    {
+      "label": "Cassette AC service",
+      "price": "from ₹1,299",
+      "note": "Per unit — filters, coil, drain tray and drain-pump check with full cooling test"
+    },
+    {
+      "label": "Cassette deep clean",
+      "price": "from ₹1,999",
+      "note": "Panel-off foam wash of coil, blower and tray, plus anti-fungal treatment"
+    },
+    {
+      "label": "Gas top-up",
+      "price": "from ₹1,499",
+      "note": "Leak check first; full R32 recharge ₹2,500-3,500, quoted before work begins"
+    },
+    {
+      "label": "Multi-unit sites",
+      "price": "from ₹1,099 per unit",
+      "note": "Per-unit rate for four or more cassettes serviced in a single visit"
+    }
+  ],
+  "inclusions": [
+    "Panel and grille removed and washed",
+    "All four vent filters cleaned",
+    "Drain pump and float switch tested",
+    "Drain tray flushed and treated for mould",
+    "Indoor coil cleaned in position",
+    "Gas pressure and cooling delta checked",
+    "Electrical terminals and voltage checked",
+    "Dust sheets down, site left spotless"
+  ],
+  "benefits": [
+    {
+      "title": "Servicing that skips business hours",
+      "description": "We work before you open, after you close or on your weekly off. Your customers never see a ladder."
+    },
+    {
+      "title": "Technicians trained for ceiling work",
+      "description": "Cassettes mean false ceilings, tile grids and drain pumps that most AC technicians rarely touch. Ours are trained for exactly this — background-verified, uniformed and careful with your fit-out."
+    },
+    {
+      "title": "Commercial paperwork done right",
+      "description": "GST-registered, digital invoices, transparent per-unit pricing agreed before work starts. Your accounts team gets what it needs without chasing."
+    },
+    {
+      "title": "Repairs backed in writing",
+      "description": "Up to a 90-day service warranty on repairs, recorded on your invoice. If the drain pump we fixed acts up again, we come back under warranty."
+    }
+  ],
+  "process": [
+    {
+      "title": "Book your window",
+      "description": "Tell us your quiet hours — same-day slots are available, with 60-90 minute reach in covered areas."
+    },
+    {
+      "title": "Inspect and quote",
+      "description": "The technician opens the unit, checks the drain pump and coil, and confirms the price before touching a tool."
+    },
+    {
+      "title": "Service and test",
+      "description": "Full clean, pump test and cooling check, with dust sheets protecting your floor and furniture throughout."
+    },
+    {
+      "title": "Invoice and warranty",
+      "description": "You receive a digital GST invoice on the spot, with up to a 90-day warranty on any repair work."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can you service our cassettes outside business hours?",
+      "answer": "Yes — that is how most of our commercial clients book us. We take early-morning, late-evening and weekly-off slots so your showroom or clinic never closes for maintenance. Same-day slots are available when a unit fails suddenly."
+    },
+    {
+      "question": "Why is my cassette AC dripping water?",
+      "answer": "Cassettes rely on a small drain pump to lift condensate into the ceiling drain line — gravity does not help them the way it helps wall splits. In Chennai's humidity that pump moves litres a day, and a blocked tray or failed float switch sends water straight through the grille. We test the pump and flush the line on every service."
+    },
+    {
+      "question": "Will you damage our false ceiling?",
+      "answer": "No. Our technicians are trained on tile-grid and plaster ceilings, lay dust sheets before the panel comes off, and refit the grille flush when done. The unit goes back looking the way your interior designer intended."
+    },
+    {
+      "question": "How often should office cassettes be serviced?",
+      "answer": "Every three to four months for most Chennai sites — dust, footfall and coastal air load the filters fast, and 40°C summers punish a dirty coil. Restaurants and clinics often need shorter cycles because of grease and hygiene demands. For multiple units, an AMC keeps the schedule automatic and the paperwork consolidated."
+    },
+    {
+      "question": "Which cassette brands do you service?",
+      "answer": "All major brands — Daikin, Blue Star, Voltas, Carrier, Mitsubishi Electric, O General, Hitachi, LG, Samsung and Panasonic. Cassette internals vary by brand, particularly drain-pump and float-switch design, and our technicians carry the fitment knowledge for each."
+    }
+  ],
+  "related": [
+    "commercial-ac-service",
+    "ac-water-leakage",
+    "commercial-amc-contracts"
+  ],
+  "meta": {
+    "title": "Cassette AC Service in Chennai | Airam AC Service",
+    "description": "Ceiling cassette AC service for Chennai offices, showrooms and clinics. Drain-pump checks, after-hours slots, up to 90-day warranty. Book from ₹1,299."
+  }
+}

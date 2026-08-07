@@ -1,0 +1,85 @@
+{
+  "slug": "anna-nagar",
+  "name": "Anna Nagar",
+  "tagline": "Grid-planned homes, precision-planned AC care",
+  "headline": "AC Service in Anna Nagar for Homes the Grid Built",
+  "intro": [
+    "Anna Nagar was built on a plan — lettered blocks, wide avenues, the Tower Park at its centre. Its houses were built to last, and so were their air conditioners. Many of the window units humming behind Shanti Colony and the West Extension have run for a decade or more. They deserve technicians who respect that. Airam services every major brand, from a ₹499 basic split service to full compressor work, with up to 90 days of warranty on repairs.",
+    "The neighbourhood is changing block by block. Independent houses near Thirumangalam metro are giving way to apartments, and construction dust travels. Filters clog in weeks, not months. Add west Chennai's 40°C summers and the voltage dips that trouble older wiring, and coils and PCBs take a beating. Our technicians see it daily — which is why deep cleaning from ₹799 and stabiliser checks are the two jobs we do most between 2nd Avenue and the Roundtana.",
+    "Every visit follows the same discipline. A background-verified, uniformed technician arrives in your slot — same-day slots available, with 60-90 minute reach in covered areas. You get the price before we open the panel, a digital GST invoice after, and up to 90 days of warranty on repairs. Whether it is a K Block duplex or a new flat off 3rd Avenue, the standard does not change."
+  ],
+  "neighbourhoods": [
+    "Anna Nagar East",
+    "Anna Nagar West",
+    "Anna Nagar West Extension",
+    "Shanti Colony",
+    "Thirumangalam",
+    "Chintamani",
+    "Roundtana and 2nd Avenue",
+    "Tower Park blocks",
+    "Shenoy Nagar border",
+    "Mogappair edge"
+  ],
+  "challenges": [
+    {
+      "title": "Window units past their prime",
+      "description": "Anna Nagar's 1970s and 80s independent houses still run original window ACs. Worn mounts rattle, cooling fades and power bills climb — we tell you honestly whether a repair or a split retrofit makes better sense."
+    },
+    {
+      "title": "Redevelopment dust on every coil",
+      "description": "With plots turning into apartments across the West Extension, cement dust clogs filters and blankets condenser coils within weeks. Cooling drops and compressors overwork until a proper jet clean clears them."
+    },
+    {
+      "title": "Voltage dips on older wiring",
+      "description": "Summer load and ageing internal wiring make voltage fluctuation a regular PCB killer here. We test stabilisers, check board connections and repair PCBs from ₹1,499 instead of pushing a replacement."
+    },
+    {
+      "title": "Retrofit installs in built-up houses",
+      "description": "Adding splits to houses never designed for them means long copper runs and tricky drain slopes. Done poorly, they leak gas and drip water down front elevations — we plan the routing before we drill."
+    }
+  ],
+  "popularServices": [
+    "window-ac-service",
+    "split-ac-service",
+    "ac-deep-cleaning",
+    "ac-installation",
+    "ac-gas-filling",
+    "amc-plans"
+  ],
+  "testimonials": [
+    {
+      "name": "Revathi S.",
+      "area": "Shanti Colony",
+      "quote": "Our 12-year-old window AC in the front bedroom was rattling badly. The technician replaced the fan motor mount, cleaned it fully and it runs quiet now. The digital invoice arrived before he left.",
+      "rating": 5
+    },
+    {
+      "name": "Mohan K.",
+      "area": "Anna Nagar West Extension",
+      "quote": "Booked a deep clean for two splits after the construction next door coated everything in dust. They quoted ₹799 per unit upfront, brought their own jet pump and covered the wardrobe before starting.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How quickly can you reach Anna Nagar?",
+      "answer": "We offer same-day slots across Anna Nagar, with 60-90 minute reach in covered areas. Whether you are near Tower Park or out towards Thirumangalam metro, the grid layout makes scheduling straightforward. Your technician arrives in uniform, in the slot you booked."
+    },
+    {
+      "question": "Which parts of Anna Nagar do you cover?",
+      "answer": "All of it — Anna Nagar East and West, the West Extension, Shanti Colony, Chintamani and the blocks around the Roundtana. We also serve the bordering stretches of Shenoy Nagar and Mogappair. If you can name the block, we can reach it."
+    },
+    {
+      "question": "Can you still service my old window AC, or should I switch to a split?",
+      "answer": "We service window units of every major brand and will tell you plainly when a repair stops making sense. If a retrofit is the better call, uninstallation starts from ₹799 and a new split installation from ₹1,499 plus materials. You decide with real numbers, not a sales pitch."
+    },
+    {
+      "question": "Is your Anna Nagar pricing different from the rest of Chennai?",
+      "answer": "No. A basic split service starts from ₹499, deep cleaning from ₹799 and gas top-ups from ₹1,499 — the same transparent rates we quote citywide. You see the price before work begins and receive a digital GST invoice after."
+    }
+  ],
+  "meta": {
+    "title": "AC Service in Anna Nagar | Airam AC Service",
+    "description": "Expert AC service in Anna Nagar — window AC retrofits, deep cleaning and gas top-ups from ₹499. GST-billed, uniformed technicians. Book a same-day slot."
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "ac-compressor-repair",
+  "name": "AC Compressor Repair & Replacement",
+  "shortName": "Compressor",
+  "icon": "Cog",
+  "category": "repair",
+  "tagline": "The heart of the AC, handled honestly",
+  "headline": "Get an Honest Verdict Before You Replace Your AC",
+  "summary": "A dead compressor is not always a dead AC. Often the fault is a ₹599 capacitor or relay, and many compressors carry 5-10 year brand warranties you can still claim. We test first, give you a written verdict, and replace only when the numbers genuinely favour it over a new unit.",
+  "highlights": [
+    "Honest repair-or-replace verdicts",
+    "Brand warranty claim support",
+    "Replacement labour from ₹4,999"
+  ],
+  "symptoms": [
+    {
+      "title": "Fan runs, no cooling",
+      "description": "The indoor blower works but the air stays warm because the compressor never kicks in — often a starting component, not the compressor itself."
+    },
+    {
+      "title": "Clicking from the outdoor unit",
+      "description": "A repeated click-hum-silence cycle means the compressor is trying to start and failing, a classic relay or capacitor fault."
+    },
+    {
+      "title": "MCB trips when AC starts",
+      "description": "A locked rotor or shorted winding pulls heavy current the moment the outdoor unit engages, tripping the breaker."
+    },
+    {
+      "title": "Runs, then cuts out",
+      "description": "The compressor overheats and trips its thermal overload — common in Chennai when 40°C terrace heat meets a dust-choked condenser."
+    },
+    {
+      "title": "Bills up, cooling down",
+      "description": "A worn compressor draws more current for less cooling, and the jump shows on your EB bill before the AC fails outright."
+    },
+    {
+      "title": "Advised to buy new",
+      "description": "If a technician has condemned your AC on sight, a written second opinion from ₹299 is cheaper than a ₹35,000 mistake."
+    }
+  ],
+  "pricing": [
+    {
+      "label": "Diagnosis & written verdict",
+      "price": "from ₹299",
+      "note": "Full electrical and pressure check on the compressor circuit; the fee adjusts against any repair you approve."
+    },
+    {
+      "label": "Relay & capacitor repair",
+      "price": "from ₹599",
+      "note": "Genuine starting components fitted, load-tested and covered by our service warranty."
+    },
+    {
+      "label": "Compressor replacement",
+      "price": "from ₹4,999 plus part",
+      "note": "Labour for removal, brazing, nitrogen flushing and deep vacuuming; the compressor is billed at brand invoice price."
+    },
+    {
+      "label": "Warranty claim assistance",
+      "price": "from ₹499",
+      "note": "Serial verification and claim paperwork with the brand; the compressor comes free, you pay swap labour and gas."
+    }
+  ],
+  "inclusions": [
+    "Compressor winding resistance and insulation test",
+    "Capacitor microfarad and relay check",
+    "Running current measured against rated amps",
+    "Suction and discharge pressure reading",
+    "Voltage check for fluctuation damage",
+    "Written repair-or-replace verdict with prices",
+    "GST digital invoice on completion",
+    "Up to 90-day warranty on repairs"
+  ],
+  "benefits": [
+    {
+      "title": "A verdict, not a sales pitch",
+      "description": "If a ₹599 capacitor gets your compressor running, that is what we fit and what we bill. Replacement is recommended only when the test readings say so, and you see those readings."
+    },
+    {
+      "title": "We chase the brand warranty",
+      "description": "Compressors from Daikin, LG, Voltas, Blue Star and most major brands carry 5-10 year warranties that owners rarely claim. We verify your serial number and purchase date, then handle the paperwork so the brand pays for the part."
+    },
+    {
+      "title": "Compressor work is in the family",
+      "description": "Our founder spent years on service calls in his father's AC business before starting Airam, and compressor jobs were the hardest of them. Background-verified, uniformed technicians carry that same discipline into your home."
+    },
+    {
+      "title": "Built for Chennai's power and salt air",
+      "description": "Voltage fluctuation and corroded condensers kill more compressors here than age does. We test for the root cause before fitting anything new, so the replacement does not die the same death."
+    }
+  ],
+  "process": [
+    {
+      "title": "Book a slot",
+      "description": "Tell us the symptom and unit details; same-day slots are available, with 60-90 minute reach in covered areas."
+    },
+    {
+      "title": "Test before verdict",
+      "description": "We run winding, capacitor, current and pressure checks, then hand you a written repair-or-replace verdict with exact prices before any work begins."
+    },
+    {
+      "title": "Fix or replace",
+      "description": "Relay and capacitor faults are fixed on the spot; replacements get nitrogen flushing, deep vacuuming and a fresh gas charge before handover."
+    },
+    {
+      "title": "Warranty in writing",
+      "description": "You receive a GST digital invoice stating the parts fitted, with up to 90 days of service warranty on the repair."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "My AC is not cooling at all. Is the compressor definitely gone?",
+      "answer": "Not necessarily, and this is the most expensive assumption in AC repair. A dead capacitor, failed relay or low gas produces the same symptom for a fraction of the cost. We test the compressor windings and starting circuit before giving any verdict, so you never pay compressor prices for a capacitor problem."
+    },
+    {
+      "question": "Is my compressor still covered by the brand warranty?",
+      "answer": "Quite possibly. Daikin, LG, Voltas, Blue Star, Hitachi and most major brands give 5-10 year warranties on the compressor alone, well beyond the one-year unit warranty. Share your purchase invoice or serial number and we will verify coverage and help raise the claim, so the brand pays for the part and you pay only for labour and gas."
+    },
+    {
+      "question": "Should I replace the compressor or just buy a new AC?",
+      "answer": "It depends on the unit's age, gas type and the condition of its coils, and we put both numbers in writing so you can decide. For a unit under seven or eight years with healthy coils, replacement usually costs a fraction of a comparable new AC. For an older R22 unit with corroded coils, we will tell you plainly that the money is better spent on a new machine."
+    },
+    {
+      "question": "What does compressor replacement cost in Chennai?",
+      "answer": "Our labour for a full replacement starts from ₹4,999, covering removal, brazing, nitrogen flushing and deep vacuuming. The compressor itself is billed at brand invoice price and varies with tonnage and model, and a fresh R32 gas charge runs ₹2,500-3,500. You get the complete figure in writing before we start."
+    },
+    {
+      "question": "Why did my compressor fail, and will the new one last?",
+      "answer": "In Chennai the usual killers are voltage fluctuation, running on low gas and condensers choked by dust and coastal salt air. We identify the actual cause during diagnosis and address it — often a stabiliser recommendation or a condenser clean — before commissioning the new compressor. That is the difference between a replacement that lasts and one that fails the same way next summer."
+    }
+  ],
+  "related": [
+    "ac-pcb-repair",
+    "ac-gas-filling",
+    "ac-cooling-issues"
+  ],
+  "meta": {
+    "title": "AC Compressor Repair in Chennai | Airam AC Service",
+    "description": "Honest compressor verdicts in Chennai. Relay and capacitor fixes from ₹599, replacements from ₹4,999, warranty claim help. Book a same-day slot."
+  }
+}

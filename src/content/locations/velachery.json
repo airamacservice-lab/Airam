@@ -1,0 +1,85 @@
+{
+  "slug": "velachery",
+  "name": "Velachery",
+  "tagline": "Serious cooling for South Chennai's busiest suburb",
+  "headline": "AC Service in Velachery Built for Damp Summers and IT-Corridor Hours",
+  "intro": [
+    "Velachery works long hours. The suburb sits on the edge of the IT corridor, and its ACs run harder than most — cooling home offices through 40°C afternoons, then bedrooms deep into humid nights. Airam AC Service keeps them running. Our background-verified, uniformed technicians cover every pocket of Velachery, from the lanes behind Vijayanagar bus terminus to the towers along the Taramani link, with same-day slots and transparent pricing on a digital invoice.",
+    "This is also a suburb the monsoon does not forgive. Velachery's low-lying pockets hold damp well into January, and ground-floor units in older independent houses around Dhandeeswaram and Baby Nagar breathe that moisture all day. It ends up inside the AC — mould on the blower, musty air on start-up, corroded coils. Our deep cleaning, from ₹799, strips out the monsoon's residue with a jet wash, so the first summer blast smells clean, not damp.",
+    "Airam is family-run. Our founder grew up on service calls in his father's AC business, and that shows in the work — a proper pressure check before any gas top-up, torque on every flare nut, no shortcuts. We service all major brands, from Daikin and Blue Star to LG and Voltas, with up to a 90-day warranty on repairs. GST-registered, and every job priced upfront before we open the panel."
+  ],
+  "neighbourhoods": [
+    "Dhandeeswaram Nagar",
+    "Baby Nagar",
+    "Tansi Nagar",
+    "AGS Colony",
+    "Vijayanagar",
+    "Ram Nagar",
+    "Annai Indira Nagar",
+    "VGP Selva Nagar",
+    "Taramani Link Road",
+    "Velachery Bypass Road"
+  ],
+  "challenges": [
+    {
+      "title": "Post-monsoon mould in ground-floor units",
+      "description": "Velachery's flood-prone pockets hold damp long after the rains stop, and ground-floor indoor units grow mould on blower wheels and filters. The result is a musty smell every time the AC starts."
+    },
+    {
+      "title": "Corrosion from months of trapped humidity",
+      "description": "Lingering ground moisture in low-lying streets eats into evaporator coils and drain trays faster than in drier parts of Chennai. We catch pinhole leaks early, before they turn into a gas top-up every single season."
+    },
+    {
+      "title": "Voltage swings that take out PCBs",
+      "description": "Older independent houses around Vijayanagar run on wiring that predates inverter ACs, and supply fluctuations regularly damage control boards. We repair PCBs from ₹1,499 instead of pushing a full board replacement."
+    },
+    {
+      "title": "Inverter units on IT-corridor hours",
+      "description": "Home office by day, bedroom by night — many Velachery ACs barely rest. Filters choke faster and cooling drops within months, which is why locals here move to twice-a-year servicing."
+    }
+  ],
+  "popularServices": [
+    "split-ac-service",
+    "ac-deep-cleaning",
+    "ac-water-leakage",
+    "ac-gas-filling",
+    "ac-pcb-repair",
+    "amc-plans"
+  ],
+  "testimonials": [
+    {
+      "name": "Karthik R.",
+      "area": "Dhandeeswaram Nagar",
+      "quote": "Ground-floor unit smelt musty after the rains. Their technician showed me the mould on the blower before the jet wash and again after. Cooling is back and the smell is gone.",
+      "rating": 5
+    },
+    {
+      "name": "Priya V.",
+      "area": "Baby Nagar",
+      "quote": "Booked a morning slot before office, the technician reached my flat near Phoenix Marketcity by ten. Found the gas leak, quoted ₹2,800 upfront for a full R32 charge, and the digital invoice came the same evening.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How fast can you reach a Velachery address?",
+      "answer": "We hold same-day slots for Velachery and typically manage a 60-90 minute reach in covered areas. Whether you are near Vijayanagar bus terminus or off the Taramani link, the technician confirms his arrival window when you book."
+    },
+    {
+      "question": "Which parts of Velachery do you cover?",
+      "answer": "All of it — Dhandeeswaram, Baby Nagar, Tansi Nagar, AGS Colony, Vijayanagar, Ram Nagar and the apartments along Velachery Bypass Road and the Taramani link. If Phoenix Marketcity is on your commute, you are inside our service area."
+    },
+    {
+      "question": "My AC smells musty after the monsoon. Is that normal here?",
+      "answer": "Common, especially in ground-floor rooms in Velachery's flood-prone pockets. The smell is usually mould on the blower and evaporator fed by months of damp, and a jet-pump deep clean from ₹799 removes it at the source. We also check the drain line, which tends to silt up here after heavy rain."
+    },
+    {
+      "question": "Do Velachery customers pay more than the rest of Chennai?",
+      "answer": "No. Our rates are the same across the city — basic split AC service from ₹499, deep cleaning from ₹799, gas top-up from ₹1,499. You get the exact price upfront before work starts, on a GST invoice."
+    }
+  ],
+  "meta": {
+    "title": "AC Service in Velachery | Airam AC Service",
+    "description": "Expert AC service in Velachery — deep cleaning, gas top-up, repairs from ₹499. Same-day slots, 90-day warranty, GST invoices. Book your visit today."
+  }
+}

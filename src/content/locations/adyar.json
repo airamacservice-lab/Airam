@@ -1,0 +1,84 @@
+{
+  "slug": "adyar",
+  "name": "Adyar",
+  "tagline": "Discreet, punctual AC care for Adyar",
+  "headline": "AC Service in Adyar: Careful Hands for Chennai's Leafiest Postcode",
+  "intro": [
+    "Adyar keeps its promises quietly. Tree-lined avenues off Sardar Patel Road, independent homes in Gandhi Nagar that have stood for two generations, and newer premium apartments rising along LB Road. Your air conditioner works harder here than the calm suggests — river estuary damp on one side, sea air on the other, and a canopy that traps humidity long after the rain stops. Airam services ACs across Adyar with the discretion this neighbourhood expects.",
+    "The housing stock tells us what to carry. In the older homes of Kasturba Nagar and Shastri Nagar, ageing wiring and voltage swings quietly stress PCBs and compressors, so our technicians test the supply before they touch the unit. In the newer apartments near the Adyar bridge and the IIT Madras fringe, it is usually cassette units and concealed piping that need a careful, clean hand. Either way, we arrive in uniform, on time, with shoe covers on.",
+    "We are a family-run, GST-registered company, and it shows in the small things. Background-verified technicians. Upfront pricing before work begins — a basic split AC service from ₹499, deep cleaning from ₹799. A digital invoice on your phone before we leave, and up to a 90-day warranty on repairs. Same-day slots are usually available, and in covered parts of Adyar we typically reach within 60-90 minutes."
+  ],
+  "neighbourhoods": [
+    "Gandhi Nagar",
+    "Kasturba Nagar",
+    "Indira Nagar",
+    "Shastri Nagar",
+    "Karpagam Gardens",
+    "Padmanabha Nagar",
+    "LB Road",
+    "Sardar Patel Road",
+    "Theosophical Society side"
+  ],
+  "challenges": [
+    {
+      "title": "Estuary damp and mould in indoor units",
+      "description": "Between the Adyar estuary and the sea, humidity lingers under the tree canopy long after rain. Indoor coils stay wet, and the first sign is a musty smell when the AC starts."
+    },
+    {
+      "title": "Ageing wiring in older independent homes",
+      "description": "Many Gandhi Nagar and Kasturba Nagar homes run on wiring laid decades ago. Voltage swings and loose connections quietly kill PCBs, so we test the supply before blaming the machine."
+    },
+    {
+      "title": "Salt-laden air corroding outdoor units",
+      "description": "Sea air drifts in across the estuary and eats into condenser fins and copper. An anti-corrosive coil wash during service slows it down considerably."
+    },
+    {
+      "title": "Leaf litter choking condensers",
+      "description": "Adyar's canopy is lovely until it sheds into your outdoor unit. Leaves, pollen and dust block airflow through the coil and push power bills up during 40°C summers."
+    }
+  ],
+  "popularServices": [
+    "split-ac-service",
+    "ac-deep-cleaning",
+    "ac-pcb-repair",
+    "ac-gas-filling",
+    "cassette-ac-service",
+    "amc-plans"
+  ],
+  "testimonials": [
+    {
+      "name": "Revathi S.",
+      "area": "Kasturba Nagar",
+      "quote": "Our 15-year-old home has temperamental wiring. The technician checked the supply first, replaced a burnt terminal, serviced both bedroom units and left everything spotless. Punctual to the minute.",
+      "rating": 5
+    },
+    {
+      "name": "Arvind K.",
+      "area": "Gandhi Nagar",
+      "quote": "Booked a deep clean for two splits before summer. They laid floor sheets, jet-washed the coils in a bag, and the musty smell we had every monsoon is gone.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How quickly can you reach my home in Adyar?",
+      "answer": "Same-day slots are usually available, and we typically reach covered parts of Adyar within 60-90 minutes. Tell us your preferred slot when booking and we hold it — punctuality matters as much to us as it does here."
+    },
+    {
+      "question": "Which parts of Adyar do you cover?",
+      "answer": "All of it — Gandhi Nagar, Kasturba Nagar, Indira Nagar, Shastri Nagar, Karpagam Gardens and the stretches along LB Road and Sardar Patel Road. Apartments near the Adyar bridge and homes towards the Theosophical Society side are regular calls for us."
+    },
+    {
+      "question": "What AC problems are most common in Adyar?",
+      "answer": "Mould on indoor coils from estuary humidity, corroded condenser fins from sea air, and PCB failures in older homes with ageing wiring. A seasonal deep clean and a supply check during service prevent most of them."
+    },
+    {
+      "question": "Do you charge more in Adyar than elsewhere in Chennai?",
+      "answer": "No. Our rates are the same across the city — basic split AC service from ₹499, deep cleaning from ₹799, gas top-up from ₹1,499. You get the price upfront and a GST digital invoice, whatever the postcode."
+    }
+  ],
+  "meta": {
+    "title": "AC Service in Adyar | Airam AC Service",
+    "description": "Expert AC service in Adyar for older homes and new apartments alike. GST-billed, background-verified technicians, same-day slots. Book your visit today."
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "split-ac-service",
+  "name": "Split AC Service & Repair",
+  "shortName": "Split AC",
+  "icon": "AirVent",
+  "category": "repair",
+  "tagline": "Chennai's workhorse AC, serviced properly",
+  "headline": "Your split AC, cooling like the day it was installed",
+  "summary": "Chennai runs on split ACs, and Chennai is hard on them. Sea air corrodes outdoor coils, road dust chokes filters, and 40°C afternoons punish weak compressors. Airam services both units on every visit — background-verified technicians, upfront pricing from ₹499, and up to a 90-day warranty on repairs.",
+  "highlights": [
+    "Both units, every visit",
+    "Upfront pricing from ₹499",
+    "Up to 90-day warranty"
+  ],
+  "symptoms": [
+    {
+      "title": "Weak or warm airflow",
+      "description": "Clogged filters and dirty coils are the usual culprits, and Chennai's road dust builds up faster than most owners expect."
+    },
+    {
+      "title": "Musty smell on startup",
+      "description": "Coastal humidity breeds mould on the evaporator coil, and the blower pushes it into the room every time the unit starts."
+    },
+    {
+      "title": "Water dripping indoors",
+      "description": "A blocked drain line or tilted tray sends condensate down your wall instead of out the pipe, especially during monsoon damp."
+    },
+    {
+      "title": "Rattling outdoor unit",
+      "description": "Loose fan blades, worn mounts or a straining compressor get louder under 40°C load and rarely fix themselves."
+    },
+    {
+      "title": "Ice on the copper pipes",
+      "description": "Frost on the lines points to low refrigerant or restricted airflow, and running the unit that way risks the compressor."
+    },
+    {
+      "title": "Bills up, cooling down",
+      "description": "A split AC fighting dirty coils draws noticeably more power to deliver less cold air than it did last summer."
+    }
+  ],
+  "pricing": [
+    {
+      "label": "Basic service",
+      "price": "from ₹499",
+      "note": "Filter wash, indoor and outdoor coil brush-clean, drain check and cooling test"
+    },
+    {
+      "label": "Deep clean (jet wash)",
+      "price": "from ₹999",
+      "note": "Foam and jet wash of both coils, blower wheel, drain tray and drain line"
+    },
+    {
+      "label": "Gas top-up",
+      "price": "from ₹1,499",
+      "note": "Leak inspection, pressure test and refrigerant top-up with a post-fill cooling check"
+    },
+    {
+      "label": "Full R32 gas charge",
+      "price": "₹2,500-3,500",
+      "note": "Complete recharge after vacuuming the system, for units that have lost most refrigerant"
+    }
+  ],
+  "inclusions": [
+    "Indoor and outdoor unit inspection",
+    "Filter and evaporator coil cleaning",
+    "Outdoor condenser coil cleaning",
+    "Drain tray and drain line flush",
+    "Gas pressure reading",
+    "Cooling test before we leave",
+    "Uniformed, background-verified technician",
+    "Digital invoice with itemised GST billing"
+  ],
+  "benefits": [
+    {
+      "title": "Raised on service calls",
+      "description": "Our founder spent years handling split AC breakdowns in his father's business before starting Airam. He trains every technician to the standard he learned on the job."
+    },
+    {
+      "title": "Both units, every time",
+      "description": "Plenty of services stop at the indoor unit. We clean and check the outdoor condenser too, because Chennai's sea air corrodes it faster than anything indoors."
+    },
+    {
+      "title": "The price before the work",
+      "description": "You approve a written quote before we open the toolbox. GST-registered billing and a digital invoice mean the number you agreed is the number you pay."
+    },
+    {
+      "title": "A warranty in writing",
+      "description": "Repairs carry up to a 90-day service warranty, recorded on your digital invoice. If the same fault returns within the period, so do we."
+    }
+  ],
+  "process": [
+    {
+      "title": "Book your slot",
+      "description": "Tell us the brand and the symptom, and pick a same-day slot if you need one."
+    },
+    {
+      "title": "We arrive ready",
+      "description": "A uniformed, background-verified technician reaches you in 60-90 minutes in covered areas, carrying common spares for major brands."
+    },
+    {
+      "title": "Service and test",
+      "description": "We clean or repair both units, run a cooling test, and take your approval on a written quote before any extra work."
+    },
+    {
+      "title": "Warranty on record",
+      "description": "You get a digital GST invoice with your repair warranty noted, valid for up to 90 days."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How often should a split AC be serviced in Chennai?",
+      "answer": "Twice a year is the honest answer for this city. Book a deep clean before summer peaks in April, and a basic service once the monsoon damp clears. Homes near the coast or on busy roads may need a mid-cycle filter clean as well."
+    },
+    {
+      "question": "What is the difference between the basic service and the deep clean?",
+      "answer": "The basic service from ₹499 covers filter washing, coil brushing and a drain check, and suits units cleaned within the last six months. The deep clean from ₹999 uses foam and a jet wash to strip grime from the evaporator and condenser coils, the blower wheel and the drain line. If your AC smells musty or the airflow feels weak, choose the deep clean."
+    },
+    {
+      "question": "Do you service my brand of split AC?",
+      "answer": "Yes. We work on Daikin, LG, Voltas, Blue Star, Samsung, Carrier, Hitachi, O General, Mitsubishi Electric and Panasonic units. Our technicians carry common spares for these brands, which keeps most jobs to a single visit."
+    },
+    {
+      "question": "Will I be charged more than the quoted price?",
+      "answer": "No. You approve an upfront quote before work begins, and anything discovered mid-job is priced and approved separately before we touch it. Your digital GST invoice itemises every line."
+    },
+    {
+      "question": "What does the service warranty cover?",
+      "answer": "Repairs carry up to a 90-day service warranty, with the exact period for your job noted on the invoice. If the same fault recurs within that window, we return and set it right at no charge. Routine wear, voltage-surge damage and unrelated faults sit outside it."
+    }
+  ],
+  "related": [
+    "ac-deep-cleaning",
+    "ac-gas-filling",
+    "ac-cooling-issues"
+  ],
+  "meta": {
+    "title": "Split AC Service in Chennai from ₹499 | Airam AC Service",
+    "description": "Split AC service in Chennai from ₹499. Deep coil cleaning, gas top-ups and repairs by background-verified technicians. Book a same-day slot today."
+  }
+}

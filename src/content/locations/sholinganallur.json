@@ -1,0 +1,84 @@
+{
+  "slug": "sholinganallur",
+  "name": "Sholinganallur",
+  "tagline": "Serious cooling for the OMR corridor",
+  "headline": "AC Service in Sholinganallur: Built for OMR Towers and Sea-Breeze Humidity",
+  "intro": [
+    "Sholinganallur runs on long hours. Towers along OMR fill up by nine, ELCOT SEZ hums past midnight, and the ACs in between rarely get a break. Add the sea breeze rolling in over the Pallikaranai marsh and you get a specific problem: salt-heavy, humid air that corrodes condenser fins and clogs coils faster than almost anywhere else in Chennai. An AC that was serviced last year is not a serviced AC here.",
+    "Airam was built for exactly this kind of neighbourhood. Our technicians are background-verified and uniformed, so association desks at gated communities clear them without friction — share the visit details, and we handle the gate pass. Booked out on weekdays? We hold weekend and evening windows because we know the OMR calendar. Every job ends with a digital invoice, and yes, UPI is how most of Sholinganallur pays us.",
+    "Pricing is upfront and stays that way. A basic split AC service starts from ₹499, deep cleaning from ₹799, and gas top-ups from ₹1,499 — quoted before work begins, never after. Repairs carry up to a 90-day service warranty. We are GST-registered, we offer same-day slots, and we typically reach homes across Sholinganallur within 60-90 minutes in covered areas. The founder grew up on service calls; the standards show."
+  ],
+  "neighbourhoods": [
+    "ELCOT SEZ",
+    "Sholinganallur Junction",
+    "Kumaran Nagar",
+    "ECR Link Road",
+    "Sholinganallur-Medavakkam Road",
+    "Karapakkam",
+    "Semmancheri",
+    "Navalur",
+    "Perumbakkam"
+  ],
+  "challenges": [
+    {
+      "title": "Salt air eating balcony condensers",
+      "description": "Sea breeze crossing the marsh carries moisture and salt straight onto outdoor units mounted on tower balconies and service ledges. Fins pit, coils corrode, and cooling drops long before the unit is old."
+    },
+    {
+      "title": "Twelve-hour runtimes",
+      "description": "Between work-from-home days and late SEZ shifts, splits here run far longer than the Chennai average. Filters choke early, coils foul, and the EB bill creeps up while cooling quietly declines."
+    },
+    {
+      "title": "Tower rules and stacked outdoor units",
+      "description": "Association-managed buildings mean vendor ID checks, gate passes and outdoor units on shared platforms several floors up. Servicing them safely takes coordination and the right access equipment, not a lone freelancer on a ladder."
+    },
+    {
+      "title": "Summer voltage swings",
+      "description": "Peak-load fluctuations in April and May trip PCBs and stress compressors, especially in units running without a stabiliser. We test incoming voltage on every call and flag risks before they become repairs."
+    }
+  ],
+  "popularServices": [
+    "split-ac-service",
+    "ac-deep-cleaning",
+    "ac-gas-filling",
+    "ac-cooling-issues",
+    "amc-plans",
+    "ac-installation"
+  ],
+  "testimonials": [
+    {
+      "name": "Aravind K.",
+      "area": "Kumaran Nagar",
+      "quote": "Booked a Saturday morning slot online. Technician arrived in uniform, showed me the corroded condenser fins before quoting, and the deep clean brought my bedroom split back to proper cooling. Paid by UPI, digital invoice before he left.",
+      "rating": 5
+    },
+    {
+      "name": "Meenakshi R.",
+      "area": "ECR Link Road",
+      "quote": "Our association asks ID for every vendor. Airam shared the technician's details in advance, so the gate pass was sorted before the visit. Gas top-up quoted at ₹1,499 upfront and that is exactly what I paid.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How quickly can you reach Sholinganallur?",
+      "answer": "We offer same-day slots and typically reach homes in covered areas within 60-90 minutes. We also plan around OMR traffic and the Sholinganallur junction, so morning and post-lunch windows tend to run most on time. Weekend slots are held specifically for the IT crowd."
+    },
+    {
+      "question": "Do you service gated communities and high-rise towers here?",
+      "answer": "Yes, most of our Sholinganallur work is in association-managed towers. Our technicians are background-verified and uniformed, and we share their details in advance so the gate pass is ready before arrival. For outdoor units on shared ledges or upper-floor platforms, we bring the access gear the job needs."
+    },
+    {
+      "question": "Why does my AC in Sholinganallur lose cooling so quickly?",
+      "answer": "The marsh-side humidity and salt-laden sea breeze corrode coils and fins faster than in inland Chennai, and long daily runtimes accelerate the fouling. For most homes here we recommend a deep clean from ₹799 twice a year rather than the usual once. It keeps cooling stable and power bills flat."
+    },
+    {
+      "question": "Do you charge extra for service inside SEZ-side apartments or towers?",
+      "answer": "No. Our rates are the same across Chennai — basic split AC service from ₹499, deep cleaning from ₹799, gas top-up from ₹1,499 — and every job is quoted upfront before work starts. You get a GST digital invoice, and UPI is accepted on the spot."
+    }
+  ],
+  "meta": {
+    "title": "AC Service in Sholinganallur | Airam AC Service",
+    "description": "Expert AC repair and service in Sholinganallur. Same-day slots for OMR towers and ELCOT SEZ, upfront pricing from ₹499, digital invoices. Book a visit today."
+  }
+}

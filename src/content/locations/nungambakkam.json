@@ -1,0 +1,84 @@
+{
+  "slug": "nungambakkam",
+  "name": "Nungambakkam",
+  "tagline": "Quiet, precise AC care for central Chennai",
+  "headline": "White-Glove AC Service for Nungambakkam's Bungalows, Boutiques and Offices",
+  "intro": [
+    "Nungambakkam holds a rare mix. Consulates and corporate floors along Haddows Road and Nungambakkam High Road. Boutiques and cafes on Khader Nawaz Khan Road. Homes that range from colonial-era bungalows behind old compound walls to full-floor luxury apartments off Sterling Road. Air conditioners here work hard and are expected to work silently. Airam sends background-verified, uniformed technicians who arrive on time, lay floor sheets before opening a panel, and leave the room exactly as they found it.",
+    "Central Chennai heat has its own character. Traffic on College Road and the Sterling Road junction coats condenser coils in fine dust, so cooling fades months before it should. Heritage bungalows carry long refrigerant runs and decades-old wiring, and May's 40°C afternoons combined with voltage dips push compressors and PCBs to their limit. We service every major brand — Daikin, LG, Blue Star, Voltas, Mitsubishi Electric, O General and more — with transparent upfront pricing and up to a 90-day service warranty on repairs.",
+    "Booking is straightforward. Same-day slots, 60-90 minute reach in covered areas, GST-registered billing and a digital invoice before we leave. Basic split AC service starts from ₹499, deep cleaning from ₹799. For showrooms and offices we schedule around business hours, so a cassette unit on KNK Road is serviced, tested and dry before the first customer walks in. No surprises on the bill. No mess on the floor."
+  ],
+  "neighbourhoods": [
+    "Khader Nawaz Khan Road",
+    "Nungambakkam High Road",
+    "Sterling Road",
+    "College Road",
+    "Haddows Road",
+    "Wallace Garden",
+    "Tirumurthy Nagar",
+    "Mahalingapuram",
+    "Valluvar Kottam"
+  ],
+  "challenges": [
+    {
+      "title": "Traffic dust choking condenser coils",
+      "description": "Fine dust from Nungambakkam High Road and College Road settles into outdoor coils within months, cutting airflow and cooling. A jet-clean restores capacity and lowers power bills before summer peaks."
+    },
+    {
+      "title": "Heritage bungalows, modern loads",
+      "description": "Older bungalows have thick masonry walls, long refrigerant runs and wiring laid decades ago. Splits retrofitted onto these circuits need careful commissioning, stabiliser checks and periodic PCB health inspections."
+    },
+    {
+      "title": "Voltage dips during summer peaks",
+      "description": "When the whole district runs its ACs on a 40°C afternoon, voltage fluctuations in older blocks trip compressors and burn PCBs. We diagnose the root cause instead of just swapping parts."
+    },
+    {
+      "title": "Monsoon damp and blocked drains",
+      "description": "North-east monsoon humidity breeds algae in drain lines of ageing buildings, causing indoor water leakage and a musty smell. A deep clean with drain flushing typically resolves both."
+    }
+  ],
+  "popularServices": [
+    "split-ac-service",
+    "cassette-ac-service",
+    "ac-deep-cleaning",
+    "ac-pcb-repair",
+    "ac-installation",
+    "amc-plans"
+  ],
+  "testimonials": [
+    {
+      "name": "Meera S.",
+      "area": "Wallace Garden",
+      "quote": "They serviced three splits in our old family bungalow without a drop of water on the teak flooring. Shoe covers, floor sheets, digital invoice before leaving. My father was genuinely impressed.",
+      "rating": 5
+    },
+    {
+      "name": "Ashwin K.",
+      "area": "Tirumurthy Nagar",
+      "quote": "Our boutique's cassette AC on KNK Road was dripping onto the display racks. Airam came at 8 am, fixed the drain line, and we opened on time. Quoted ₹799, paid ₹799.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How quickly can a technician reach Nungambakkam?",
+      "answer": "Nungambakkam is a covered area, so we typically reach within 60-90 minutes. Same-day slots are usually available, including early-morning visits for boutiques and offices that want work finished before opening hours."
+    },
+    {
+      "question": "Which parts of Nungambakkam do you cover?",
+      "answer": "The full district — Khader Nawaz Khan Road, Nungambakkam High Road, Sterling Road, College Road, Haddows Road, Wallace Garden, Tirumurthy Nagar, Mahalingapuram and the lanes around Valluvar Kottam. We handle homes, heritage bungalows, offices and retail spaces alike."
+    },
+    {
+      "question": "What AC problems are most common in this area?",
+      "answer": "Dust-clogged condenser coils from arterial traffic, water leakage during the monsoon, and PCB or compressor trouble in older buildings with fluctuating voltage. Most cooling complaints here trace back to coils that have not seen a deep clean in over a year."
+    },
+    {
+      "question": "Do you charge more for premium addresses in Nungambakkam?",
+      "answer": "No. Pricing is identical across Chennai — basic split AC service from ₹499, deep cleaning from ₹799, gas top-up from ₹1,499, residential AMC from ₹1,199 per unit per year. You approve a transparent quote before any work begins, and every job carries a GST invoice."
+    }
+  ],
+  "meta": {
+    "title": "AC Service in Nungambakkam | Airam AC Service",
+    "description": "Premium AC service in Nungambakkam from ₹499. Uniformed, background-verified technicians, 90-day warranty, same-day slots. Book your visit today."
+  }
+}

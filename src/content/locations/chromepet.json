@@ -1,0 +1,85 @@
+{
+  "slug": "chromepet",
+  "name": "Chromepet",
+  "tagline": "Honest AC care for Chromepet's compact homes",
+  "headline": "AC Service in Chromepet, From MIT Lanes to GST Road",
+  "intro": [
+    "Chromepet packs a lot into a few square kilometres. Mid-rise flats stacked along GST Road, student rooms around the MIT campus, families near the government hospital cluster. Most homes here run a compact 1 or 1.5 ton split, and in May that unit works a twelve-hour shift. Airam AC Service keeps those machines honest, with GST-registered billing, background-verified technicians, and pricing you see before we open the panel.",
+    "The neighbourhood is tough on air conditioners. Dust from GST Road traffic cakes filters and coils within weeks of a service. Voltage dips across older blocks in Radha Nagar and New Colony stress compressors and trip PCBs. And Chennai's coastal humidity means a poorly drained unit starts dripping down a freshly painted wall by August. Our technicians see these patterns every day, so diagnosis is quick and repairs come with up to a 90-day warranty.",
+    "Chromepet households watch every rupee, and we price like we know it. A basic split service starts from ₹499, deep cleaning from ₹799, and every job ends with a digital invoice, no rounding up at the door. Our founder spent years on service calls in his father's AC business before starting Airam, so the standard is simple: fix it properly the first time. Same-day slots are available, with 60-90 minute reach across Chromepet."
+  ],
+  "neighbourhoods": [
+    "Radha Nagar",
+    "New Colony",
+    "Hasthinapuram",
+    "MIT Colony",
+    "Nemilichery",
+    "Krishna Nagar",
+    "GST Road stretch",
+    "Chromepet Railway Station area",
+    "Chitlapakkam border",
+    "Zamin Pallavaram"
+  ],
+  "challenges": [
+    {
+      "title": "GST Road dust chokes filters fast",
+      "description": "Fine dust from GST Road traffic settles into filters and evaporator coils within weeks, cutting airflow and cooling. Homes near the main road often need a jet-wash deep clean, not just a filter rinse."
+    },
+    {
+      "title": "Voltage swings in dense mid-rise blocks",
+      "description": "Evening loads across Chromepet's packed apartment blocks bring voltage dips and spikes that burn capacitors and trip PCBs. We test stabilisers and connections on every call, not just the unit."
+    },
+    {
+      "title": "Compact splits running overtime",
+      "description": "The 1 and 1.5 ton units in student rooms near MIT and small family flats often run twelve-hour stretches through summer. Gas levels drop, capacitors wear, and cooling fades exactly when it is needed most."
+    },
+    {
+      "title": "Leaks from cramped installations",
+      "description": "Tight balconies and short drain runs are common on Chromepet's narrow plots, so condensate backs up and drips down walls, especially in humid monsoon weeks. We re-slope drains and clear blockages properly."
+    }
+  ],
+  "popularServices": [
+    "split-ac-service",
+    "ac-deep-cleaning",
+    "ac-gas-filling",
+    "ac-cooling-issues",
+    "ac-water-leakage",
+    "amc-plans"
+  ],
+  "testimonials": [
+    {
+      "name": "Vignesh S.",
+      "area": "Radha Nagar",
+      "quote": "My 1 ton LG in Radha Nagar was cooling poorly. The technician showed me the clogged coil, did a jet wash, and cooling was back that evening. Invoice matched the quoted ₹799.",
+      "rating": 5
+    },
+    {
+      "name": "Revathi M.",
+      "area": "Hasthinapuram",
+      "quote": "Our Voltas split stopped cooling during exam week. They came the same day, found low gas, and topped it up with pressure readings shown on the phone. Very professional team.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How soon can a technician reach my home in Chromepet?",
+      "answer": "We offer same-day slots for Chromepet, with 60-90 minute reach in covered areas. Whether you are near the MIT flyover, the railway station or the hospital stretch, our technicians ride two-wheelers, so narrow inner streets do not slow them down."
+    },
+    {
+      "question": "Which parts of Chromepet do you cover?",
+      "answer": "All of it: Radha Nagar, New Colony, Hasthinapuram, MIT Colony, Nemilichery and Krishna Nagar, plus the Chitlapakkam and Zamin Pallavaram borders. If your building sits off a narrow lane, that is not a problem; most of our Chromepet visits do."
+    },
+    {
+      "question": "What AC problems are most common in Chromepet?",
+      "answer": "Dust-clogged filters and coils from GST Road traffic, capacitor and PCB failures after voltage dips, and drain leaks in tightly installed splits. A deep clean from ₹799 solves most cooling complaints, while PCB repair runs ₹1,499-4,999 depending on the board."
+    },
+    {
+      "question": "Do you charge more in Chromepet than in other areas?",
+      "answer": "No. A basic split service starts from ₹499 and gas top-up from ₹1,499, exactly as it does anywhere else we work in Chennai. You get an upfront quote before work begins and a digital invoice after, so the price never shifts at the door."
+    }
+  ],
+  "meta": {
+    "title": "AC Service in Chromepet | Airam AC Service",
+    "description": "Professional AC service in Chromepet from ₹499. Verified technicians, same-day slots and up to 90-day warranty on repairs. Book your visit with Airam today."
+  }
+}

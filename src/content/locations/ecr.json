@@ -1,0 +1,85 @@
+{
+  "slug": "ecr",
+  "name": "ECR (East Coast Road)",
+  "tagline": "Salt-proof cooling for the coastal stretch",
+  "headline": "AC Service in ECR (East Coast Road), Built for Salt Air",
+  "intro": [
+    "On ECR, the sea is never more than a few hundred metres away. That view comes at a cost your condenser pays. Salt-laden air eats aluminium fins, pits copper coils and rusts cabinets from Thiruvanmiyur to Uthandi far faster than anywhere inland in Chennai. An outdoor unit that would last comfortably in Anna Nagar starts losing cooling capacity here within a couple of seasons if nobody is washing the salt off.",
+    "Airam grew up in this trade. Our founder spent years on service calls in his father's AC business before starting his own, and coastal corrosion is the problem he knows best. For ECR homes we pitch a simple routine: pressure coil washes every three to four months, anti-corrosive coating on fins and cabinet, and drain checks before the monsoon damp sets in. Background-verified, uniformed technicians. GST invoices, sent digitally. Up to 90 days of warranty on repairs.",
+    "We service the full stretch — villas in Palavakkam and Neelankarai, gated communities off Injambakkam, weekend beach houses near Muttukadu and farmhouses toward Mahabalipuram. Many ECR homes sit locked for weeks, then have to cool a full house on a Friday evening. We coordinate with caretakers, service before you arrive, and send the invoice to your phone. Same-day slots, transparent pricing quoted before we open the unit."
+  ],
+  "neighbourhoods": [
+    "Thiruvanmiyur",
+    "Kottivakkam",
+    "Palavakkam",
+    "Neelankarai",
+    "Injambakkam",
+    "Akkarai",
+    "Panaiyur",
+    "Uthandi",
+    "Muttukadu",
+    "Kovalam"
+  ],
+  "challenges": [
+    {
+      "title": "Salt-corroded condenser coils",
+      "description": "Sea air within a kilometre of the shore pits aluminium fins and strips their coating, cutting heat exchange and cooling capacity season by season. We pressure-wash coils and apply anti-corrosive treatment to slow the damage."
+    },
+    {
+      "title": "Beach houses that sit idle",
+      "description": "Units locked up between visits grow mould on blower wheels and collect insect nests in outdoor cabinets. A pre-arrival deep clean clears the musty smell before the family lands."
+    },
+    {
+      "title": "Voltage swings and generator changeovers",
+      "description": "Villas along the stretch flip between EB supply and DG sets, and the spikes stress inverter PCBs. We diagnose faults at board level and recommend stabilisers where the wiring needs one."
+    },
+    {
+      "title": "Coastal humidity overload",
+      "description": "Humid sea air makes ACs dehumidify as hard as they cool, so drain trays overflow and water drips indoors, worst during the monsoon. We clear drain lines and re-slope piping where needed."
+    }
+  ],
+  "popularServices": [
+    "split-ac-service",
+    "ac-deep-cleaning",
+    "ac-gas-filling",
+    "ac-pcb-repair",
+    "ac-installation",
+    "amc-plans"
+  ],
+  "testimonials": [
+    {
+      "name": "Karthik R.",
+      "area": "Neelankarai",
+      "quote": "The fins on my Daikin outdoor unit were crumbling from the sea air. Airam's technician washed the coil, applied anti-corrosive coating and showed me before-after photos. Cooling is noticeably stronger now.",
+      "rating": 5
+    },
+    {
+      "name": "Divya M.",
+      "area": "Injambakkam",
+      "quote": "Our beach house sits empty most of the month. They coordinated with our caretaker, deep-cleaned both bedroom ACs before we drove down, and the invoice was on my phone by evening.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How quickly can you reach homes along ECR?",
+      "answer": "We offer same-day slots across the stretch, with 60-90 minute reach in covered areas from Thiruvanmiyur to Kovalam. For farmhouses further toward Mahabalipuram, book a morning slot and we plan the visit into the same day's route."
+    },
+    {
+      "question": "Why does my AC near the beach lose cooling so fast?",
+      "answer": "Salt-laden sea air corrodes condenser fins and coils, and a corroded coil cannot shed heat properly. Within a kilometre of the shore we recommend a coil wash every three to four months plus anti-corrosive treatment, instead of the once-a-year service inland homes get away with."
+    },
+    {
+      "question": "Can you service a beach house or farmhouse when we are not there?",
+      "answer": "Yes. We coordinate timings with your caretaker, our technicians are background-verified and uniformed, and the digital invoice with service photos reaches your phone. Many ECR owners book a pre-arrival deep clean before a weekend down."
+    },
+    {
+      "question": "Do you charge extra for ECR compared to the city?",
+      "answer": "No. Pricing is the same across Chennai: basic split AC service from ₹499, deep cleaning from ₹799, gas top-up from ₹1,499 and residential AMC from ₹1,199 per unit per year. Anti-corrosive coil treatment is quoted upfront before any work begins."
+    }
+  ],
+  "meta": {
+    "title": "AC Service in ECR (East Coast Road) | Airam AC Service",
+    "description": "Anti-corrosive AC service for ECR villas and beach houses, Thiruvanmiyur to Kovalam. Coil washes, gas top-ups, 90-day warranty. Book a same-day slot."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "omr",
+  "name": "OMR (Old Mahabalipuram Road)",
+  "tagline": "Cool towers along the IT expressway",
+  "headline": "AC Service in OMR: Tower-Ready Technicians from Thoraipakkam to Siruseri",
+  "intro": [
+    "Life on OMR runs on air conditioning. Between Thoraipakkam and Siruseri, thousands of split units hum through work-from-home mornings, tech park evenings and humid coastal nights. The trouble is location: sea air drifting in from the ECR side corrodes condenser coils, construction dust from the next tower clogs filters, and the Pallikaranai marsh keeps humidity high through monsoon. An AC on OMR works harder than almost anywhere else in Chennai, and shows it faster.",
+    "We built our OMR service around how the corridor actually lives. Book a slot the way you book a cab — pick a time, get a confirmation, pay against a digital GST invoice. Our background-verified, uniformed technicians handle the tower routine themselves: association gate passes, service-lift bookings, ODU access on compact utility balconies. And because most of our OMR customers are at a desk till six, we hold evening and weekend slots that do not get bumped.",
+    "Pricing is upfront and the same across the corridor: split AC service from ₹499, deep cleaning from ₹799, gas top-up from ₹1,499. Every repair carries up to a 90-day service warranty. We work on all the brands fitted across OMR's towers — Daikin, LG, Voltas, Blue Star, Samsung, Mitsubishi Electric and more — with same-day slots and a 60-90 minute reach in covered areas. One visit, and you will see why the corridor keeps our number saved."
+  ],
+  "neighbourhoods": [
+    "Thoraipakkam",
+    "Perungudi",
+    "Karapakkam",
+    "Sholinganallur",
+    "Navalur",
+    "Padur",
+    "Semmancheri",
+    "Egattur",
+    "Siruseri (SIPCOT)",
+    "Kelambakkam Junction"
+  ],
+  "challenges": [
+    {
+      "title": "Salt corrosion on balcony ODUs",
+      "description": "Sea air rolls in from the ECR side and eats into condenser fins and coil joints on exposed balcony outdoor units. Cooling drops quietly for months, then the gas leaks out at a corroded flare joint."
+    },
+    {
+      "title": "Construction dust choking filters",
+      "description": "OMR never stops building, and the fine dust settles into indoor filters and blower wheels within weeks. The result is weak airflow, a musty smell and electricity bills that creep up every cycle."
+    },
+    {
+      "title": "Genset switchover and voltage swings",
+      "description": "Gated communities flip between EB supply and diesel backup several times a day, and the voltage jolt is hard on inverter PCBs. We see more tripped boards on this corridor than anywhere else we service."
+    },
+    {
+      "title": "Marsh humidity and monsoon damp",
+      "description": "With the Pallikaranai marsh on one side and the coast on the other, OMR air stays heavy long after the rain stops. Drain lines clog with algae faster here, and water leakage calls spike every November."
+    }
+  ],
+  "popularServices": [
+    "split-ac-service",
+    "ac-deep-cleaning",
+    "ac-gas-filling",
+    "ac-cooling-issues",
+    "ac-installation",
+    "amc-plans"
+  ],
+  "testimonials": [
+    {
+      "name": "Aravind S.",
+      "area": "Thoraipakkam",
+      "quote": "Booked a 7 pm slot after work. The technician had the gate pass sorted before he arrived, deep-cleaned both units in ninety minutes and sent the GST invoice before he left the lobby.",
+      "rating": 5
+    },
+    {
+      "name": "Divya K.",
+      "area": "Navalur",
+      "quote": "Our bedroom AC stopped cooling in May. They found corroded condenser fins from the sea air, quoted before touching anything, and did the gas charge the same evening. Cooling is back to day-one levels.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How quickly can you reach an apartment on OMR?",
+      "answer": "We offer same-day slots across the corridor and a 60-90 minute reach in covered areas. Share your community name and tower number while booking, and our technician coordinates the association gate pass and service lift before arriving, so no time is lost at the gate."
+    },
+    {
+      "question": "Which parts of OMR do you cover?",
+      "answer": "We service both sides of Rajiv Gandhi Salai from Perungudi and Thoraipakkam down through Sholinganallur, Navalur, Padur and Egattur to Siruseri and Kelambakkam Junction. That includes high-rise gated communities, villa projects and independent homes, with evening and weekend slots for working professionals."
+    },
+    {
+      "question": "What AC problems are most common on OMR?",
+      "answer": "Three things dominate: salt corrosion on outdoor coils from coastal air, construction dust clogging filters and blowers, and inverter PCBs tripped by genset switchovers in gated communities. A deep clean from ₹799 plus an anti-corrosion coil check twice a year prevents most of it."
+    },
+    {
+      "question": "Do you charge extra for high-rise or gated community visits?",
+      "answer": "No. OMR pricing matches the rest of Chennai — basic split AC service from ₹499, gas top-up from ₹1,499 — with no tower or gate-pass surcharge. You get a clear quote before any work begins and a digital GST invoice after it ends."
+    }
+  ],
+  "meta": {
+    "title": "AC Service in OMR, Chennai | Airam AC Service",
+    "description": "Expert AC service across OMR — Thoraipakkam to Siruseri. Evening and weekend slots, gate-pass coordination, upfront pricing from ₹499. Book your same-day slot."
+  }
+}

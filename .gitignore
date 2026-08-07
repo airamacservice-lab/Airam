@@ -36,6 +36,10 @@ yarn-error.log*
 # vercel
 .vercel
 
+# customer lead data — never commit
+/data/*.jsonl
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.claude-flow/

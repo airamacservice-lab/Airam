@@ -1,0 +1,140 @@
+{
+  "slug": "vrf-service",
+  "name": "VRF System Service",
+  "shortName": "VRF",
+  "icon": "Network",
+  "category": "commercial",
+  "tagline": "Multi-brand VRF care for Chennai buildings",
+  "headline": "Every VRF Brand, Serviced to Its Design Capacity",
+  "summary": "One outdoor unit, dozens of indoor units, and an entire building depending on both. Airam services LG Multi V, Mitsubishi Electric City Multi, Toshiba and Samsung DVM systems across Chennai — per-IDU cleaning, ODU health audits and capacity balancing that keeps every zone at its design temperature. Site-visit quotes in writing, GST invoices, up to 90-day warranty on repairs.",
+  "highlights": [
+    "LG, Mitsubishi, Toshiba, Samsung",
+    "IDU and ODU health audits",
+    "Capacity balancing across zones"
+  ],
+  "symptoms": [
+    {
+      "title": "Uneven cooling between zones",
+      "description": "Cabins on one floor freeze while the far wing sits at 30°C — a sign refrigerant distribution has drifted from design and needs rebalancing."
+    },
+    {
+      "title": "ODU tripping at peak heat",
+      "description": "Outdoor modules cutting out during 40°C afternoons usually mean a choked condenser coil or a compressor stage working beyond its limits."
+    },
+    {
+      "title": "Error codes on multiple IDUs",
+      "description": "Several indoor units flashing faults at once points to a communication bus or refrigerant circuit problem, not one failed unit."
+    },
+    {
+      "title": "Electricity bills creeping up",
+      "description": "A VRF running out of balance draws more power every month as compressors overwork to cover starved zones."
+    },
+    {
+      "title": "Corrosion on coastal ODUs",
+      "description": "Sea air near the coast eats condenser fins first — white or green deposits on the coil mean treatment is overdue."
+    },
+    {
+      "title": "Water stains under ceilings",
+      "description": "Blocked condensate drains in cassette and ductable IDUs stain false ceilings before they short anything, and monsoon damp accelerates both."
+    }
+  ],
+  "pricing": [
+    {
+      "label": "IDU service, per unit",
+      "price": "from ₹599",
+      "note": "Filter, coil and blower cleaning plus drain flush for hi-wall, cassette and ductable indoor units"
+    },
+    {
+      "label": "ODU deep service, per module",
+      "price": "from ₹2,499",
+      "note": "Chemical coil wash, fan and motor checks, and electrical terminal inspection for each outdoor module"
+    },
+    {
+      "label": "System health audit",
+      "price": "from ₹3,999",
+      "note": "Full IDU/ODU inspection with refrigerant readings, a zone-by-zone capacity-balance report and a prioritised repair list"
+    },
+    {
+      "label": "Repairs and refrigerant work",
+      "price": "site-visit quote",
+      "note": "PCB, valve, compressor and gas work quoted in writing after inspection — no phone estimates on VRF"
+    }
+  ],
+  "inclusions": [
+    "Background-verified, uniformed technicians",
+    "Written site-visit quote before any work",
+    "Per-IDU service checklist, signed off unit by unit",
+    "Refrigerant pressure and temperature readings logged",
+    "Condensate drain clearing on every serviced IDU",
+    "Error-code history and communication bus scan",
+    "Digital GST invoice on completion",
+    "Up to 90-day warranty on repairs"
+  ],
+  "benefits": [
+    {
+      "title": "Fluent in four VRF platforms",
+      "description": "LG Multi V, Mitsubishi Electric City Multi, Toshiba and Samsung DVM each run their own controls, fault logic and service procedures. Our technicians work across all of them, so a mixed-brand building needs one vendor, not four."
+    },
+    {
+      "title": "Capacity balancing, not just cleaning",
+      "description": "We measure what each zone actually receives against what the system was designed to deliver, then correct settings, valves or piping until the numbers match. Clean coils alone never fix a starved wing."
+    },
+    {
+      "title": "Built on service-floor experience",
+      "description": "Our founder spent years on service calls in his father's AC business before starting Airam. That discipline shows in how VRF jobs are documented — readings logged, quotes in writing, nothing verbal."
+    },
+    {
+      "title": "Chennai-proofed maintenance",
+      "description": "Coastal salt air corrodes ODU coils and voltage fluctuations stress inverter boards, so we check for both on every visit. Anti-corrosive treatment is recommended where the audit shows fin damage, not by default."
+    }
+  ],
+  "process": [
+    {
+      "title": "Book a site visit",
+      "description": "Tell us the brand, IDU count and floor layout, and we schedule an engineer — same-day slots when available."
+    },
+    {
+      "title": "Audit every unit",
+      "description": "We inspect each IDU and ODU, log refrigerant readings and error histories, and map cooling delivery zone by zone."
+    },
+    {
+      "title": "Quote, then work",
+      "description": "You get a written, itemised quote; on approval we service, repair and rebalance with per-unit sign-off."
+    },
+    {
+      "title": "Report and warranty",
+      "description": "You receive a system health report, a digital GST invoice and up to 90 days of warranty on repair work."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which VRF brands do you service?",
+      "answer": "Our core platforms are LG Multi V, Mitsubishi Electric City Multi, Toshiba and Samsung DVM, and we handle other major VRF systems as well. For Daikin VRV, see our dedicated VRV service page. Mixed-brand buildings get one team and one invoice."
+    },
+    {
+      "question": "How is this different from your VRV service?",
+      "answer": "VRV is Daikin's trademark for the technology; every other manufacturer calls it VRF. The engineering principle is the same, but parts, controls and fault codes differ sharply by brand. We keep the pages separate so each system gets brand-specific procedures, not generic ones."
+    },
+    {
+      "question": "What does a capacity-balance check involve?",
+      "answer": "We log temperature drop and airflow at every IDU and compare each zone against its design capacity, then read refrigerant distribution at the ODU. The result is a zone-by-zone report showing which areas are starved and why. Corrections range from control settings to valve and piping work, each quoted before we touch it."
+    },
+    {
+      "question": "Why site-visit quotes instead of fixed prices?",
+      "answer": "No two VRF jobs match — a 6-IDU showroom and a 40-IDU office differ in hours, access and materials. We inspect first and give a written, GST-billed quote before any work begins. Per-IDU and per-ODU service rates are published above so you can estimate the routine portion yourself."
+    },
+    {
+      "question": "Can you service the system without shutting the whole building down?",
+      "answer": "Largely, yes. IDUs are serviced zone by zone while the rest of the system keeps running, so most floors never notice. ODU deep service and refrigerant work need a planned shutdown window, which we schedule around your working hours."
+    }
+  ],
+  "related": [
+    "vrv-service",
+    "commercial-ac-service",
+    "commercial-amc-contracts"
+  ],
+  "meta": {
+    "title": "VRF System Service in Chennai | Airam AC Service",
+    "description": "Multi-brand VRF service in Chennai for LG Multi V, Mitsubishi City Multi, Toshiba and Samsung DVM. IDU/ODU audits and capacity balancing. Book a site visit."
+  }
+}

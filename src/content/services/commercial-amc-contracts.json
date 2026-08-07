@@ -1,0 +1,136 @@
+{
+  "slug": "commercial-amc-contracts",
+  "name": "Commercial AMC Contracts",
+  "shortName": "Commercial AMC",
+  "icon": "FileCheck",
+  "category": "commercial",
+  "tagline": "AMC contracts for commercial AC fleets",
+  "headline": "Every AC in Your Building, Handled Under One Contract",
+  "summary": "One contract for every AC across your premises — offices, schools, hospitals, restaurants. Quarterly preventive maintenance keeps units efficient through 40°C summers and salty coastal air, and an SLA keeps breakdowns short. One account manager, one consolidated GST invoice, and a health report on every unit, every quarter.",
+  "highlights": [
+    "SLA-bound breakdown response",
+    "One account manager per fleet",
+    "Quarterly preventive maintenance"
+  ],
+  "symptoms": [
+    {
+      "title": "Breakdowns during business hours",
+      "description": "A unit fails at 2 pm on a 40°C day and every fix becomes an emergency call to whichever technician picks up."
+    },
+    {
+      "title": "No service records",
+      "description": "Nobody can say when any given unit was last cleaned, gassed, or checked, so failures always arrive as surprises."
+    },
+    {
+      "title": "Electricity bills creeping up",
+      "description": "Choked coils and low gas across a fleet raise consumption quietly, and the cost hides inside one large EB bill."
+    },
+    {
+      "title": "Multiple vendors, multiple invoices",
+      "description": "Accounts chases separate cash bills from different technicians every month, with no GST paperwork to file against."
+    },
+    {
+      "title": "Units ageing unevenly",
+      "description": "The ACs near reception get attention while the ones above the kitchen or server room corrode in humid, greasy air until they fail."
+    }
+  ],
+  "pricing": [
+    {
+      "label": "Non-comprehensive AMC",
+      "price": "from ₹1,499 per unit/year",
+      "note": "Quarterly preventive service plus priority breakdown visits; parts and gas billed separately at pre-agreed rates"
+    },
+    {
+      "label": "Semi-comprehensive AMC",
+      "price": "from ₹2,499 per unit/year",
+      "note": "Adds gas top-ups and minor spares — capacitors, sensors, drain fittings — at no extra charge"
+    },
+    {
+      "label": "Comprehensive AMC",
+      "price": "from ₹3,999 per unit/year",
+      "note": "Parts, gas, and labour covered, including PCB and compressor work, for a predictable annual budget"
+    },
+    {
+      "label": "Custom fleet quote",
+      "price": "priced after site survey",
+      "note": "Mixed fleets of 20+ units — split, cassette, ducted, VRF — quoted per fleet after a free walk-through"
+    }
+  ],
+  "inclusions": [
+    "Per-unit asset tagging and service history log",
+    "Quarterly coil, filter, and blower cleaning",
+    "Gas pressure and leak checks every visit",
+    "Electrical, contactor, and voltage checks for Chennai's supply swings",
+    "Drain line clearing before the monsoon",
+    "Priority breakdown visits under your SLA",
+    "Quarterly fleet health and consumption report",
+    "One consolidated GST digital invoice"
+  ],
+  "benefits": [
+    {
+      "title": "An SLA you can hold us to",
+      "description": "Breakdown response is written into the contract, not promised on a phone call. Same-day slots and 60-90 minute reach in covered areas, with escalation straight to your account manager."
+    },
+    {
+      "title": "One person owns your fleet",
+      "description": "A single account manager tracks every unit, every visit, and every pending repair. Your facilities team makes one call, not twelve."
+    },
+    {
+      "title": "Reports that make budgeting possible",
+      "description": "Quarterly health and consumption reports flag which units are declining, so replacements are planned line items instead of emergency purchases."
+    },
+    {
+      "title": "Crews built for commercial sites",
+      "description": "Background-verified, uniformed technicians trained across Daikin, Blue Star, Carrier, Mitsubishi Electric, and every major brand. Repairs carry up to a 90-day service warranty."
+    }
+  ],
+  "process": [
+    {
+      "title": "Free site survey",
+      "description": "We walk your premises, tag every unit, and record age, condition, and gas type before quoting a single rupee."
+    },
+    {
+      "title": "Contract built per fleet",
+      "description": "You pick the tier, we fix the SLA, visit calendar, and consolidated billing cycle in writing."
+    },
+    {
+      "title": "Quarterly maintenance visits",
+      "description": "Uniformed crews service every tagged unit against a checklist, scheduled outside your business hours where needed."
+    },
+    {
+      "title": "Report, review, warranty",
+      "description": "Each quarter closes with a fleet health report and an account-manager review; repairs done under the contract carry up to a 90-day service warranty."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which premises and AC types do you cover?",
+      "answer": "Offices, schools, hospitals, restaurants, clinics, and retail spaces across Chennai. We service mixed fleets — split, window, cassette, ducted, and VRF — across all major brands including Daikin, Blue Star, Voltas, Carrier, and Mitsubishi Electric. One contract covers the lot."
+    },
+    {
+      "question": "How is a commercial AMC priced?",
+      "answer": "Per unit, per year, by tier — non-comprehensive from ₹1,499, semi-comprehensive from ₹2,499, comprehensive from ₹3,999. The final quote is set after a free site survey, because a five-year-old cassette above a restaurant kitchen is not the same risk as a two-year-old split in a cabin. Larger fleets attract per-fleet rates."
+    },
+    {
+      "question": "What does the SLA actually commit to?",
+      "answer": "Same-day slots for breakdown calls and 60-90 minute reach in covered areas, written into the contract. Contract clients are booked ahead of walk-in work. If a repair needs parts, your account manager gives you a firm timeline before the technician leaves."
+    },
+    {
+      "question": "Can visits happen outside business hours?",
+      "answer": "Yes. Restaurants get serviced before lunch prep, schools during holidays, and hospital wards on a rotation your administrator signs off. The quarterly calendar is agreed at contract start and your account manager confirms each visit in advance."
+    },
+    {
+      "question": "Who pays for parts and gas during the contract?",
+      "answer": "It depends on your tier. Non-comprehensive contracts bill parts and gas separately at rates fixed in the contract — a top-up from ₹1,499, for instance. Comprehensive contracts absorb parts, gas, and labour, including PCB and compressor work. Every repair is documented on a digital GST invoice either way."
+    }
+  ],
+  "related": [
+    "commercial-ac-service",
+    "vrf-service",
+    "amc-plans"
+  ],
+  "meta": {
+    "title": "Commercial AC AMC Contracts in Chennai | Airam AC Service",
+    "description": "Quarterly preventive maintenance, SLA-bound breakdown response and one account manager for your AC fleet in Chennai. Book a free site survey today."
+  }
+}

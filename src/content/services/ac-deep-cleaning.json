@@ -1,0 +1,140 @@
+{
+  "slug": "ac-deep-cleaning",
+  "name": "AC Deep Cleaning (Jet & Foam)",
+  "shortName": "Deep Cleaning",
+  "icon": "Sparkles",
+  "category": "maintenance",
+  "tagline": "High-pressure jet and foam deep cleaning",
+  "headline": "Cooling you can feel. Air you can trust.",
+  "summary": "Chennai's dust rides in on sea air and settles on damp coils, and damp coils grow mould. Our jet and foam deep clean strips both out — a high-pressure wash for the coils, a scrub for the blower wheel, a flush for the drain tray, and an anti-bacterial finish. Most homes feel colder, cleaner air the same evening, from ₹799 per unit.",
+  "highlights": [
+    "High-pressure coil jet wash",
+    "Anti-bacterial foam treatment",
+    "Cooling gains the same day"
+  ],
+  "symptoms": [
+    {
+      "title": "Musty smell at startup",
+      "description": "A damp, sour odour when the AC kicks on means mould has taken hold on the coil and blower, and the fan is pushing spores into your room."
+    },
+    {
+      "title": "Weak airflow from vents",
+      "description": "A dust-caked blower wheel moves far less air, so the compressor runs longer and the room still feels warm."
+    },
+    {
+      "title": "Black spots on louvres",
+      "description": "Visible mould on the swing blades means it is worse inside the unit, where Chennai's humidity feeds it year-round."
+    },
+    {
+      "title": "Water dripping indoors",
+      "description": "A choked drain tray or line backs condensate into the room, staining walls and putting the PCB at risk."
+    },
+    {
+      "title": "Longer cooling, higher bills",
+      "description": "Dirt-blanketed coils cannot dump heat, so the AC struggles through 40°C afternoons while your power bill creeps up."
+    },
+    {
+      "title": "Sneezing when the AC runs",
+      "description": "If allergies flare only in air-conditioned rooms, fine dust and spores breeding inside the unit are the usual culprits."
+    }
+  ],
+  "pricing": [
+    {
+      "label": "Split AC deep clean",
+      "price": "from ₹799",
+      "note": "Indoor and outdoor coil jet wash, blower scrub, foam, drain flush and anti-bacterial treatment"
+    },
+    {
+      "label": "Window AC deep clean",
+      "price": "from ₹699",
+      "note": "Full pull-through jet wash of coils, fan and body with drain clean and anti-bacterial finish"
+    },
+    {
+      "label": "Cassette or ductable deep clean",
+      "price": "from ₹1,499",
+      "note": "Ceiling units cleaned in place with coil jet wash, drain pump check and tray flush"
+    },
+    {
+      "label": "Multi-unit homes (2+ ACs)",
+      "price": "from ₹749 per unit",
+      "note": "Per-unit rate for two or more ACs deep cleaned in a single visit"
+    }
+  ],
+  "inclusions": [
+    "High-pressure jet wash of indoor and outdoor coils",
+    "Blower wheel removed and scrubbed",
+    "Foam treatment for fin gaps water cannot reach",
+    "Drain tray and drain line flush",
+    "Anti-bacterial and anti-fungal treatment",
+    "Filter, louvre and front panel wash",
+    "Vent temperature check before and after",
+    "Protective sheeting for walls and furniture"
+  ],
+  "benefits": [
+    {
+      "title": "Trained on Chennai's worst",
+      "description": "Our founder spent years on service calls in his father's AC business before starting Airam. Our technicians know what sea air, road dust and monsoon damp do to a coil, and they clean for it."
+    },
+    {
+      "title": "Verified people in your home",
+      "description": "Every technician is background-verified and arrives in uniform. Your walls and furniture go under protective sheeting before the first drop of water flies."
+    },
+    {
+      "title": "Price confirmed before we start",
+      "description": "You get the exact amount upfront, and a digital GST invoice after. No surprise additions once the unit is open."
+    },
+    {
+      "title": "Every major brand handled",
+      "description": "Daikin, LG, Voltas, Blue Star, Samsung, Carrier, Hitachi, O General, Mitsubishi Electric, Panasonic. We know how each unit opens, and how it goes back together."
+    }
+  ],
+  "process": [
+    {
+      "title": "Book a slot",
+      "description": "Pick a same-day slot; in covered areas our technician reaches you in 60-90 minutes."
+    },
+    {
+      "title": "Inspect and confirm",
+      "description": "We open the unit, show you the state of the coil and blower, and confirm the price before touching anything."
+    },
+    {
+      "title": "Jet, foam, flush",
+      "description": "High-pressure wash for the coils, scrub for the blower wheel, foam for the fin gaps, and a full drain tray flush with anti-bacterial treatment."
+    },
+    {
+      "title": "Verify and record",
+      "description": "We measure vent temperature before and after so you see the gain, then send a digital GST invoice; any repair we quote carries up to a 90-day warranty if you proceed."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How is deep cleaning different from a basic AC service?",
+      "answer": "A basic service from ₹499 covers filter wash, wipe-down and checks — good upkeep for a reasonably clean unit. Deep cleaning adds a high-pressure jet wash of both coils, a blower wheel scrub, foam for the fin gaps, a drain flush and anti-bacterial treatment. If your AC smells musty, drips, or has not been opened in over a year, deep cleaning is the right call."
+    },
+    {
+      "question": "How often does an AC in Chennai need deep cleaning?",
+      "answer": "Once a year is the minimum, ideally before summer sets in. Homes near the coast or facing a main road collect salt and dust faster, and units that run through the monsoon stay damp inside — for those, twice a year keeps mould from re-establishing."
+    },
+    {
+      "question": "Will deep cleaning stop my indoor unit from dripping?",
+      "answer": "In most cases, yes. Indoor dripping is usually a drain tray or drain line choked with sludge, and the flush clears it. If water still appears after a clean, the cause is likely an installation slope or icing issue, and our water leakage service picks it up from there."
+    },
+    {
+      "question": "How much cooling improvement will I actually notice?",
+      "answer": "Clean coils transfer heat the way the manufacturer intended, so rooms reach temperature faster and the compressor cycles off sooner. We measure vent temperature before and after so the gain is on record, not a feeling. If cooling stays weak after a deep clean, the issue is usually low gas, which is a separate top-up from ₹1,499."
+    },
+    {
+      "question": "Will the jet wash make a mess in my room?",
+      "answer": "No. We sheet the wall and floor below the unit and clip a collection bag under the indoor unit, so wash water drains into a bucket rather than onto your paint. The room is dry and back in order before the technician leaves."
+    }
+  ],
+  "related": [
+    "split-ac-service",
+    "ac-water-leakage",
+    "amc-plans"
+  ],
+  "meta": {
+    "title": "AC Deep Cleaning in Chennai from ₹799 | Airam AC Service",
+    "description": "Jet wash and foam deep cleaning for split and window ACs in Chennai. Clears mould, dust and blocked drains from ₹799. Book a same-day slot with Airam."
+  }
+}

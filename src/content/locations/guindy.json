@@ -1,0 +1,84 @@
+{
+  "slug": "guindy",
+  "name": "Guindy",
+  "tagline": "Serious cooling for Chennai's busiest junction",
+  "headline": "AC Service in Guindy: From SIDCO Floors to Kathipara Flats",
+  "intro": [
+    "Guindy works harder than most of Chennai. Trucks feed the SIDCO estate, office towers at Olympia Tech Park run their cooling ten hours a day, and the traffic circling Kathipara never really stops. All that arterial dust ends up in one place: your AC filters. Airam AC Service keeps split units, cassettes and showroom systems across Guindy breathing properly — with background-verified, uniformed technicians, upfront pricing and same-day slots when the cooling drops mid-shift.",
+    "This is familiar ground for us. Our founder spent years on service calls in his father's AC business before starting Airam, and Guindy's mix — factory-floor splits in the industrial estate, cassette units above showroom floors on GST Road, apartment towers near Kathipara — is exactly the work he trained on. We service every major brand, from Daikin and Blue Star VRV systems in offices to the Voltas split in your bedroom.",
+    "For homes on the race course side and along Velachery Main Road, we recommend a deep clean before summer peaks — Guindy's road dust cuts cooling faster than the heat does. Every job comes with transparent pricing agreed before work begins, a digital invoice, GST billing for companies, and up to 90 days of service warranty on repairs. Reach time in covered areas: 60-90 minutes."
+  ],
+  "neighbourhoods": [
+    "SIDCO Industrial Estate",
+    "Olympia Tech Park",
+    "Ekkattuthangal",
+    "Kathipara Junction",
+    "Race Course Road",
+    "Little Mount",
+    "Velachery Main Road",
+    "Guindy Railway Station area",
+    "Alandur border"
+  ],
+  "challenges": [
+    {
+      "title": "Filters that clog in weeks, not months",
+      "description": "Dust from GST Road and Kathipara traffic settles into indoor filters far faster than in quieter suburbs. Cooling drops, power bills climb, and a unit serviced in March can be gasping by May."
+    },
+    {
+      "title": "Office ACs on ten-hour shifts",
+      "description": "Cassettes and ducted units at Olympia Tech Park and estate offices run through the full working day. Coils foul quickly at that duty cycle, so we schedule quarterly deep cleans that keep cooling steady without interrupting business hours."
+    },
+    {
+      "title": "Voltage swings from industrial feeders",
+      "description": "Heavy machinery loads across the SIDCO estate cause fluctuations that trip PCBs and stress compressors in nearby homes and offices. We test stabilisers and board health on every service visit."
+    },
+    {
+      "title": "Exhaust grime on outdoor units",
+      "description": "Apartment balconies facing Kathipara collect an oily traffic film that ordinary rinsing will not shift. Condenser coils near the flyover need a proper jet wash to move heat efficiently again."
+    }
+  ],
+  "popularServices": [
+    "commercial-ac-service",
+    "ac-deep-cleaning",
+    "cassette-ac-service",
+    "split-ac-service",
+    "ac-pcb-repair",
+    "commercial-amc-contracts"
+  ],
+  "testimonials": [
+    {
+      "name": "Suresh V.",
+      "area": "Ekkattuthangal",
+      "quote": "Our showroom's two cassette units were struggling by afternoon. The technician deep-cleaned both coils, showed me the dirt washed out, and billed exactly the quoted amount with a GST invoice.",
+      "rating": 5
+    },
+    {
+      "name": "Priya K.",
+      "area": "Race Course Road",
+      "quote": "Booked in the morning, technician arrived by 4 pm the same day. He found the filter completely caked with road dust and had our bedroom split cooling properly within the hour.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How quickly can you reach an office or shop in Guindy?",
+      "answer": "We reach covered areas of Guindy, including the SIDCO estate and Olympia Tech Park, in 60-90 minutes, with same-day slots available. For businesses, we can fix a time slot so servicing does not cut into working hours."
+    },
+    {
+      "question": "Which parts of Guindy do you cover?",
+      "answer": "We serve the full stretch — SIDCO Industrial Estate, Olympia Tech Park, Ekkattuthangal, the apartments around Kathipara Junction, the race course side, Little Mount and the Alandur border. Both residential and commercial visits are covered."
+    },
+    {
+      "question": "Why does my AC in Guindy need cleaning more often than before?",
+      "answer": "Arterial traffic on GST Road and around Kathipara throws up fine dust that clogs filters and coils within weeks, especially in road-facing units. For most Guindy homes and offices we suggest a deep clean, from ₹799, every three to four months rather than the usual six."
+    },
+    {
+      "question": "Do you charge commercial customers in Guindy differently?",
+      "answer": "Rates stay transparent for everyone — basic split AC service from ₹499, deep cleaning from ₹799, and residential AMC from ₹1,199 per unit per year. Multi-unit commercial AMC contracts for offices and showrooms are quoted after a site inspection, always with a GST invoice."
+    }
+  ],
+  "meta": {
+    "title": "AC Service in Guindy | Airam AC Service",
+    "description": "Expert AC service in Guindy for offices, showrooms and apartments. Same-day slots, upfront pricing from ₹499, 90-day warranty. Book your visit today."
+  }
+}

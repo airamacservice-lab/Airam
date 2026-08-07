@@ -1,0 +1,140 @@
+{
+  "slug": "ac-pcb-repair",
+  "name": "AC PCB Repair",
+  "shortName": "PCB Repair",
+  "icon": "CircuitBoard",
+  "category": "repair",
+  "tagline": "Board-level repair for inverter and fixed-speed ACs",
+  "headline": "Repair the board. Skip the ₹15,000 replacement.",
+  "summary": "A failed control board does not have to mean a new one. Chennai's voltage swings and monsoon damp quietly kill PCBs, and brands quote ₹8,000-15,000 for a replacement. Our technicians repair inverter and fixed-speed boards at component level — from ₹1,499, with up to a 90-day warranty on the work.",
+  "highlights": [
+    "Board-level component repair",
+    "Save ₹5,000 or more",
+    "Up to 90-day warranty"
+  ],
+  "symptoms": [
+    {
+      "title": "Dead after a power cut",
+      "description": "The AC refuses to start once mains power returns — the classic signature of surge damage on the board."
+    },
+    {
+      "title": "Error codes on display",
+      "description": "Inverter units flash E-series codes or a blinking timer light when the board detects a drive or sensor fault."
+    },
+    {
+      "title": "Compressor never engages",
+      "description": "The indoor fan runs but the room stays warm because the board is no longer switching the compressor on."
+    },
+    {
+      "title": "Random shutdowns mid-cycle",
+      "description": "The unit cuts out on its own or ignores the remote — failing relays and dry capacitors behave exactly like this."
+    },
+    {
+      "title": "MCB trips at startup",
+      "description": "A shorted component on the board can pull enough current to trip the breaker the moment the AC starts."
+    },
+    {
+      "title": "Green corrosion on the board",
+      "description": "Sea air near the coast eats copper tracks and solder joints; visible corrosion means failure is close."
+    }
+  ],
+  "pricing": [
+    {
+      "label": "Diagnosis and quote",
+      "price": "from ₹299",
+      "note": "Board-level fault tracing with a written quote — adjusted against the bill if you proceed"
+    },
+    {
+      "label": "Fixed-speed PCB repair",
+      "price": "from ₹1,499",
+      "note": "Relays, fuses, capacitors, transformer and sensor-circuit faults on non-inverter boards"
+    },
+    {
+      "label": "Inverter PCB repair",
+      "price": "₹2,499-4,999",
+      "note": "IPM module, IGBT and drive-circuit repairs on inverter outdoor and indoor boards"
+    },
+    {
+      "label": "New board, if repair is not viable",
+      "price": "₹8,000-15,000",
+      "note": "Genuine brand board sourced, fitted and tested — quoted only when repair genuinely will not hold"
+    }
+  ],
+  "inclusions": [
+    "Multimeter and circuit-level fault tracing",
+    "Component repair, never a blind board swap",
+    "Correct-spec relays, capacitors and ICs",
+    "Corrosion cleaning and protective recoat",
+    "Bench test before the board is refitted",
+    "Full cooling run on your unit after refit",
+    "Digital invoice listing every part replaced",
+    "Up to 90-day warranty on the repair"
+  ],
+  "benefits": [
+    {
+      "title": "Repair-first, on principle",
+      "description": "Most service outfits quote a new board because it is easier. We trace the failed component and fix it — you only pay for a replacement when the board is truly beyond saving."
+    },
+    {
+      "title": "Inverter boards, properly handled",
+      "description": "Inverter PCBs from Daikin, LG, Blue Star, Mitsubishi Electric and other major brands need careful drive-circuit work, not guesswork. Our technicians repair them at component level and bench-test before refitting."
+    },
+    {
+      "title": "Built for Chennai's power",
+      "description": "Voltage fluctuation and surge damage are the two failures we see most. We repair the board, show you what failed, and advise on stabiliser protection so the same fault does not return."
+    },
+    {
+      "title": "Nothing soldered without approval",
+      "description": "You get an upfront quote before any work begins, a background-verified technician in uniform, and a GST-registered digital invoice with the warranty stated in writing."
+    }
+  ],
+  "process": [
+    {
+      "title": "Book a slot",
+      "description": "Tell us the brand, model and what the AC is doing — same-day slots are available, with 60-90 minute reach in covered areas."
+    },
+    {
+      "title": "Diagnose on site",
+      "description": "The technician tests supply, sensors and the board itself, then gives you a fixed quote before touching a soldering iron."
+    },
+    {
+      "title": "Repair and refit",
+      "description": "Simple faults are fixed on the spot; complex inverter boards are repaired and bench-tested before going back into your unit."
+    },
+    {
+      "title": "Warranty in writing",
+      "description": "Your digital invoice lists every component replaced and carries up to a 90-day warranty on the repair."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is a repaired PCB as reliable as a new board?",
+      "answer": "When the failed component is correctly identified and replaced with the right spec, yes. We bench-test every board before refitting and run the unit through a full cooling cycle after. The repair carries up to a 90-day warranty, so the risk sits with us, not you."
+    },
+    {
+      "question": "Why do AC control boards fail so often in Chennai?",
+      "answer": "Voltage fluctuation and power-cut surges stress the board's power section until a relay, capacitor or IPM gives way. Coastal humidity and sea air add corrosion on top, especially during the monsoon. The two together make Chennai one of the hardest cities in India on AC electronics."
+    },
+    {
+      "question": "How much do I actually save by repairing instead of replacing?",
+      "answer": "Brand replacement boards for split ACs typically run ₹8,000-15,000, and inverter boards sit at the top of that range. Our board-level repairs cost ₹1,499-4,999 depending on the fault. On a typical inverter board, that is a saving of ₹5,000-10,000."
+    },
+    {
+      "question": "Do you repair inverter PCBs, or only fixed-speed boards?",
+      "answer": "Both. We handle inverter outdoor and indoor boards — IPM modules, IGBTs and drive circuits — across Daikin, LG, Voltas, Blue Star, Samsung, Carrier, Hitachi, O General, Mitsubishi Electric and Panasonic. Fixed-speed boards with relay, fuse or capacitor faults are usually quicker and cheaper."
+    },
+    {
+      "question": "What happens if the board cannot be repaired?",
+      "answer": "We tell you plainly, with the failed section shown to you, before any money changes hands. If you want to proceed, we source a genuine brand board, fit it and test the unit. Your diagnosis charge is adjusted against the final bill either way."
+    }
+  ],
+  "related": [
+    "ac-compressor-repair",
+    "ac-cooling-issues",
+    "amc-plans"
+  ],
+  "meta": {
+    "title": "AC PCB Repair in Chennai from ₹1,499 | Airam AC Service",
+    "description": "Board-level AC PCB repair in Chennai from ₹1,499 — inverter and fixed-speed boards fixed for a fraction of replacement cost. Book a same-day diagnosis visit."
+  }
+}

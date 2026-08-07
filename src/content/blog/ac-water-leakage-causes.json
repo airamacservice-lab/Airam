@@ -1,0 +1,96 @@
+{
+  "slug": "ac-water-leakage-causes",
+  "title": "Why Your AC Is Leaking Water Indoors — and How to Stop It",
+  "excerpt": "An indoor leak is almost always one of four faults — and the two most common fixes start under ₹1,000 in Chennai. Learn to read the drip before you call anyone.",
+  "category": "Troubleshooting",
+  "readMinutes": 6,
+  "publishedAt": "2026-06-15",
+  "sections": [
+    {
+      "heading": "Your AC Makes Water — The Question Is Where It Goes",
+      "paragraphs": [
+        "Every air conditioner produces water. As warm room air passes over the cold indoor coil, moisture condenses — the same way a chilled glass sweats. In Chennai, where coastal humidity sits above 70 per cent for most of the year, a 1.5 ton split AC can pull 2 to 4 litres of water out of the air each day. All of it lands in a small tray behind the front panel.",
+        "That tray drains through a thin pipe to the outdoors. When the system works, you never see a drop. When something blocks, tilts, or freezes that path, the water finds its own way out — down your wall, onto the wardrobe, through the false ceiling. A leak is almost never the AC making too much water. It is the drainage failing."
+      ]
+    },
+    {
+      "heading": "Cause One: The Clogged Drain Line",
+      "paragraphs": [
+        "The condensate pipe is barely the width of a finger, and it stays wet all year. Chennai's warm, humid air turns it into a greenhouse for algae and slime. Add the fine dust that rides in through every window, and you get a soft plug that builds silently over months. One day the tray fills faster than it can empty, and water spills over the edge.",
+        "This is the single most common leak we see on service calls. The tell: dripping that starts weeks after the unit last ran clean, often worse when humidity peaks in June and again through the northeast monsoon. The fix is a proper flush of the tray and drain line with the unit opened up — part of a deep clean, from ₹799. A quick wipe of the filters will not reach it."
+      ]
+    },
+    {
+      "heading": "Cause Two: A Slope Error From Bad Installation",
+      "paragraphs": [
+        "The indoor unit's drain tray relies on gravity. The unit must sit dead level or tilt a few millimetres towards the drain side. Rushed installers eyeball it, skip the spirit level, and the tray quietly pools water at the wrong end. The giveaway: a unit that has leaked from its very first summer, or one that started leaking right after being shifted or reinstalled.",
+        "Slope errors also hide in the drain pipe itself. If the pipe rises anywhere along its run, or sags into a U that traps water, condensate backs up into the tray. Correcting a tilted unit means re-mounting it properly — a re-installation job, from ₹1,499 plus materials, with uninstallation from ₹799 where the unit must come off the wall. Done right once, the problem never returns."
+      ]
+    },
+    {
+      "heading": "Cause Three: Ice on the Coil — Dirty Filters or Low Gas",
+      "paragraphs": [
+        "Sometimes the leak is a puddle, not a drip, and it appears after the AC has been off for a while. That points to ice. When airflow drops — usually because filters are choked with Chennai dust — or refrigerant runs low, the coil gets too cold and frost builds across it. Switch the unit off and that sheet of ice melts fast, dumping more water than the tray can handle.",
+        "The two causes cost very different money, so diagnosis matters. If filters and coil are simply dirty, a basic service from ₹499 restores airflow and the icing stops. If the gas is low, there is a leak somewhere — topping up costs from ₹1,499, while a full R32 gas charge with leak detection runs ₹2,500 to ₹3,500. Anyone quoting a gas refill without checking your filters first is guessing."
+      ]
+    },
+    {
+      "heading": "Cause Four: A Cracked or Corroded Drain Tray",
+      "paragraphs": [
+        "Drain trays age badly in this city. Plastic trays turn brittle after years of heat and crack along stress lines. In homes near the coast — Besant Nagar, Thiruvanmiyur, ECR — salt-heavy air corrodes metal trays and drain stubs faster than anywhere else in the city. A cracked tray leaks even when the drain line is spotless, usually as a slow, steady drip from the middle of the unit.",
+        "The honest answer here depends on the unit's age. Sealing a hairline crack is a short-term patch; a proper tray replacement costs more but ends the problem. On a unit past ten years with a corroded tray, we will tell you plainly whether the repair is worth it before any work starts — that is what a written, itemised quote is for."
+      ]
+    },
+    {
+      "heading": "What You Can Safely Check Yourself",
+      "paragraphs": [
+        "Before you call anyone, five minutes of looking can tell you a lot — and none of it needs tools. Switch off power at the board before you open the panel or touch the filters; the drain-pipe check outside happens with the unit running. Everything here is observation, not surgery. Leave the sealed gas circuit, the PCB, and anything that means taking the unit off the wall to a technician."
+      ],
+      "bullets": [
+        "Slide out and wash the filters; dry them fully before refitting",
+        "With the AC running, check the outdoor drain pipe end — it should drip steadily",
+        "Look for ice on the indoor coil; if frosted, switch off and let it thaw fully",
+        "Trace the drain pipe for kinks, sags, or an end dipped in standing water",
+        "Note the timing: leaking while running points to drainage; after switch-off, to ice"
+      ]
+    },
+    {
+      "heading": "What the Fix Costs in Chennai",
+      "paragraphs": [
+        "No leak diagnosis should be a mystery invoice. These are realistic 2026 ranges for Chennai, and what a professional visit should include: a named cause, the fix explained in plain language, and a digital invoice that itemises parts and labour. Airam backs repairs with up to a 90-day service warranty, offers same-day slots, and reaches covered areas in 60 to 90 minutes."
+      ],
+      "bullets": [
+        "Drain line and tray flush, part of a deep clean: from ₹799",
+        "Basic service that restores airflow and stops coil icing: from ₹499",
+        "Gas top-up from ₹1,499; full R32 charge with leak detection: ₹2,500-3,500",
+        "Slope correction or re-install: from ₹1,499 plus materials; uninstallation from ₹799",
+        "A residential AMC that prevents most of this: from ₹1,199 per unit per year"
+      ]
+    }
+  ],
+  "takeaways": [
+    "Most indoor leaks are drainage failures; the clogged condensate line leads the list in Chennai",
+    "Water appearing after switch-off usually means an iced coil — check the filters before paying for gas",
+    "A unit that has leaked since day one almost certainly has an installation slope error",
+    "Chennai humidity and sea air accelerate algae clogs and tray corrosion; clean before summer and before the monsoon",
+    "Switch off a dripping unit early — water tracking into the PCB turns a cleaning job into a board repair"
+  ],
+  "faqs": [
+    {
+      "question": "Can I fix a leaking AC by pouring water or bleach down the drain pipe?",
+      "answer": "Flushing the outdoor end helps only with minor, fresh clogs, and household bleach can corrode the tray and pipe joints. Most blockages sit in the tray inside the indoor unit, which needs to be opened and cleaned properly. A deep clean from ₹799 clears the full drain path safely."
+    },
+    {
+      "question": "Is the water leaking from my AC dangerous?",
+      "answer": "The water itself is clean condensate and harmless to touch. The risk is where it goes: soaked walls grow mould fast in Chennai's humidity, and water tracking into the PCB or wiring can turn a ₹799 cleaning job into a ₹1,499-4,999 board repair. Switch the unit off until the cause is found."
+    },
+    {
+      "question": "How often should the drain line be cleaned in Chennai?",
+      "answer": "Twice a year is the realistic rhythm here: once before summer peaks in April, and once before the northeast monsoon arrives. Humidity keeps the line wet year-round, so algae regrows faster than in drier cities. An AMC from ₹1,199 per unit per year builds both visits in."
+    }
+  ],
+  "meta": {
+    "title": "AC Leaking Water Indoors? Causes and Fixes in Chennai",
+    "description": "Why split ACs leak water indoors in Chennai — clogged drains, slope errors, iced coils, cracked trays — plus honest repair costs and safe DIY checks."
+  }
+}

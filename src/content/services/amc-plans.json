@@ -1,0 +1,131 @@
+{
+  "slug": "amc-plans",
+  "name": "Annual Maintenance Contracts",
+  "shortName": "AMC Plans",
+  "icon": "ShieldCheck",
+  "category": "maintenance",
+  "tagline": "Annual maintenance plans for Chennai homes",
+  "headline": "The Cheapest AC Bill Is the Breakdown That Never Happens",
+  "summary": "Chennai works its air conditioners hard: 40°C summers, coastal humidity, monsoon damp and voltage swings that punish compressors. An Airam AMC keeps yours ahead of all of it, with two scheduled services a year, priority booking when the heat peaks, and discounted repairs in between. Plans start from ₹1,199 per unit per year.",
+  "highlights": [
+    "Two scheduled services yearly",
+    "Priority booking in summer",
+    "From ₹1,199 per unit"
+  ],
+  "symptoms": [
+    {
+      "title": "Servicing only after breakdowns",
+      "description": "Reactive repairs almost always cost more than the scheduled visit that would have prevented them, and they tend to land in the hottest week of May."
+    },
+    {
+      "title": "Cooling fades every summer",
+      "description": "Dust-choked coils lose capacity slowly, so by the first 40°C stretch your AC runs longer and cools less."
+    },
+    {
+      "title": "Electricity bills creeping up",
+      "description": "A unit that has skipped its services draws noticeably more power to hold the same room temperature."
+    },
+    {
+      "title": "No service history",
+      "description": "Without dated records, brand warranty claims and resale valuations are both harder to defend."
+    },
+    {
+      "title": "You live near the coast",
+      "description": "Sea air corrodes condenser fins quickly, and unprotected units in coastal Chennai age well ahead of schedule."
+    }
+  ],
+  "pricing": [
+    {
+      "label": "Basic AMC",
+      "price": "from ₹1,199 per unit per year",
+      "note": "Two scheduled services, priority booking and discounted rates on all repairs."
+    },
+    {
+      "label": "Comprehensive AMC",
+      "price": "from ₹1,999 per unit per year",
+      "note": "Everything in Basic, plus gas top-up cover and minor parts replaced at no charge."
+    },
+    {
+      "label": "Multi-unit homes",
+      "price": "from ₹999 per unit per year",
+      "note": "Basic plan terms at a reduced per-unit rate for homes with three or more units."
+    }
+  ],
+  "inclusions": [
+    "Two scheduled services per unit annually",
+    "Coil, filter and blower cleaning",
+    "Gas pressure and cooling performance check",
+    "Drain line flush against monsoon clogs",
+    "Electrical and voltage-point inspection",
+    "Priority same-day breakdown slots",
+    "Discounted rates on all repairs",
+    "Digital service record after every visit"
+  ],
+  "benefits": [
+    {
+      "title": "Built on service-call experience",
+      "description": "Our founder spent years on service calls in his father's AC business before starting Airam. AMC schedules here are set by people who have seen exactly what Chennai does to a neglected unit."
+    },
+    {
+      "title": "Technicians you can let in",
+      "description": "Every Airam technician is background-verified and arrives in uniform. The same standard applies on every scheduled visit, all year."
+    },
+    {
+      "title": "Paperwork that protects you",
+      "description": "GST-registered billing, digital invoices and a dated service history for every unit. Useful for brand warranty claims, and for the day you sell the flat."
+    },
+    {
+      "title": "Repairs backed in writing",
+      "description": "Repairs carried out under your AMC carry up to a 90-day service warranty. If the same fault returns within that window, so do we."
+    }
+  ],
+  "process": [
+    {
+      "title": "Choose your plan",
+      "description": "Pick Basic or Comprehensive per unit, and we map your service calendar around Chennai's seasons."
+    },
+    {
+      "title": "Scheduled deep services",
+      "description": "Uniformed technicians arrive on the planned date, service the unit end to end and log everything digitally."
+    },
+    {
+      "title": "Priority between visits",
+      "description": "If anything fails mid-year, AMC members get priority same-day slots and discounted repair rates."
+    },
+    {
+      "title": "Records and warranty",
+      "description": "Every visit closes with a digital invoice, an updated service history and up to 90 days of warranty on repair work."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the difference between Basic and Comprehensive?",
+      "answer": "Basic, from ₹1,199 per unit per year, gives you two scheduled services, priority booking and discounted repairs. Comprehensive, from ₹1,999, adds gas top-up cover and no-charge replacement of minor parts such as capacitors and drain fittings. For units past their fifth summer, or homes near the coast, Comprehensive usually pays for itself."
+    },
+    {
+      "question": "When are the two services scheduled?",
+      "answer": "The first lands before peak summer, typically February or March, so the unit enters the 40°C months with clean coils. The second follows the monsoon, clearing the damp, fungal growth and corrosion the rains leave behind. You can shift either visit to suit your calendar."
+    },
+    {
+      "question": "Does the AMC cover all AC brands?",
+      "answer": "Yes. Our technicians service Daikin, LG, Voltas, Blue Star, Samsung, Carrier, Hitachi, O General, Mitsubishi Electric and Panasonic under the same plan terms. Mixed-brand homes are common in Chennai and need no special arrangement."
+    },
+    {
+      "question": "What does the gas top-up cover actually include?",
+      "answer": "Comprehensive covers routine gas top-ups when pressure runs low, which is the most common gas complaint we see. If a leak needs repair or a full R32 recharge, we quote it upfront at your plan's discounted rate before any work begins. Basic members pay standard top-up rates, from ₹1,499, less their repair discount."
+    },
+    {
+      "question": "Can I put an older AC on an AMC?",
+      "answer": "Yes, with one honest step first. We inspect the unit on the opening visit and note any pre-existing faults, so your cover starts from a known baseline. Older units are usually the ones that gain the most from scheduled care."
+    }
+  ],
+  "related": [
+    "split-ac-service",
+    "ac-deep-cleaning",
+    "commercial-amc-contracts"
+  ],
+  "meta": {
+    "title": "AC AMC Plans in Chennai from ₹1,199 | Airam AC Service",
+    "description": "Residential AC AMC in Chennai from ₹1,199 per unit a year. Two scheduled services, priority slots and repair discounts from Airam. Book your plan today."
+  }
+}

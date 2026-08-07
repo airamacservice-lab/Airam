@@ -1,0 +1,140 @@
+{
+  "slug": "ac-installation",
+  "name": "AC Installation",
+  "shortName": "Installation",
+  "icon": "Hammer",
+  "category": "installation",
+  "tagline": "Split AC installation, done to spec",
+  "headline": "Your AC is only as good as its install",
+  "summary": "A rushed installation shortens an AC's life before its first Chennai summer. We select the right wall, pull a proper vacuum before commissioning, set the drain slope, and bill copper piping per foot on a digital invoice. Core split installation from ₹1,499 plus materials, with same-day slots across the city.",
+  "highlights": [
+    "Vacuum before every commissioning",
+    "Copper billed per foot",
+    "Core install from ₹1,499"
+  ],
+  "symptoms": [
+    {
+      "title": "New AC, still boxed",
+      "description": "Your new split AC is home and deserves better than a purge-and-go fitting done in a hurry."
+    },
+    {
+      "title": "Shifting house soon",
+      "description": "A relocation needs careful uninstallation, fresh flaring and a full re-commission at the new address."
+    },
+    {
+      "title": "Free install felt rushed",
+      "description": "The brand crew skipped the vacuum pump, purged with refrigerant and left, and the cooling already feels thin."
+    },
+    {
+      "title": "Water drips after installation",
+      "description": "An indoor unit that leaks within weeks usually means the drain slope was never set correctly."
+    },
+    {
+      "title": "Long or tricky pipe run",
+      "description": "An outdoor unit on another floor or a far wall needs measured copper, clean bends and honest per-foot billing."
+    },
+    {
+      "title": "Replacing an old unit",
+      "description": "Existing piping needs a pressure and corrosion check before a new AC is allowed to run on it."
+    }
+  ],
+  "pricing": [
+    {
+      "label": "Split AC installation",
+      "price": "from ₹1,499",
+      "note": "Core install for 1-2 ton units: mounting, vacuum, commissioning; materials billed separately"
+    },
+    {
+      "label": "Copper piping, insulated pair coil",
+      "price": "₹200-300 per foot",
+      "note": "Measured with you on site and billed to the actual foot on your digital invoice"
+    },
+    {
+      "label": "Uninstall plus reinstall",
+      "price": "from ₹2,199",
+      "note": "Careful removal at the old address, full vacuum-and-commission install at the new one"
+    },
+    {
+      "label": "Outdoor stand and accessories",
+      "price": "from ₹450",
+      "note": "Powder-coated stand, drain pipe and wall sleeves at rate-card prices confirmed before work begins"
+    }
+  ],
+  "inclusions": [
+    "Wall and airflow assessment before drilling",
+    "Vacuum pulled with a pump, never a gas purge",
+    "Leak check at every flare joint",
+    "Drain slope set and water-tested",
+    "Voltage check with stabilizer guidance",
+    "Copper piping measured and billed per foot",
+    "Cooling verified at handover with the unit running",
+    "GST digital invoice with itemised materials"
+  ],
+  "benefits": [
+    {
+      "title": "Vacuum, never a purge",
+      "description": "Many installers release refrigerant to push air out of the lines. We connect a vacuum pump and evacuate the circuit before commissioning, so moisture and air never reach the compressor — the single biggest factor in how long your AC lives."
+    },
+    {
+      "title": "Raised in the trade",
+      "description": "Our founder spent years on service calls in his father's AC business, seeing what bad installs do to good machines. Those habits are now the standard every Airam technician installs to."
+    },
+    {
+      "title": "Per-foot billing you can watch",
+      "description": "Copper is measured on site with you, rates are confirmed before drilling starts, and the exact footage appears on your GST digital invoice. No mystery coil charges."
+    },
+    {
+      "title": "Placed for Chennai, not a manual",
+      "description": "Sea air corrodes condenser coils and 40°C summers punish outdoor units in direct sun. We position for shade, service access and monsoon drainage, and tell you honestly whether your building's voltage swings call for a stabilizer."
+    }
+  ],
+  "process": [
+    {
+      "title": "Book a slot",
+      "description": "Pick a same-day slot and tell us the tonnage, floor and roughly where the outdoor unit will sit."
+    },
+    {
+      "title": "Site assessment",
+      "description": "A background-verified, uniformed technician checks wall strength, sunlight and airflow, measures the pipe run, and confirms the full price before any drilling."
+    },
+    {
+      "title": "Install and commission",
+      "description": "We mount both units, connect and flare the copper, pull a vacuum, release the gas, check every joint, set the drain slope and run the AC until cooling is verified."
+    },
+    {
+      "title": "Handover and aftercare",
+      "description": "You get a digital GST invoice, stabilizer and usage guidance, and a straightforward promise: if our workmanship gives trouble, we return and set it right."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why does vacuuming matter if brand installers just purge the lines?",
+      "answer": "Purging pushes air out by releasing refrigerant, and it leaves moisture behind. Moisture inside an R32 or R410A circuit forms acids that quietly attack the compressor. We connect a vacuum pump and pull the lines down before releasing gas. It takes longer, and it is the difference between an AC that cools for a season and one that cools for years."
+    },
+    {
+      "question": "How is copper piping charged?",
+      "answer": "The core price covers the installation itself; insulated copper pair coil is billed at ₹200-300 per foot depending on tonnage. We measure the run with you before work starts, and the exact footage appears on your digital invoice. You are never rounded up to the nearest coil."
+    },
+    {
+      "question": "Which wall should the indoor and outdoor units go on?",
+      "answer": "Indoors, we pick a wall that throws air along the length of the room and can genuinely carry the unit's weight. Outdoors, shade matters in Chennai's 40°C summers, and near the coast we avoid direct sea-facing exposure where possible because salt air corrodes the condenser coil. We also insist on service clearance, so future maintenance does not need scaffolding."
+    },
+    {
+      "question": "Do I need a stabilizer in Chennai?",
+      "answer": "Many modern inverter ACs tolerate a wide voltage band, but Chennai's fluctuations — especially in older buildings and at peak summer load — can still exceed it. We measure your supply voltage during the visit and tell you plainly whether your specific unit needs protection. If it does not, we would rather you skip the purchase."
+    },
+    {
+      "question": "How long does an installation take, and can it happen today?",
+      "answer": "A standard split installation takes around two to three hours on site; long piping runs or core-drilling through RCC add time, which we flag upfront. Same-day slots are available, and in covered areas a technician can reach you in 60-90 minutes."
+    }
+  ],
+  "related": [
+    "ac-uninstallation",
+    "split-ac-service",
+    "amc-plans"
+  ],
+  "meta": {
+    "title": "Split AC Installation in Chennai | Airam AC Service",
+    "description": "New split AC installed right in Chennai: vacuum before commissioning, per-foot copper billing, proper drain slope. From ₹1,499. Book a same-day slot."
+  }
+}

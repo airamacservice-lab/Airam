@@ -1,0 +1,85 @@
+{
+  "slug": "t-nagar",
+  "name": "T. Nagar",
+  "tagline": "Cool heads in Chennai's busiest square mile",
+  "headline": "AC Service in T. Nagar That Keeps Pace With Usman Road",
+  "intro": [
+    "T. Nagar runs hot in a way the rest of Chennai does not. Ranganathan Street footfall, Usman Road traffic and block after block of concrete turn the retail heart of the city into its own heat island, with afternoons that push past 40°C before humidity is even counted. Air conditioners here do not get easy shifts. They run longer, pull in more dust, and fail at the worst possible moments.",
+    "For the silk and jewellery showrooms along Usman Road and Pondy Bazaar, a failed cassette unit during Aadi or the wedding season is lost revenue by the hour. Airam services cassette, ductable and VRV systems before shutters open, so browsing customers never walk into a warm store. GST invoices, transparent quotes before work begins, and commercial AMC plans that keep a technician on call through the shopping calendar.",
+    "The residential side is just as demanding. In Parthasarathypuram, Bazullah Road and the lanes off GN Chetty Road, older independent houses have given way to apartments where outdoor units sit crammed on service decks or bake on open terraces. Add the voltage dips that come with a dense commercial grid, and splits here need careful hands. Ours are background-verified, uniformed, and back every repair with up to a 90-day warranty."
+  ],
+  "neighbourhoods": [
+    "Ranganathan Street",
+    "Usman Road",
+    "Pondy Bazaar",
+    "Panagal Park",
+    "Parthasarathypuram",
+    "Bazullah Road",
+    "GN Chetty Road",
+    "Thyagaraya Road",
+    "Habibullah Road",
+    "CIT Nagar"
+  ],
+  "challenges": [
+    {
+      "title": "Showroom units that cannot stop",
+      "description": "Cassette and ductable units above Usman Road showrooms run ten to twelve hours a day through Aadi and Deepavali crowds. Filters choke on footfall dust and cooling drops exactly when the store is fullest."
+    },
+    {
+      "title": "Voltage swings on a stressed grid",
+      "description": "T. Nagar's dense commercial load brings brownouts and spikes that quietly damage PCBs and compressors. We see more voltage-related board failures here than almost anywhere else in Chennai."
+    },
+    {
+      "title": "Dust that never settles",
+      "description": "Between Ranganathan Street crowds, roadworks and constant redevelopment, indoor coils in T. Nagar clog months faster than in quieter suburbs. Regular deep cleaning restores airflow and trims the power bill."
+    },
+    {
+      "title": "Cramped apartment installations",
+      "description": "The flats that replaced old independent houses leave outdoor units squeezed into service ducts with poor airflow. Compressors overheat, trip on 40°C afternoons, and wear out years early."
+    }
+  ],
+  "popularServices": [
+    "cassette-ac-service",
+    "commercial-ac-service",
+    "split-ac-service",
+    "ac-deep-cleaning",
+    "ac-pcb-repair",
+    "commercial-amc-contracts"
+  ],
+  "testimonials": [
+    {
+      "name": "Ramesh K.",
+      "area": "Parthasarathypuram",
+      "quote": "Our bedroom split was tripping every evening. The technician found a voltage-damaged PCB, quoted ₹2,800 before touching it, and had it running the same night. The digital invoice arrived within minutes.",
+      "rating": 5
+    },
+    {
+      "name": "Lakshmi S.",
+      "area": "Usman Road",
+      "quote": "They deep-cleaned four cassette units in our saree showroom before opening hours during Aadi season. Cooling improved noticeably by the afternoon rush, and the team left the false ceiling spotless.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How quickly can you reach T. Nagar?",
+      "answer": "We hold same-day slots for T. Nagar and typically reach within 60-90 minutes in covered areas. Our technicians know the one-ways around Panagal Park and Usman Road, so showroom visits and evening home slots stay on time."
+    },
+    {
+      "question": "Do you service showroom and commercial ACs in T. Nagar?",
+      "answer": "Yes. Cassette, ductable and VRV systems in retail spaces are a core part of our T. Nagar work. We schedule servicing before opening hours so shops on Usman Road and Pondy Bazaar never lose cooling during business hours, and commercial AMC contracts keep the shopping season covered."
+    },
+    {
+      "question": "What AC problems are most common in T. Nagar?",
+      "answer": "Three come up again and again: dust-clogged filters and coils from heavy footfall, voltage-related PCB failures, and overheating outdoor units in cramped apartment service ducts. Deep cleaning from ₹799 and PCB repair between ₹1,499 and ₹4,999 resolve most of them."
+    },
+    {
+      "question": "Is your T. Nagar pricing different from the rest of Chennai?",
+      "answer": "No. The same transparent rate card applies across the city: basic split service from ₹499, gas top-up from ₹1,499, and residential AMC from ₹1,199 per unit per year. You approve the quote before we start, and the digital invoice matches it exactly."
+    }
+  ],
+  "meta": {
+    "title": "AC Service in T. Nagar | Airam AC Service",
+    "description": "Same-day AC service in T. Nagar for Parthasarathypuram homes and Usman Road showrooms. Upfront pricing from ₹499, 90-day warranty. Book a visit today."
+  }
+}

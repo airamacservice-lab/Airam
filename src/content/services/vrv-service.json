@@ -1,0 +1,140 @@
+{
+  "slug": "vrv-service",
+  "name": "VRV System Service",
+  "shortName": "VRV",
+  "icon": "Building2",
+  "category": "commercial",
+  "tagline": "Daikin VRV care for serious square footage",
+  "headline": "Every indoor unit cold. Every error code answered.",
+  "summary": "A Daikin VRV system runs your whole floor from one refrigerant circuit — when it falters, every cabin feels it. Airam services VRV networks across Chennai's offices and large villas: error-code diagnostics, branch selector checks, coil and piping care. Quotes are written on site, before work begins.",
+  "highlights": [
+    "Daikin error-code diagnostics",
+    "Branch selector expertise",
+    "AMC plans per indoor unit"
+  ],
+  "symptoms": [
+    {
+      "title": "Error codes on the controller",
+      "description": "A U-series or E-series code on the remote points to a communication, pressure or sensor fault that needs a proper readout, not another reset."
+    },
+    {
+      "title": "One zone warm, others fine",
+      "description": "A struggling branch selector or a blocked refrigerant path can starve a single wing while the rest of the floor cools normally."
+    },
+    {
+      "title": "Outdoor unit tripping",
+      "description": "Chennai's voltage fluctuations and 40°C rooftop heat push VRV compressors into protective shutdowns that grow more frequent until the cause is fixed."
+    },
+    {
+      "title": "Oil stains along the piping",
+      "description": "Oil marks on refrigerant lines or ceiling tiles usually mean a slow leak that will eventually drag the entire circuit down."
+    },
+    {
+      "title": "Power bills creeping up",
+      "description": "A VRV running low on gas or with fouled coils draws noticeably more power to deliver the same cooling across the floor."
+    },
+    {
+      "title": "Stains on false ceilings",
+      "description": "Blocked drain lines above the ceiling grid show up as water marks long before they show up as drips on a workstation."
+    }
+  ],
+  "pricing": [
+    {
+      "label": "Diagnostic site visit",
+      "price": "from ₹999",
+      "note": "Full system inspection with error-code readout and a written quote, adjusted against the job if you proceed"
+    },
+    {
+      "label": "Per indoor unit service",
+      "price": "from ₹799 per unit",
+      "note": "Coil, filter, blower and drain cleaning for each cassette, ductable or hi-wall unit on the circuit"
+    },
+    {
+      "label": "Leak repair and gas charge",
+      "price": "from ₹5,999",
+      "note": "Nitrogen pressure test, leak rectification and refrigerant charge, priced to system capacity after inspection"
+    },
+    {
+      "label": "VRV annual maintenance",
+      "price": "from ₹1,999 per indoor unit per year",
+      "note": "Scheduled preventive visits across the year with priority breakdown support for the whole system"
+    }
+  ],
+  "inclusions": [
+    "Controller error-log readout and interpretation",
+    "Refrigerant pressure check across the circuit",
+    "Branch selector and expansion valve inspection",
+    "Drain line and drain pump check",
+    "Electrical terminal and contactor tightening",
+    "Outdoor coil condition report, corrosion noted",
+    "Digital service report with GST invoice",
+    "Background-verified, uniformed technicians"
+  ],
+  "benefits": [
+    {
+      "title": "Raised on service calls",
+      "description": "Our founder learned this trade on his father's service rounds long before Airam existed. On a system where one wrong guess affects thirty rooms, that discipline shows."
+    },
+    {
+      "title": "Quotes only after we see the system",
+      "description": "No phone estimates for a VRV. We walk the piping network, read the error history and hand you a written, itemised quote before any work begins."
+    },
+    {
+      "title": "Warranty you can hold us to",
+      "description": "Repairs carry up to a 90-day service warranty, recorded on a digital invoice your facilities team can file and retrieve at audit time."
+    },
+    {
+      "title": "Built for AMC discipline",
+      "description": "VRV systems reward routine, not rescue. Our AMC plans schedule preventive visits before summer and after monsoon, when Chennai punishes neglected systems hardest."
+    }
+  ],
+  "process": [
+    {
+      "title": "Book a site survey",
+      "description": "Pick a same-day slot where available and a technician surveys your outdoor units, piping runs and branch selectors on site."
+    },
+    {
+      "title": "Diagnose and quote",
+      "description": "We read the controller's error history, test pressures across the circuit and put the quote in writing before touching a tool."
+    },
+    {
+      "title": "Service and repair",
+      "description": "Approved work is carried out by uniformed, background-verified technicians, sequenced around your office hours where possible."
+    },
+    {
+      "title": "Warranty and follow-through",
+      "description": "You receive a digital GST invoice, up to 90 days of warranty on repairs, and an AMC proposal sized to your indoor unit count."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do you only service Daikin VRV systems?",
+      "answer": "VRV is Daikin's name for its variable refrigerant technology, and Daikin systems are the core of this work. We also service equivalent VRF systems from Mitsubishi Electric, LG, Blue Star and other major brands. The method carries across: error logs, pressure testing, branch-circuit checks."
+    },
+    {
+      "question": "Why can't you quote over the phone?",
+      "answer": "A VRV fault can sit in the outdoor unit, a branch selector, or forty metres of piping in between. Quoting blind would mean padding the price to cover the unknowns. A site visit lets us quote the actual fault, in writing, before work starts."
+    },
+    {
+      "question": "Will servicing disrupt our office?",
+      "answer": "Preventive work is done unit by unit, so the rest of the floor keeps cooling while we work overhead. For larger jobs we agree the sequence with your facilities team and schedule around working hours where we can."
+    },
+    {
+      "question": "One indoor unit shows an error. Is the whole system at risk?",
+      "answer": "Sometimes. A single unit's fault can be local, like a sensor or a blocked drain, or the first symptom of a circuit-wide problem such as low refrigerant. The error-code readout is what separates the two, so avoid repeatedly resetting the breaker and hoping."
+    },
+    {
+      "question": "What does a VRV AMC cover?",
+      "answer": "Scheduled preventive visits through the year, priority response on breakdowns, and a documented service history for every indoor unit. Pricing starts from ₹1,999 per indoor unit per year, with the exact scope fixed after a site survey."
+    }
+  ],
+  "related": [
+    "vrf-service",
+    "commercial-amc-contracts",
+    "cassette-ac-service"
+  ],
+  "meta": {
+    "title": "VRV System Service in Chennai | Airam AC Service",
+    "description": "Daikin VRV service for commercial floors and large villas in Chennai. Error-code diagnostics, branch selector checks, AMC plans. Book a site visit today."
+  }
+}

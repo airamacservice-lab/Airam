@@ -1,0 +1,140 @@
+{
+  "slug": "ac-water-leakage",
+  "name": "AC Water Leakage Repair",
+  "shortName": "Water Leakage",
+  "icon": "Droplets",
+  "category": "repair",
+  "tagline": "AC water leakage diagnosis and repair",
+  "headline": "Stop the Drip Where It Starts",
+  "summary": "A dripping indoor unit is not a quirk of Chennai humidity. It is a blocked drain line, a coil icing over, a cracked drain tray, or a unit mounted at the wrong slope. We diagnose the actual cause and repair it from ₹599, backed by up to a 90-day service warranty.",
+  "highlights": [
+    "Root-cause fix from ₹599",
+    "Up to 90-day warranty",
+    "Same-day slots across Chennai"
+  ],
+  "symptoms": [
+    {
+      "title": "Water dripping indoors",
+      "description": "The indoor unit drips onto walls, furniture, or flooring whenever the AC runs for more than a few minutes."
+    },
+    {
+      "title": "Damp patches on the wall",
+      "description": "Paint bubbles or a stain spreads below the unit, a sign condensate has been escaping the tray for weeks."
+    },
+    {
+      "title": "Ice on the indoor coil",
+      "description": "Frost on the coil or copper pipes means the unit freezes while running, then leaks in bursts as the ice melts."
+    },
+    {
+      "title": "Gurgling from the unit",
+      "description": "A bubbling or gurgling sound points to a partly blocked drain line trapping air and backing water up."
+    },
+    {
+      "title": "Musty smell when cooling",
+      "description": "Stagnant water sitting in the drain tray turns musty fast in coastal humidity and often precedes a visible leak."
+    },
+    {
+      "title": "Leak returns every summer",
+      "description": "Chennai drain lines clog with algae and sludge each season, so a leak that keeps coming back needs a proper flush, not a wipe-down."
+    }
+  ],
+  "pricing": [
+    {
+      "label": "Leak diagnosis and drain fix",
+      "price": "from ₹599",
+      "note": "Full inspection, drain line pressure flush, and slope check for a standard split AC"
+    },
+    {
+      "label": "Deep clean for iced coils",
+      "price": "from ₹799",
+      "note": "Jet cleaning of the indoor coil when trapped dirt is freezing the unit and causing the leak"
+    },
+    {
+      "label": "Drain tray repair or replacement",
+      "price": "from ₹899",
+      "note": "Sealing or a new tray for cracked units, with the part priced by brand and model before work begins"
+    },
+    {
+      "label": "Slope and drain re-routing",
+      "price": "from ₹1,199",
+      "note": "Correcting a wrongly tilted indoor unit and re-laying the drain pipe so water exits by gravity"
+    }
+  ],
+  "inclusions": [
+    "Full drain line pressure flush",
+    "Indoor coil and filter inspection",
+    "Drain tray check for cracks and sludge",
+    "Indoor unit slope verification",
+    "Gas pressure check if the coil is icing",
+    "Leak test before the technician leaves",
+    "Digital GST invoice on completion",
+    "Up to 90-day warranty on the repair"
+  ],
+  "benefits": [
+    {
+      "title": "We fix causes, not symptoms",
+      "description": "Our founder spent years on service calls before starting Airam, and he trains every technician the same way: trace the water back to its source. No bucket under the unit, no repeat visits for the same drip."
+    },
+    {
+      "title": "People you can let indoors",
+      "description": "A leak repair happens inside your home, over your furniture. Every Airam technician is background-verified and arrives in uniform, so you know exactly who is on the ladder."
+    },
+    {
+      "title": "The price before the work",
+      "description": "You approve a clear quote before we open the unit. If the tray needs replacing or the coil needs a deep clean, you hear the number first and get a digital GST invoice after."
+    },
+    {
+      "title": "Built for Chennai conditions",
+      "description": "Coastal humidity breeds algae in drain lines, and 40°C summers push condensate volumes that expose every bad slope. We see these exact failures daily across Daikin, LG, Voltas, Blue Star, and every other major brand."
+    }
+  ],
+  "process": [
+    {
+      "title": "Book a slot",
+      "description": "Tell us where the water shows up and choose a same-day slot if you need one."
+    },
+    {
+      "title": "Trace the leak",
+      "description": "The technician tests the drain line, checks the coil for ice and dirt, inspects the tray, and verifies the unit's slope."
+    },
+    {
+      "title": "Fix the cause",
+      "description": "After you approve the quote, we flush, clean, reseal, or re-slope as the diagnosis demands, then run the AC to confirm the drip is gone."
+    },
+    {
+      "title": "Stay dry, on record",
+      "description": "You get a digital invoice and up to a 90-day warranty on the repair, so if the same leak returns, so do we."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why is my AC leaking water inside the room?",
+      "answer": "Four causes account for almost every indoor leak we see in Chennai: a drain line blocked with algae or sludge, a dirty coil icing over and melting in bursts, a cracked or overflowing drain tray, and an indoor unit installed at the wrong slope. Each has a different fix, which is why we diagnose before we quote. Guessing is how leaks come back."
+    },
+    {
+      "question": "Can I just keep a bucket under the unit for now?",
+      "answer": "You can, but the water you catch is only part of the problem. Condensate also runs down inside the wall, ruining paint and inviting mould, which spreads quickly in Chennai's humidity. Water near the unit's electricals is also a risk not worth taking when the diagnosis and fix start at ₹599."
+    },
+    {
+      "question": "How long does a water leakage repair take?",
+      "answer": "Most drain blockages, coil cleans, and tray repairs are completed in a single visit. If a replacement tray for your specific brand has to be arranged, we tell you before starting and return with the part. We offer same-day slots and a 60-90 minute reach in covered areas."
+    },
+    {
+      "question": "Does a leaking AC mean the gas is low?",
+      "answer": "Sometimes. Low refrigerant makes the coil run too cold, ice over, and then leak as the ice melts, so we check gas pressure whenever we find frost on the coil. If a top-up is needed, it starts from ₹1,499 and you approve the cost before we proceed."
+    },
+    {
+      "question": "Will the leak come back next summer?",
+      "answer": "Not if the cause is fixed properly, which is the point of our approach. Your repair carries up to a 90-day warranty, and a serviced drain line stays clear far longer than a poked-at one. If you want it handled before every season, our AMC plans start from ₹1,199 per unit per year and include preventive cleaning."
+    }
+  ],
+  "related": [
+    "ac-deep-cleaning",
+    "ac-gas-filling",
+    "amc-plans"
+  ],
+  "meta": {
+    "title": "AC Water Leakage Repair in Chennai | Airam AC Service",
+    "description": "Indoor unit dripping? We fix the cause — blocked drains, iced coils, cracked trays — from ₹599 with up to 90-day warranty. Book a same-day slot in Chennai."
+  }
+}

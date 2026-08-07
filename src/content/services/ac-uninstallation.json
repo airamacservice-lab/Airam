@@ -1,0 +1,136 @@
+{
+  "slug": "ac-uninstallation",
+  "name": "AC Uninstallation",
+  "shortName": "Uninstallation",
+  "icon": "PackageOpen",
+  "category": "installation",
+  "tagline": "Gas-safe AC removal for moves and renovations",
+  "headline": "Removed With Care, Ready for Its Next Wall",
+  "summary": "Most air conditioners are not killed by age. They are killed the day someone rips them off the wall with the gas still in the lines. Our technicians pump the refrigerant back into the outdoor unit, cap every pipe, and remove both units carefully, so your AC arrives at its next wall ready to cool.",
+  "highlights": [
+    "Full refrigerant pump-down",
+    "Pipes capped and sealed",
+    "Uninstall plus reinstall bundle"
+  ],
+  "symptoms": [
+    {
+      "title": "House move on the calendar",
+      "description": "Packers can carry an AC, but only a technician can disconnect it without venting the gas that makes it work."
+    },
+    {
+      "title": "Renovation starting soon",
+      "description": "Masonry dust and paint mist wreck open coils, so the unit should come off the wall before the first hammer swings."
+    },
+    {
+      "title": "Replacing an old unit",
+      "description": "An outgoing AC holds exchange value only if its refrigerant circuit survives the removal intact."
+    },
+    {
+      "title": "Civil or wall work planned",
+      "description": "When the outdoor unit sits where scaffolding or waterproofing crews need to be, it must come down cleanly and go back up later."
+    },
+    {
+      "title": "A quote that skips pump-down",
+      "description": "If a remover plans to simply cut the copper lines, the refrigerant escapes and the compressor pays the price at reinstall."
+    }
+  ],
+  "pricing": [
+    {
+      "label": "Window AC uninstallation",
+      "price": "from ₹599",
+      "note": "Frame unbolted, unit eased out and wrapped for transit"
+    },
+    {
+      "label": "Split AC uninstallation",
+      "price": "from ₹799",
+      "note": "Full pump-down, capped pipes, indoor and outdoor units removed and packed"
+    },
+    {
+      "label": "Uninstall + reinstall bundle",
+      "price": "from ₹2,199",
+      "note": "Removal now, refit at the new address; materials like extra copper piping billed as used"
+    },
+    {
+      "label": "Multiple units",
+      "price": "from ₹699 per unit",
+      "note": "Per-unit rate when two or more ACs come down in a single visit"
+    }
+  ],
+  "inclusions": [
+    "Refrigerant pumped down into the outdoor unit",
+    "Service valves closed, pipe ends capped",
+    "Indoor unit drained and taped shut",
+    "Wiring disconnected and labelled for reinstall",
+    "Mounting brackets removed on request",
+    "Both units wrapped for transport",
+    "Work area cleaned before we leave",
+    "GST digital invoice on completion"
+  ],
+  "benefits": [
+    {
+      "title": "Trained on the unglamorous step",
+      "description": "Our founder learnt removals on service calls in his father's AC business, where a rushed pump-down meant a ruined compressor. Every Airam technician is drilled on the same discipline."
+    },
+    {
+      "title": "One team, both ends of the move",
+      "description": "The crew that takes your AC down can refit it at the new address. Labelled wiring and capped pipes mean the reinstall starts exactly where the removal left off."
+    },
+    {
+      "title": "Priced before the ladder goes up",
+      "description": "Uninstallation from ₹799, quoted upfront. No mid-job additions once the unit is half off the wall."
+    },
+    {
+      "title": "Verified people on a chaotic day",
+      "description": "Moving day means open doors and strangers in every room. Airam sends background-verified, uniformed technicians, and a GST digital invoice follows the job."
+    }
+  ],
+  "process": [
+    {
+      "title": "Book a slot",
+      "description": "Choose a same-day slot and tell us the unit type, the floor, and whether you need a reinstall at the other end."
+    },
+    {
+      "title": "Pre-removal check",
+      "description": "The technician runs the AC first and records how it cools, so its condition is documented before anything comes down."
+    },
+    {
+      "title": "Pump-down and removal",
+      "description": "Refrigerant is recovered into the outdoor unit, valves are closed, pipes are capped, and both units come off the wall unhurried."
+    },
+    {
+      "title": "Pack and handover",
+      "description": "Wiring is labelled, units are wrapped for transit, and your GST digital invoice arrives before we leave."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What exactly is a pump-down?",
+      "answer": "Pump-down means running the compressor briefly to pull all the refrigerant back into the outdoor unit before the pipes are disconnected. Skip it, and the gas vents into the room the moment the lines are cut. The AC would then need a fresh R32 charge of ₹2,500-3,500 before it cools again. Done properly, the charge travels with the unit at no extra cost."
+    },
+    {
+      "question": "Can our packers and movers just take the AC down?",
+      "answer": "They can lift it, but most moving crews carry no gas-recovery tools, so the refrigerant is lost and moisture enters the open lines. That moisture corrodes the circuit from the inside and shortens compressor life. Book the technician removal a day before the packing crew arrives, and the AC travels sealed."
+    },
+    {
+      "question": "How long does an uninstallation take?",
+      "answer": "A split AC typically takes 45 to 90 minutes including the pump-down, and a window unit less. We offer same-day slots and a 60-90 minute reach in covered areas, which matters when the moving truck is already booked."
+    },
+    {
+      "question": "Will the AC need a gas top-up at the new house?",
+      "answer": "Not if the removal was done properly, because a full pump-down and capped pipes preserve the charge and keep Chennai's humid air out of the lines. If a previous removal has already cost you gas, we will say so plainly and quote a top-up from ₹1,499 before touching anything."
+    },
+    {
+      "question": "Do you handle the reinstallation too?",
+      "answer": "Yes. The uninstall and reinstall bundle starts at ₹2,199 plus materials such as extra copper piping. The same labelling and capped lines from the removal make the refit faster, and we position the outdoor unit with Chennai's sea air and monsoon splash in mind."
+    }
+  ],
+  "related": [
+    "ac-installation",
+    "ac-gas-filling",
+    "split-ac-service"
+  ],
+  "meta": {
+    "title": "AC Uninstallation in Chennai | Airam AC Service",
+    "description": "Gas-safe AC uninstallation in Chennai from ₹799. Refrigerant pumped down, pipes capped, units packed for the move. Book a same-day slot with Airam."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "porur",
+  "name": "Porur",
+  "tagline": "Warranty-safe AC care for Porur's new towers",
+  "headline": "AC Service in Porur That Keeps Your Brand Warranty Intact",
+  "intro": [
+    "Porur is not the Porur of ten years ago. Metro pillars now run along Mount-Poonamallee Road, towers keep rising in Iyyappanthangal and Mugalivakkam, and most ACs in these new flats are under five years old — many still inside their brand warranty. That changes what good servicing looks like. Airam technicians clean, diagnose and document without disturbing warranty terms, and tell you plainly when a fault belongs with the brand's own service centre instead.",
+    "The micro-climate here works against your machine. Construction dust from the metro corridor settles into filters within weeks, not months. Summer afternoons cross 40°C on the western corridor, and damp air off Porur Lake leaves coils musty by monsoon. Add voltage dips as new townships load the local grid, and you get the Porur pattern we see daily: weak cooling, tripping inverter boards, and drain leaks in flats barely a year old.",
+    "We built our Porur operation for how this corridor actually lives. Doctors and staff on shift around the Ramachandra hospital belt need early or late slots. IT families commuting toward Manapakkam and the DLF stretch want weekend visits that start on time. So we hold same-day slots, reach covered areas in 60-90 minutes, send background-verified technicians in uniform, and back repairs with up to a 90-day service warranty — every job closed with a digital GST invoice."
+  ],
+  "neighbourhoods": [
+    "Porur Junction",
+    "Iyyappanthangal",
+    "Mugalivakkam",
+    "Madhananthapuram",
+    "Gerugambakkam",
+    "Kattupakkam",
+    "Ramapuram",
+    "Kolapakkam",
+    "Mount-Poonamallee Road",
+    "Shell Avenue"
+  ],
+  "challenges": [
+    {
+      "title": "Metro construction dust chokes filters fast",
+      "description": "Flats facing the Mount-Poonamallee Road corridor pull in fine construction dust that clogs filters and indoor coils in weeks. Airflow drops, the compressor works harder, and bills climb before cooling visibly fails."
+    },
+    {
+      "title": "Builder-fit installations cutting corners",
+      "description": "Handover installs in new townships often skip proper vacuuming, drain slope and copper flaring. The result shows up in the first summer as weak cooling and water dripping down fresh paint — we audit and correct it without touching your warranty."
+    },
+    {
+      "title": "Voltage swings on a stretched local grid",
+      "description": "Every new tower loads the same transformers, so Porur sees dips and spikes that punish inverter PCBs more than age ever does. We test incoming supply and flag units that need stabiliser protection."
+    },
+    {
+      "title": "Damp air off Porur Lake by monsoon",
+      "description": "Lake-side humidity plus monsoon damp breeds mould on coils and blower wheels, giving that musty smell the moment the AC starts. A jet-pressure deep clean before and after monsoon keeps the air genuinely clean."
+    }
+  ],
+  "popularServices": [
+    "split-ac-service",
+    "ac-deep-cleaning",
+    "ac-installation",
+    "ac-water-leakage",
+    "ac-pcb-repair",
+    "amc-plans"
+  ],
+  "testimonials": [
+    {
+      "name": "Divya S.",
+      "area": "Iyyappanthangal",
+      "quote": "Our 2024 Daikin was leaking water in a new tower flat. The technician re-sloped the drain line, showed me photos of the fault, and the invoice matched the quote exactly.",
+      "rating": 5
+    },
+    {
+      "name": "Karthikeyan M.",
+      "area": "Mugalivakkam",
+      "quote": "Booked a deep clean after the metro work dust choked our filters. He arrived within the slot, laid floor sheets before opening the unit, and the LG cools like new again.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How quickly can you reach Porur?",
+      "answer": "We hold same-day slots for Porur and reach covered areas in 60-90 minutes. That includes Porur Junction, Iyyappanthangal, Mugalivakkam and the Mount-Poonamallee Road stretch, with early and late slots for hospital-shift households near the Ramachandra belt."
+    },
+    {
+      "question": "My AC is still under brand warranty. Is servicing safe?",
+      "answer": "Yes. Routine cleaning and maintenance do not affect a manufacturer warranty, and our technicians never open sealed components on an in-warranty unit. If we find a fault the brand should fix free — a failed compressor, a factory gas leak — we say so, and our digital invoice documents the finding for your claim."
+    },
+    {
+      "question": "What AC problems are most common in Porur?",
+      "answer": "Three dominate our Porur job sheets: filters and coils choked by metro construction dust, drain and piping faults from rushed builder installations in new townships, and inverter PCB failures from voltage fluctuation on the fast-growing local grid. Most are preventable with a pre-summer service and an install-quality check."
+    },
+    {
+      "question": "Do you charge more for high-rise flats in Porur?",
+      "answer": "No. Porur pays the same transparent Chennai rates — basic split AC service from ₹499, deep cleaning from ₹799, gas top-up from ₹1,499 and residential AMC from ₹1,199 per unit per year. You get the full quote upfront, before any work begins, whatever floor you live on."
+    }
+  ],
+  "meta": {
+    "title": "AC Service in Porur | Airam AC Service",
+    "description": "Warranty-safe AC service in Porur, Chennai. Deep cleaning, install checks and AMC plans for new high-rises. Same-day slots, upfront pricing from ₹499."
+  }
+}

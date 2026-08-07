@@ -1,0 +1,140 @@
+{
+  "slug": "ac-gas-filling",
+  "name": "AC Gas Filling & Leak Repair",
+  "shortName": "Gas Filling",
+  "icon": "Gauge",
+  "category": "repair",
+  "tagline": "Gas Filling & Leak Repair in Chennai",
+  "headline": "Fix the leak first. Then fill the gas.",
+  "summary": "Chennai's gas-filling trade runs on repeat business: top up in March, top up again in May. Airam works differently. Every low-gas call starts with a nitrogen pressure test to find the leak. We repair it, pull a vacuum, charge R22, R32, R410A or R290 by weight, and stand behind the work with up to a 90-day warranty.",
+  "highlights": [
+    "Nitrogen leak testing first",
+    "Refrigerant charged by weight",
+    "Up to 90-day warranty"
+  ],
+  "symptoms": [
+    {
+      "title": "Ice on the copper pipes",
+      "description": "Frost on the suction line near the indoor unit is the classic sign of a low refrigerant charge."
+    },
+    {
+      "title": "Cooling fades by afternoon",
+      "description": "The AC runs all day but never pulls the room down during Chennai's 40°C peak hours."
+    },
+    {
+      "title": "Hissing near the outdoor unit",
+      "description": "A faint hiss at the flare joints or coil means refrigerant is escaping under pressure right now."
+    },
+    {
+      "title": "Second top-up this year",
+      "description": "If you paid for gas a few months ago and it is low again, you have a leak, not a gas problem."
+    },
+    {
+      "title": "Warm air from the vents",
+      "description": "The compressor runs but the air barely cools, which points to a near-empty circuit."
+    },
+    {
+      "title": "Power bills creeping up",
+      "description": "A low charge forces the compressor to run longer for less cooling, and the meter shows it."
+    }
+  ],
+  "pricing": [
+    {
+      "label": "Nitrogen pressure test",
+      "price": "from ₹799",
+      "note": "Full-system pressure hold with the leak point traced and shown to you before any repair quote"
+    },
+    {
+      "label": "Leak repair & flare redo",
+      "price": "from ₹599",
+      "note": "Flare joints re-cut and torqued, brazing where needed, then retested under pressure"
+    },
+    {
+      "label": "Gas top-up",
+      "price": "from ₹1,499",
+      "note": "R22, R32 or R410A added after a passed leak check, verified against nameplate pressures"
+    },
+    {
+      "label": "Full R32 gas charge",
+      "price": "₹2,500-3,500",
+      "note": "Complete recovery, deep vacuum and a fresh charge weighed in on a digital scale"
+    }
+  ],
+  "inclusions": [
+    "Nitrogen pressure test before any gas",
+    "Leak point shown before quoting",
+    "Refrigerant weighed on a digital scale",
+    "Vacuum pull before every full charge",
+    "Flare joints re-torqued and retested",
+    "Nameplate-matched refrigerant only",
+    "Cooling delta checked before we leave",
+    "Digital GST invoice with gas quantity"
+  ],
+  "benefits": [
+    {
+      "title": "A leak fixed, not rented",
+      "description": "A top-up without a repair is rent: the money escapes with the gas. Our leak-test-first policy means we trace the fault under nitrogen pressure and fix it before a single gram goes in."
+    },
+    {
+      "title": "Charged by weight, not by guess",
+      "description": "No billing by gut feel at the gauge. Refrigerant goes in over a digital weighing scale, matched to your unit's nameplate, and the grams are recorded on your invoice."
+    },
+    {
+      "title": "Trained for every refrigerant",
+      "description": "R22, R32, R410A and flammable R290 each demand different pressures and handling. Our background-verified, uniformed technicians carry the tools and training for all four."
+    },
+    {
+      "title": "Built for Chennai's coastline",
+      "description": "Sea air corrodes copper faster here than almost anywhere in India. We know where Chennai units leak, so coil ends, flare joints and U-bends get checked first."
+    }
+  ],
+  "process": [
+    {
+      "title": "Book a slot",
+      "description": "Tell us the symptoms, get upfront pricing, and pick a same-day slot with 60-90 minute reach in covered areas."
+    },
+    {
+      "title": "Test, not guess",
+      "description": "Your technician pressurises the system with nitrogen, traces the leak point and shows it to you before quoting the repair."
+    },
+    {
+      "title": "Repair and recharge",
+      "description": "We redo flares or braze the fault, pull a vacuum, then charge the exact nameplate quantity by weight."
+    },
+    {
+      "title": "Warranty on record",
+      "description": "You get a digital GST invoice listing the refrigerant type, grams charged and up to a 90-day warranty on the repair."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why do you insist on a leak test before filling gas?",
+      "answer": "Refrigerant is not fuel; it does not get consumed. A sealed system holds its charge for years, so low gas always means a leak. Topping up without repairing it means the new gas escapes the same way, usually within weeks. Our nitrogen pressure test finds the fault first, so you pay once."
+    },
+    {
+      "question": "What does AC gas filling cost in Chennai?",
+      "answer": "Top-ups start from ₹1,499 and a full R32 charge runs ₹2,500-3,500 depending on tonnage. The nitrogen test and any leak repair are quoted separately, upfront, before work begins. You approve the full figure on-site and the digital invoice matches it to the rupee."
+    },
+    {
+      "question": "Which refrigerants and brands do you handle?",
+      "answer": "We charge R22, R32, R410A and R290 systems, always matched to the nameplate on your unit. That covers Daikin, LG, Voltas, Blue Star, Samsung, Carrier, Hitachi, O General, Mitsubishi Electric and Panasonic. R290 is flammable, so those jobs go only to technicians trained for it."
+    },
+    {
+      "question": "Why does my AC lose gas every summer?",
+      "answer": "In Chennai the usual culprits are corroded copper and badly made flare joints. Sea air near the coast eats pin-holes into coils and pipe bends, and rushed installations leave flare nuts that loosen with vibration. Whatever the cause, the fix is the same: find the exact point, repair it, and retest under pressure before recharging."
+    },
+    {
+      "question": "Is the gas filling covered by warranty?",
+      "answer": "Yes. Leak repairs carry up to a 90-day service warranty, recorded on your digital GST invoice alongside the refrigerant type and grams charged. Because we repair before we refill, the charge actually holds, which is the point."
+    }
+  ],
+  "related": [
+    "ac-cooling-issues",
+    "ac-compressor-repair",
+    "split-ac-service"
+  ],
+  "meta": {
+    "title": "AC Gas Filling & Leak Repair in Chennai | Airam AC Service",
+    "description": "Leak-test-first AC gas filling in Chennai. Nitrogen testing, R32 and R410A top-ups from ₹1,499, up to 90-day warranty. Book a same-day slot with Airam."
+  }
+}

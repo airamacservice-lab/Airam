@@ -1,0 +1,140 @@
+{
+  "slug": "commercial-ac-service",
+  "name": "Commercial AC Service",
+  "shortName": "Commercial",
+  "icon": "Store",
+  "category": "commercial",
+  "tagline": "Cooling your business can bank on",
+  "headline": "Keep every unit running through every business hour",
+  "summary": "A down unit in a Chennai office is lost productivity; in a restaurant, it is lost covers. Airam services ductable and package units, cassettes and split fleets for offices, retail, clinics, schools and gyms — with monthly preventive maintenance, after-hours work and SLA-backed response, so failures get caught before your customers notice.",
+  "highlights": [
+    "SLA-backed service response",
+    "After-hours and weekend slots",
+    "Fleet pricing on custom quotes"
+  ],
+  "symptoms": [
+    {
+      "title": "Power bills climbing",
+      "description": "Choked coils across a fleet force every compressor to run longer, and the difference shows up on your EB bill within a single cycle."
+    },
+    {
+      "title": "Hot zones on the floor",
+      "description": "When one corner of the office or dining area stays warm, ductable airflow is usually blocked or a unit is quietly losing capacity."
+    },
+    {
+      "title": "Units tripping at peak load",
+      "description": "Afternoon trips in 40°C weather point to stressed compressors, weak capacitors or voltage swings your stabilisers no longer absorb."
+    },
+    {
+      "title": "Water stains in false ceilings",
+      "description": "Blocked drain trays above cassettes and ductable units soak ceiling tiles first, then drip onto stock, desks or diners."
+    },
+    {
+      "title": "Complaints from customers or staff",
+      "description": "If patrons ask for a cooler table or staff bring in desk fans, cooling has already fallen below what the space needs."
+    },
+    {
+      "title": "No service records on file",
+      "description": "If nobody can say when each unit was last serviced, you have an audit gap — and a breakdown waiting for peak season."
+    }
+  ],
+  "pricing": [
+    {
+      "label": "Split AC fleet service",
+      "price": "from ₹449 per unit",
+      "note": "For sites with 5 or more splits; includes coil wash, filter clean and performance check on each unit"
+    },
+    {
+      "label": "Ductable and package units",
+      "price": "from ₹1,999 per unit",
+      "note": "Coil and blower cleaning, drain flush and gas pressure check on units up to 11 tonnes"
+    },
+    {
+      "label": "Monthly PM visits",
+      "price": "from ₹349 per unit per visit",
+      "note": "Scheduled preventive checks under contract — filters, drains, readings and a fault log every month"
+    },
+    {
+      "label": "Commercial AMC",
+      "price": "from ₹1,499 per unit per year",
+      "note": "PM visits plus priority SLA response and fleet-wide records; volume slabs from 10 units up"
+    }
+  ],
+  "inclusions": [
+    "Site survey and unit-wise fleet audit",
+    "Background-verified, uniformed technicians",
+    "Work scheduled around your trading hours",
+    "Coil, blower and drain-tray cleaning",
+    "Gas pressure and amperage logged per unit",
+    "Faults flagged with upfront repair estimates",
+    "GST invoice with unit-wise line items",
+    "Up to 90-day warranty on repair work"
+  ],
+  "benefits": [
+    {
+      "title": "One vendor for the entire fleet",
+      "description": "Splits, cassettes, ductables and package units — Daikin, Blue Star, Voltas, Carrier, Hitachi and every other major brand — handled by one team, on one service record."
+    },
+    {
+      "title": "Built for occupied spaces",
+      "description": "Background-verified, uniformed technicians lay floor protection, work quietly around patients and patrons, and leave the site clean. After-hours and weekend slots keep your trading hours untouched."
+    },
+    {
+      "title": "Response you can hold us to",
+      "description": "Contract clients get defined SLA response windows, priority same-day slots and 60-90 minute reach in covered areas. Downtime is measured in hours, not days."
+    },
+    {
+      "title": "Founder-run accountability",
+      "description": "Airam is a family-run, GST-registered company whose founder spent years on commercial service calls before starting it. Escalations reach an owner, not a call queue."
+    }
+  ],
+  "process": [
+    {
+      "title": "Survey and quote",
+      "description": "We walk your site, tag every unit with its tonnage and condition, and send a single custom quote with fleet pricing — no per-visit guesswork."
+    },
+    {
+      "title": "Schedule around business",
+      "description": "Work is planned in phases, after hours or on off days, so no zone of your office, kitchen or clinic goes warm mid-shift."
+    },
+    {
+      "title": "Service and log",
+      "description": "Each unit is cleaned and tested, gas pressures and amperage are recorded, and faults are flagged with estimates before any extra work begins."
+    },
+    {
+      "title": "Report and warranty",
+      "description": "You get a unit-wise digital report, a GST invoice and up to a 90-day warranty on repairs, plus a PM calendar for the months ahead."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can you service our ACs outside business hours?",
+      "answer": "Yes. Restaurants are typically serviced after the last cover, offices on weekends, and clinics between OPD sessions. After-hours work is built into the quote, not billed as a surprise later."
+    },
+    {
+      "question": "Do you handle ductable and package units, or only splits?",
+      "answer": "We service ductable and package units alongside cassettes and split fleets. That covers coil and blower cleaning, drain flushing, gas work and electrical faults on all major brands including Daikin, Blue Star, Voltas and Carrier. Larger VRV or VRF installations are quoted after a site survey."
+    },
+    {
+      "question": "How does fleet pricing work?",
+      "answer": "Per-unit rates drop as unit count rises — a 20-split office pays less per unit than a 5-split shop. We survey the site, grade every unit, and send one custom quote. Multi-site businesses get a single rate card across locations."
+    },
+    {
+      "question": "What does your SLA actually commit to?",
+      "answer": "Contract clients get a defined response window in writing, priority booking and same-day slots. In covered areas our technicians reach within 60-90 minutes. Breakdown visits under an AMC also skip visit charges as per the contract terms."
+    },
+    {
+      "question": "Can you provide service records for audits?",
+      "answer": "Yes. Every visit generates a digital, unit-wise service record and a GST invoice, so clinics, schools and franchise outlets keep a clean paper trail. Records stay accessible for the life of the contract."
+    }
+  ],
+  "related": [
+    "commercial-amc-contracts",
+    "vrv-service",
+    "cassette-ac-service"
+  ],
+  "meta": {
+    "title": "Commercial AC Service in Chennai | Airam AC Service",
+    "description": "Commercial AC service in Chennai for offices, retail, clinics and restaurants. Ductable, package and split fleets on SLA. Book a site survey today."
+  }
+}
