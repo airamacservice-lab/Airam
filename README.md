@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Environment variables
+
+- `LEADS_WEBHOOK_URL` (optional) — if set, `/api/book` POSTs each booking submission here in addition to the local dev file log. Used for durable lead capture on serverless hosts (e.g. Vercel), where the local file log doesn't persist. See `scripts/leads-webhook-apps-script.gs` for the current (temporary) Google Sheets webhook implementation — stopgap until the Supabase-backed admin panel's `leads` table replaces it.
+
 ## Getting Started
 
 First, run the development server:

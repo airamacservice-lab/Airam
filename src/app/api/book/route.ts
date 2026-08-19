@@ -39,13 +39,32 @@ export async function POST(request: Request) {
 
   // Local, file-based lead log — works for `npm run dev` / self-hosted `npm start`.
   // On serverless hosts (e.g. Vercel) the filesystem is ephemeral, so this file
-  // won't persist between requests there; swap in a CRM webhook, Google Sheet
-  // append, or a database write before deploying to serverless.
+  // won't persist between requests there — it's a dev-only convenience.
   try {
     fs.mkdirSync(path.dirname(LEADS_FILE), { recursive: true });
     fs.appendFileSync(LEADS_FILE, JSON.stringify(lead) + "\n");
   } catch (err) {
-    console.error("[booking] failed to persist lead", err);
+    console.error("[booking] failed to persist lead locally", err);
+  }
+
+  // Durable capture for serverless hosting: a Google Sheets webhook (see
+  // scripts/leads-webhook-apps-script.gs), stopgap until the Supabase-backed
+  // admin panel's `leads` table replaces this. Best-effort — a webhook outage
+  // must never fail the customer's booking submission.
+  const webhookUrl = process.env.LEADS_WEBHOOK_URL;
+  if (webhookUrl) {
+    try {
+      const res = await fetch(webhookUrl, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(lead),
+      });
+      if (!res.ok) {
+        console.error(`[booking] leads webhook responded ${res.status}`);
+      }
+    } catch (err) {
+      console.error("[booking] failed to reach leads webhook", err);
+    }
   }
 
   console.log(`[booking] ${lead.receivedAt} name=${name} phone=${phone} area=${area} service=${service}`);
