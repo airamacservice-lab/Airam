@@ -85,40 +85,6 @@ export function Hero({
             </div>
           </Reveal>
 
-          <Reveal delay={0.4}>
-            <dl className="mt-10 grid grid-cols-2 gap-6 border-t border-slate-200/80 pt-8 sm:grid-cols-4">
-              {[
-                {
-                  value: site.stats.yearsHandsOn,
-                  suffix: "+",
-                  label: "Years hands-on",
-                },
-                {
-                  value: site.stats.unitsServiced,
-                  suffix: "+",
-                  label: "Units serviced",
-                },
-                {
-                  value: site.stats.localities,
-                  suffix: "",
-                  label: "Chennai areas",
-                },
-                {
-                  value: site.stats.sameDayPct,
-                  suffix: "%",
-                  label: "Same-day visits",
-                },
-              ].map((s) => (
-                <div key={s.label}>
-                  <dt className="sr-only">{s.label}</dt>
-                  <dd className="text-3xl font-bold text-ink-900">
-                    <CountUp value={s.value} suffix={s.suffix} />
-                  </dd>
-                  <dd className="mt-1 text-sm text-ink-500">{s.label}</dd>
-                </div>
-              ))}
-            </dl>
-          </Reveal>
         </div>
 
         {/* Booking card */}
@@ -144,6 +110,53 @@ export function Hero({
             <BookingForm services={services} areas={areas} />
           </div>
         </Reveal>
+      </div>
+
+      <div className="wrap relative">
+      <Reveal delay={0.4}>
+        <dl className="mt-12 grid grid-cols-2 gap-6 border-t border-slate-200/80 pt-8 sm:grid-cols-3 lg:grid-cols-6">
+          {[
+            {
+              value: site.stats.yearsHandsOn,
+              suffix: "+",
+              label: "Years hands-on",
+            },
+            {
+              value: site.stats.unitsServiced,
+              suffix: "+",
+              label: "Units serviced",
+            },
+            {
+              value: site.stats.localities,
+              suffix: "",
+              label: "Chennai areas",
+            },
+            {
+              value: site.stats.sameDayPct,
+              suffix: "%",
+              label: "Same-day visits",
+            },
+            {
+              value: 90,
+              suffix: "-day",
+              label: "Written warranty",
+            },
+            {
+              value: 7,
+              suffix: " days",
+              label: "Open every week",
+            },
+          ].map((s) => (
+            <div key={s.label}>
+              <dt className="sr-only">{s.label}</dt>
+              <dd className="text-3xl font-bold text-ink-900">
+                <CountUp value={s.value} suffix={s.suffix} />
+              </dd>
+              <dd className="mt-1 text-sm text-ink-500">{s.label}</dd>
+            </div>
+          ))}
+        </dl>
+      </Reveal>
       </div>
     </section>
   );
