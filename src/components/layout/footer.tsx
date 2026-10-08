@@ -22,7 +22,7 @@ export function Footer() {
         <div>
           <Link href="/" className="flex items-center">
             {/* eslint-disable-next-line @next/next/no-img-element -- plain img: fixed-size logo, no need for the optimizer pipeline */}
-            <img src="/logo.png" alt={site.name} className="size-16 object-contain" />
+            <img src="/logo-blue.png" alt={site.name} className="size-20 rounded-2xl object-contain shadow-sm" />
           </Link>
           <p className="mt-4 text-sm leading-relaxed text-ink-500">
             A family-run AC company built on a simple idea: fix it properly,

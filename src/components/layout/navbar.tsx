@@ -46,10 +46,20 @@ export function Navbar() {
         >
           {/* eslint-disable-next-line @next/next/no-img-element -- plain img: fixed-size logo, no need for the optimizer pipeline */}
           <img
-            src="/logo.png"
-            alt={site.name}
-            className="size-12 object-contain sm:size-14"
+            src="/logo-mark.png"
+            alt=""
+            aria-hidden
+            className="size-10 rounded-xl object-contain shadow-sm sm:size-11"
           />
+          <span className="ml-2.5 flex flex-col leading-none">
+            <span className="text-lg font-extrabold tracking-[0.12em] text-[#0b2f7a] sm:text-xl">
+              AIRAM
+            </span>
+            <span className="mt-1 text-[10px] font-semibold tracking-[0.28em] text-[#1d6fe0] sm:text-[11px]">
+              AC SERVICE
+            </span>
+            <span className="sr-only">{site.name}</span>
+          </span>
         </Link>
 
         <nav className="hidden items-center gap-1 lg:flex" aria-label="Main">
