@@ -43,11 +43,6 @@ export function hvacBusinessSchema(): Jsonable {
       opens: site.hoursSchema.opens,
       closes: site.hoursSchema.closes,
     },
-    aggregateRating: {
-      "@type": "AggregateRating",
-      ratingValue: site.rating.value,
-      reviewCount: site.rating.count,
-    },
     areaServed: { "@type": "City", name: "Chennai" },
   };
 }

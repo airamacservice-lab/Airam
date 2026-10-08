@@ -12,8 +12,8 @@ import { site } from "@/lib/site";
 const items = [
   {
     icon: Star,
-    title: `${site.rating.value} Google rating`,
-    sub: `${site.rating.count}+ reviews`,
+    title: "Same-day service",
+    sub: "Across Chennai, 7 days a week",
   },
   {
     icon: FileText,

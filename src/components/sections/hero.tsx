@@ -75,15 +75,8 @@ export function Hero({
           <Reveal delay={0.32}>
             <div className="mt-8 flex flex-wrap items-center gap-x-6 gap-y-3 text-sm">
               <span className="flex items-center gap-1.5 font-semibold text-ink-900">
-                <span className="flex text-amber-400" aria-hidden>
-                  {Array.from({ length: 5 }).map((_, i) => (
-                    <Star key={i} className="size-4 fill-current" />
-                  ))}
-                </span>
-                {site.rating.value}
-                <span className="font-normal text-ink-500">
-                  · {site.rating.count}+ Google reviews
-                </span>
+                <Star className="size-4 fill-current text-amber-400" aria-hidden />
+                Background-verified technicians
               </span>
               <span className="flex items-center gap-1.5 text-ink-500">
                 <ShieldCheck className="size-4 text-teal-600" aria-hidden />
