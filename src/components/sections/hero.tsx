@@ -137,11 +137,6 @@ export function Hero({
               label: "Same-day visits",
             },
             {
-              value: 90,
-              suffix: "-day",
-              label: "Written warranty",
-            },
-            {
               value: 7,
               suffix: " days",
               label: "Open every week",
@@ -155,6 +150,26 @@ export function Hero({
               <dd className="mt-1 text-sm text-ink-500">{s.label}</dd>
             </div>
           ))}
+          <div>
+            <dt className="sr-only">Sulekha rating</dt>
+            <dd className="flex items-center gap-1.5 text-3xl font-bold text-ink-900">
+              4.6
+              <Star className="size-6 fill-current text-amber-400" aria-hidden />
+            </dd>
+            <dd className="mt-1 text-sm text-ink-500">
+              <a
+                href="https://www.sulekha.com/profile/p-gangaram-a-c-service-centre-velachery-chennai"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline decoration-slate-300 underline-offset-2 hover:text-brand-700"
+              >
+                300+ reviews on Sulekha
+              </a>
+              <span className="mt-0.5 block text-xs text-ink-400">
+                P Gangaram A C, Velachery, since 1997
+              </span>
+            </dd>
+          </div>
         </dl>
       </Reveal>
       </div>
