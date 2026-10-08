@@ -8,9 +8,9 @@ export const site = {
   tagline: "Chennai's premium AC service, repair and maintenance company",
   url: "https://airamacservice.in", // REPLACE with the live domain
 
-  phone: "+91 63815 49788",
-  phoneHref: "tel:+916381549788",
-  whatsappNumber: "916381549788",
+  phone: "+91 97912 35273",
+  phoneHref: "tel:+919791235273",
+  whatsappNumber: "919791235273",
   email: "hello@airamacservice.in", // REPLACE
 
   gstin: "33XXXXX0000X1Z5", // REPLACE with the real GSTIN
