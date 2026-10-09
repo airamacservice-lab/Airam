@@ -10,6 +10,7 @@ import { Button } from "@/components/ui/button";
 import { site } from "@/lib/site";
 import { cn } from "@/lib/utils";
 import { waBooking } from "@/lib/whatsapp";
+import { trackLead } from "@/lib/track";
 
 const bookingSchema = z.object({
   name: z.string().min(2, "Please enter your name"),
@@ -67,6 +68,7 @@ export function BookingForm({
         body: JSON.stringify(data),
       });
       if (!res.ok) throw new Error(`Booking failed (${res.status})`);
+      trackLead("Booking form", { name: data.name, phone: data.phone, service: data.service, area: data.area });
       setSubmitted(data);
       setStatus("done");
     } catch {

@@ -4,6 +4,8 @@ import { FloatingCta } from "@/components/layout/floating-cta";
 import { Footer } from "@/components/layout/footer";
 import { Navbar } from "@/components/layout/navbar";
 import { JsonLd } from "@/components/seo/json-ld";
+import { LeadTracker } from "@/components/analytics/lead-tracker";
+import { Analytics } from "@vercel/analytics/next";
 import { hvacBusinessSchema } from "@/lib/schema";
 import { site } from "@/lib/site";
 import "./globals.css";
@@ -46,6 +48,8 @@ export default function RootLayout({
         <main className="flex flex-1 flex-col">{children}</main>
         <Footer />
         <FloatingCta />
+        <LeadTracker />
+        <Analytics />
       </body>
     </html>
   );
