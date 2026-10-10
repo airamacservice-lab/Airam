@@ -27,6 +27,8 @@ export function rememberSource() {
 export function trackLead(action: string, extra: Record<string, string> = {}) {
   if (typeof window === "undefined") return;
   try {
+    const g = (window as unknown as { gtag?: (...a: unknown[]) => void }).gtag;
+    if (g) g("event", action.toLowerCase().replace(/\s+/g, "_"), { page_path: window.location.pathname });
     const payload = JSON.stringify({
       action,
       page: window.location.pathname,

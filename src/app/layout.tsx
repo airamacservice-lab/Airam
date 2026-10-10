@@ -6,6 +6,7 @@ import { Navbar } from "@/components/layout/navbar";
 import { JsonLd } from "@/components/seo/json-ld";
 import { LeadTracker } from "@/components/analytics/lead-tracker";
 import { Analytics } from "@vercel/analytics/next";
+import Script from "next/script";
 import { hvacBusinessSchema } from "@/lib/schema";
 import { site } from "@/lib/site";
 import "./globals.css";
@@ -50,6 +51,13 @@ export default function RootLayout({
         <FloatingCta />
         <LeadTracker />
         <Analytics />
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-HN3YQ8GFPR" strategy="afterInteractive" />
+        <Script id="gtag-init" strategy="afterInteractive">
+          {`window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-HN3YQ8GFPR');`}
+        </Script>
       </body>
     </html>
   );
