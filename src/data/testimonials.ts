@@ -54,9 +54,9 @@ export const testimonials: Testimonial[] = [
   {
     name: "Anitha K.",
     area: "Medavakkam",
-    service: "Installation",
+    service: "Uninstallation",
     quote:
-      "They vacuumed the line before releasing gas and billed the copper per foot exactly as quoted on WhatsApp. No surprises, no rounding up. Rare honesty.",
+      "They pumped the gas down, capped the pipes and billed exactly as quoted on WhatsApp. No surprises, no rounding up. Rare honesty.",
     rating: 5,
   },
 ];

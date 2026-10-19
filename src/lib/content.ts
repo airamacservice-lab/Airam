@@ -89,7 +89,6 @@ export const SERVICE_ORDER = [
   "ac-gas-filling",
   "ac-deep-cleaning",
   "ac-water-leakage",
-  "ac-installation",
   "ac-uninstallation",
   "ac-pcb-repair",
   "ac-compressor-repair",

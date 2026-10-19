@@ -34,15 +34,15 @@
       "description": "Summer load and ageing internal wiring make voltage fluctuation a regular PCB killer here. We test stabilisers, check board connections and repair PCBs from ₹1,499 instead of pushing a replacement."
     },
     {
-      "title": "Retrofit installs in built-up houses",
-      "description": "Adding splits to houses never designed for them means long copper runs and tricky drain slopes. Done poorly, they leak gas and drip water down front elevations — we plan the routing before we drill."
+      "title": "Awkward retrofits in built-up houses",
+      "description": "Splits added to houses never designed for them often have long copper runs and tricky drain slopes. Done poorly, they leak gas and drip water down front elevations — we diagnose those faults and quote the repair before opening anything."
     }
   ],
   "popularServices": [
     "window-ac-service",
     "split-ac-service",
     "ac-deep-cleaning",
-    "ac-installation",
+    "ac-uninstallation",
     "ac-gas-filling",
     "amc-plans"
   ],
@@ -71,7 +71,7 @@
     },
     {
       "question": "Can you still service my old window AC, or should I switch to a split?",
-      "answer": "We service window units of every major brand and will tell you plainly when a repair stops making sense. If a retrofit is the better call, uninstallation starts from ₹799 and a new split installation from ₹1,499 plus materials. You decide with real numbers, not a sales pitch."
+      "answer": "We service window units of every major brand and will tell you plainly when a repair stops making sense. If a retrofit is the better call, uninstallation starts from ₹799 so the old window unit comes off cleanly. You decide with real numbers, not a sales pitch."
     },
     {
       "question": "Is your Anna Nagar pricing different from the rest of Chennai?",
@@ -80,6 +80,6 @@
   ],
   "meta": {
     "title": "AC Service in Anna Nagar | Airam AC Service",
-    "description": "Expert AC service in Anna Nagar — window AC retrofits, deep cleaning and gas top-ups from ₹499. GST-billed, uniformed technicians. Book a same-day slot."
+    "description": "Expert AC service in Anna Nagar — window AC repair, deep cleaning and gas top-ups from ₹499. GST-billed, uniformed technicians. Book a same-day slot."
   }
 }

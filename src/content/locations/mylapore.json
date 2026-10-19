@@ -5,7 +5,7 @@
   "headline": "AC Service in Mylapore: Careful Hands for Chennai's Heritage Heart",
   "intro": [
     "Mylapore keeps its own time. The temple bell at Kapaleeshwarar, the flower sellers on East Mada Street, filter coffee at Luz — and behind those old teak doors, split ACs working hard against 40°C afternoons and sea air drifting in from Santhome. Airam AC Service was built for homes like these. Our founder grew up on service calls in his father's AC business, and he trained our technicians to treat a heritage house with the respect it has earned.",
-    "Old Mylapore homes ask more of an AC than a new flat in OMR ever will. Wiring laid decades ago, compact rooms with thick walls, terraces reached through narrow stairwells, lanes where a service van cannot follow. Our background-verified, uniformed technicians plan for all of it — checking circuit load and earthing before installation, sizing tonnage honestly for small rooms, and carrying equipment in on foot when the lane demands it. Every job ends with a digital invoice and up to a 90-day service warranty.",
+    "Old Mylapore homes ask more of an AC than a new flat in OMR ever will. Wiring laid decades ago, compact rooms with thick walls, terraces reached through narrow stairwells, lanes where a service van cannot follow. Our background-verified, uniformed technicians plan for all of it — checking circuit load and earthing on every visit, sizing tonnage honestly for small rooms, and carrying equipment in on foot when the lane demands it. Every job ends with a digital invoice and up to a 90-day service warranty.",
     "Pricing is stated before work begins, never after. A basic split AC service starts from ₹499, deep jet cleaning from ₹799, and gas top-ups from ₹1,499 — GST invoice included. We hold same-day slots through summer and offer a 60-90 minute reach in covered areas, so a failed compressor on Kutchery Road does not mean a sleepless night. From Margazhi season guests to April heat, Mylapore households book us for one reason: we say what a job costs, and we stand behind it."
   ],
   "neighbourhoods": [
@@ -23,7 +23,7 @@
   "challenges": [
     {
       "title": "Ageing wiring and load safety",
-      "description": "Many homes around the Mada Streets still run on wiring laid a generation ago. We test circuit load and earthing before any installation, and recommend the right MCB and stabiliser so a 1.5-ton unit never strains an old line."
+      "description": "Many homes around the Mada Streets still run on wiring laid a generation ago. We test circuit load and earthing on service visits, and recommend the right MCB and stabiliser so a 1.5-ton unit never strains an old line."
     },
     {
       "title": "Salt air from the Santhome shore",
@@ -34,13 +34,13 @@
       "description": "Thick-walled agraharam-style rooms are smaller than they look, and an oversized AC short-cycles — cold but clammy in coastal humidity. We size tonnage for the room you actually have, not the one on the brochure."
     },
     {
-      "title": "Narrow lanes, careful installs",
-      "description": "Service vans cannot enter many lanes off Bazaar Road and Appu Street, and outdoor units often sit on ageing parapets. Our technicians plan the mount, carry equipment in on foot, and never overload an old ledge."
+      "title": "Narrow lanes, careful access",
+      "description": "Service vans cannot enter many lanes off Bazaar Road and Appu Street, and outdoor units often sit on ageing parapets. Our technicians carry equipment in on foot and work without overloading an old ledge."
     }
   ],
   "popularServices": [
     "split-ac-service",
-    "ac-installation",
+    "ac-uninstallation",
     "ac-deep-cleaning",
     "ac-gas-filling",
     "ac-water-leakage",
@@ -50,7 +50,7 @@
     {
       "name": "Ganesan V.",
       "area": "North Mada Street",
-      "quote": "Our house near the temple tank has wiring from my father's time. The technician checked the load before installing the new Daikin and fitted a stabiliser. No shortcuts.",
+      "quote": "Our house near the temple tank has wiring from my father's time. The technician checked the load before servicing the Daikin and fitted a stabiliser. No shortcuts.",
       "rating": 5
     },
     {
@@ -70,8 +70,8 @@
       "answer": "All of it — the four Mada Streets around Kapaleeshwarar temple, Luz Corner, R.K. Mutt Road, Kutchery Road, Mandaveli, and Santhome up to the shoreline. If your lane is too narrow for a van, the technician walks the last stretch with his kit."
     },
     {
-      "question": "Is it safe to install a new AC in an older Mylapore home?",
-      "answer": "Yes, provided the electrical work is done properly. Before installation we test circuit load and earthing, and we will tell you plainly if the wiring needs a dedicated line or a stabiliser first. Split installation starts from ₹1,499 plus materials, with mounting planned around old walls and parapets."
+      "question": "Is it safe to run a 1.5-ton AC on older Mylapore wiring?",
+      "answer": "We test circuit load and earthing on every visit, and we will tell you plainly if the wiring needs a dedicated line or a stabiliser first. A basic split service starts from ₹499."
     },
     {
       "question": "Do you charge more in Mylapore than elsewhere in Chennai?",
