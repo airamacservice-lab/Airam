@@ -9,15 +9,15 @@ import { breadcrumbSchema } from "@/lib/schema";
 import { site } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "AC Services in Chennai — Repair, Installation, AMC & Commercial",
+  title: "AC Services in Chennai — Repair, AMC & Commercial",
   description:
-    "Every AC service Airam offers in Chennai: repair, gas filling, deep cleaning, installation, AMC plans and commercial VRV/VRF service — transparent pricing on every page.",
+    "Every AC service Airam offers in Chennai: repair, gas filling, deep cleaning, AMC plans and commercial VRV/VRF service — transparent pricing on every page.",
   alternates: { canonical: "/services" },
 };
 
 const categories: Array<{ key: Service["category"]; label: string; sub: string }> = [
   { key: "repair", label: "Repair & Diagnosis", sub: "Fix what's wrong, priced before we start" },
-  { key: "installation", label: "Installation & Removal", sub: "Done to spec, first time" },
+  { key: "installation", label: "Uninstallation & Removal", sub: "Gas-safe takedown for moves and renovations" },
   { key: "maintenance", label: "Maintenance & AMC", sub: "Prevent the breakdown, not just fix it" },
   { key: "commercial", label: "Commercial & Large Systems", sub: "VRV, VRF and fleet contracts" },
 ];
@@ -41,7 +41,7 @@ export default function ServicesPage() {
             Every AC problem. <span className="text-gradient">One trusted team.</span>
           </h1>
           <p className="sub mt-6">
-            {services.length} services across repair, installation, maintenance and
+            {services.length} services across repair, uninstallation, maintenance and
             commercial systems — every one priced upfront and backed in writing.
           </p>
         </div>
